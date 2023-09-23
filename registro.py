@@ -137,6 +137,8 @@ def registrar_gasto():
 
 
 def ver_dinero():
+    sumatoriaEfectivo = 0
+    sumatoriaBanco = 0
     print("\nDinero disponible:")
     
     # Ordenar la lista de dinero por el atributo tipo
@@ -148,7 +150,14 @@ def ver_dinero():
     
     for dinero in dinero_ordenado:
         print("{:<10} {:<15} {:<10}".format(dinero.cantidad, dinero.concepto, dinero.tipo))
+        if dinero.tipo == "Efectivo":
+            sumatoriaEfectivo += dinero.cantidad
+        if dinero.tipo == "Banco":
+            sumatoriaBanco += dinero.cantidad
     
+    print()
+    print("Total efectivo: "+str(sumatoriaEfectivo))
+    print("Total banco: "+str(sumatoriaBanco))
     print()
 
 
