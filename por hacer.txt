@@ -1,0 +1,1 @@
+indicar que al registrar un gasto, me filtre los lugares por origen, tambien que me muestre las cantidades disponibles
