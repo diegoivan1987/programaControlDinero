@@ -11,7 +11,7 @@
 01-01-2000,yo,350.0,sifu,ma no tocar,Efectivo,no,
 13-09-2023,ma,0.0,netflix,vuelto ma,Efectivo,si,22-09-2023
 13-09-2023,ma,0.0,netflix,ma no tocar,Efectivo,si,22-09-2023
-17-09-2023,ma,150.0,recargas,credito,Efectivo,no,
+17-09-2023,ma,0.0,recargas,credito,credito,si,21-09-2023
 19-09-2023,yo,10.0,recarga,credito,credito,no,
 20-09-2023,yo,21.0,pastel,credito,credito,no,
 21-09-2023,yo,188.0,burger king,credito,credito,no,
@@ -22,3 +22,5 @@
 22-09-2023,yo,29.0,pan,ma no tocar,Efectivo,no,
 22-09-2023,yo,100.0,cabello,ma no tocar,Efectivo,no,
 22-09-2023,yo,13.0,coca,ma no tocar,Efectivo,no,
+23-09-2023,yo,340.0,nieves,gastos,Efectivo,no,
+25-09-2023,yo,313.5,fluoxetina,gastos,Efectivo,no,

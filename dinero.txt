@@ -1,10 +1,10 @@
 11000.0,inversion,cetes
 40.0,milly,Efectivo
-871.5,ma no tocar,Efectivo
+721.5,ma no tocar,Efectivo
 0.0,prestamo ma,Efectivo
 85.0,vuelto ma,Efectivo
-0.0,credito,credito
-2000.0,gastos,Efectivo
+150.0,credito,credito
+1346.5,gastos,Efectivo
 100.0,inversion,gbm
 5.0,navidad,Banco
 136.0,ma no tocar,Banco

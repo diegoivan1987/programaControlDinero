@@ -78,7 +78,6 @@ def registrar_dinero():
     guardar_datos()
 
 def registrar_gasto():
-
     # Verificar la cantidad
     cantidad = float(input("Ingresa la cantidad gastada: "))
     conceptoGasto = input("Ingresa el motivo del gasto: ")
@@ -108,18 +107,20 @@ def registrar_gasto():
         print("Opción no válida, por favor ingresa un número de la lista.")
         return
     
-    # Listar conceptos disponibles
-    conceptos = list(set([dinero.concepto for dinero in dinero_disponible]))
+    # Listar conceptos disponibles relacionados al origen elegido
+    conceptos_relacionados = list(set([dinero.concepto for dinero in dinero_disponible if dinero.tipo == origen]))
     print("Conceptos disponibles:")
-    for i, concepto in enumerate(conceptos, start=1):
-        print(f"{i}. {concepto}")
+    if not conceptos_relacionados:
+        print("No hay conceptos disponibles para el origen elegido.")
+        return
+    for i, concepto in enumerate(conceptos_relacionados, start=1):
+        print(f"{i}. {concepto} - {next(dinero.cantidad for dinero in dinero_disponible if dinero.concepto == concepto and dinero.tipo == origen)} disponibles")
     opcion_concepto = input("Elige un concepto: ")
-    if opcion_concepto.isdigit() and int(opcion_concepto) <= len(conceptos):
-        conceptoDisponible = conceptos[int(opcion_concepto) - 1]
+    if opcion_concepto.isdigit() and int(opcion_concepto) <= len(conceptos_relacionados):
+        conceptoDisponible = conceptos_relacionados[int(opcion_concepto) - 1]
     else:
         print("Opción no válida, por favor ingresa un número de la lista.")
         return
-    
     
     # Verificar disponibilidad de fondos
     for dinero in dinero_disponible:
@@ -134,6 +135,7 @@ def registrar_gasto():
     gastos_registrados.append(gasto)
     print("Gasto registrado exitosamente!\n")
     guardar_datos()
+
 
 
 def ver_dinero():
