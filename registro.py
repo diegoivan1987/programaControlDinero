@@ -50,11 +50,12 @@ def menu():
     print("4. Ver dinero disponible")
     print("5. Ver gastos registrados")
     print("6. Ver total de deuda de una persona")
-    print("7. Salir")
+    print("7. Hacer un movimiento de dinero")
+    print("8. Salir")
 
     while True:
         opcion = input("Selecciona una opción: ")
-        if opcion in ['1', '2', '3', '4', '5', '6', '7']:
+        if opcion in ['1', '2', '3', '4', '5', '6', '7','8']:
             return opcion
         else:
             print("Opción no válida, por favor ingresa un número del 1 al 7.")
@@ -136,6 +137,75 @@ def registrar_gasto():
     print("Gasto registrado exitosamente!\n")
     guardar_datos()
 
+def mover_dinero():
+    # Listar orígenes disponibles
+    origenes = list(set([dinero.tipo for dinero in dinero_disponible]))
+    print("Orígenes disponibles:")
+    for i, origen in enumerate(origenes, start=1):
+        print(f"{i}. {origen}")
+    origen_inicial_opcion = input("Elige el origen inicial del dinero: ")
+    
+    if origen_inicial_opcion.isdigit() and int(origen_inicial_opcion) <= len(origenes):
+        origen_inicial = origenes[int(origen_inicial_opcion) - 1]
+    else:
+        print("Opción no válida, por favor ingresa un número de la lista.")
+        return
+    
+    # Listar conceptos disponibles para el origen inicial seleccionado
+    conceptos_iniciales = list(set([dinero.concepto for dinero in dinero_disponible if dinero.tipo == origen_inicial]))
+    print("Conceptos disponibles en el origen inicial:")
+    for i, concepto in enumerate(conceptos_iniciales, start=1):
+        print(f"{i}. {concepto}")
+    concepto_opcion = input("Elige el concepto del dinero a mover: ")
+    
+    if concepto_opcion.isdigit() and int(concepto_opcion) <= len(conceptos_iniciales):
+        concepto_seleccionado = conceptos_iniciales[int(concepto_opcion) - 1]
+    else:
+        print("Opción no válida, por favor ingresa un número de la lista.")
+        return
+    
+    # Encuentra y muestra la cantidad disponible en el concepto seleccionado
+    cantidad_disponible = next((dinero.cantidad for dinero in dinero_disponible if dinero.tipo == origen_inicial and dinero.concepto == concepto_seleccionado), 0)
+    print(f"Cantidad disponible en {origen_inicial} - {concepto_seleccionado}: {cantidad_disponible}")
+    
+    # Elegir origen final
+    print("Orígenes disponibles para mover el dinero:")
+    for i, origen in enumerate(origenes, start=1):
+        print(f"{i}. {origen}")
+    origen_final_opcion = input("Elige el origen final del dinero: ")
+    
+    if origen_final_opcion.isdigit() and int(origen_final_opcion) <= len(origenes):
+        origen_final = origenes[int(origen_final_opcion) - 1]
+    else:
+        print("Opción no válida, por favor ingresa un número de la lista.")
+        return
+    
+    # Pide al usuario ingresar el monto a mover
+    cantidad_a_mover = float(input("Ingresa la cantidad de dinero a mover: "))
+    
+    # Verifica si la cantidad a mover es válida
+    if cantidad_a_mover > cantidad_disponible or cantidad_a_mover <= 0:
+        print("Cantidad no válida. Debe ser un valor positivo y menor o igual a la cantidad disponible.")
+        return
+    
+    # Mover el dinero
+    for dinero in dinero_disponible:
+        if dinero.tipo == origen_inicial and dinero.concepto == concepto_seleccionado:
+            dinero.cantidad -= cantidad_a_mover  # Resta la cantidad a mover del origen inicial
+    
+    # Si el concepto ya existe en el origen final, añadir el dinero a ese concepto
+    for dinero in dinero_disponible:
+        if dinero.tipo == origen_final and dinero.concepto == concepto_seleccionado:
+            dinero.cantidad += cantidad_a_mover  # Suma la cantidad a mover al origen final
+            print("Dinero movido exitosamente!")
+            guardar_datos()
+            return
+    
+    # Si el concepto no existe en el origen final, crear un nuevo objeto Dinero y añadirlo a la lista
+    nuevo_dinero = Dinero(cantidad_a_mover, concepto_seleccionado, origen_final)
+    dinero_disponible.append(nuevo_dinero)
+    print("Dinero movido y nuevo concepto creado exitosamente!")
+    guardar_datos()
 
 
 def ver_dinero():
@@ -275,6 +345,8 @@ if __name__ == "__main__":
         elif opcion == '6':
             ver_total_por_persona()
         elif opcion == '7':
+            mover_dinero()
+        elif opcion == '8':
             break
         else:
             print("Opción no válida, intenta de nuevo.")
