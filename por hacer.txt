@@ -1,1 +1,2 @@
-indicar que al registrar un gasto, me filtre los lugares por origen, tambien que me muestre las cantidades disponibles
+indicar que me haga un log de cada accion realizada
+hacer un analisis de todas las acciones que hago y como las hago

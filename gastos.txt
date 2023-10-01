@@ -12,10 +12,10 @@
 13-09-2023,ma,0.0,netflix,vuelto ma,Efectivo,si,22-09-2023
 13-09-2023,ma,0.0,netflix,ma no tocar,Efectivo,si,22-09-2023
 17-09-2023,ma,0.0,recargas,credito,credito,si,21-09-2023
-19-09-2023,yo,10.0,recarga,credito,credito,no,
-20-09-2023,yo,21.0,pastel,credito,credito,no,
-21-09-2023,yo,188.0,burger king,credito,credito,no,
-22-09-2023,yo,179.0,pastel,credito,credito,no,
+19-09-2023,yo,0.0,recarga,credito,credito,si,23-09-2023
+20-09-2023,yo,0.0,pastel,credito,credito,si,23-09-2023
+21-09-2023,yo,0.0,burger king,credito,credito,si,23-09-2023
+22-09-2023,yo,0.0,pastel,credito,credito,si,23-09-2023
 19-09-2023,yo,25.0,suero,ma no tocar,Efectivo,no,
 19-09-2023,yo,23.0,donitas,ma no tocar,Efectivo,no,
 19-09-2023,yo,10.0,camion,ma no tocar,Efectivo,no,
@@ -24,3 +24,22 @@
 22-09-2023,yo,13.0,coca,ma no tocar,Efectivo,no,
 23-09-2023,yo,340.0,nieves,gastos,Efectivo,no,
 25-09-2023,yo,313.5,fluoxetina,gastos,Efectivo,no,
+23-09-2023,yo,10.0,propina,gastos,Banco,no,
+25-09-2023,yo,16.0,nito,ma no tocar,Efectivo,no,
+25-09-2023,yo,19.0,pan,ma no tocar,Efectivo,no,
+25-09-2023,yo,21.0,chocolate,ma no tocar,Efectivo,no,
+26-09-2023,yo,28.0,nieve,ma no tocar,Efectivo,no,
+25-09-2023,yo,1300.0,orden de pago,gastos,Efectivo,no,
+25-09-2023,yo,165.0,orden de pago,ma no tocar,Efectivo,no,
+26-09-2023,yo,30.0,tienda,ma no tocar,Efectivo,no,
+28-09-2023,yo,123.0,pastel,credito,credito,no,
+28-09-2023,pa,3830.0,pago celdas,celdas pa,Banco,no,
+28-09-2023,yo,50.0,consulta,gastos,Efectivo,no,
+28-09-2023,yo,104.0,crema,gastos,Efectivo,no,
+27-09-2023,yo,150.0,cartuchos,gastos,Efectivo,no,
+28-09-2023,ma,100.0,recarga ma,credito,credito,no,
+28-09-2023,ma,100.0,recarga leo,credito,credito,no,
+30-09-2023,ma,200.0,hector,prestamo pa para hector,Efectivo,no,
+30-09-2023,ma,20.0,propina hector,ma no tocar,Efectivo,no,
+30-09-2023,ma,264.0,pizza,credito,credito,no,
+05-09-2023,ma,750.0,megacable,desconocido usado para compensar,Efectivo,no,

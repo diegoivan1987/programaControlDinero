@@ -242,6 +242,8 @@ def ver_gastos():
     print()
 
 
+import datetime  # Importar el módulo datetime
+
 def registrar_pago():
     print("\nGastos no pagados:")
     
@@ -251,6 +253,10 @@ def registrar_pago():
     if not gastos_no_pagados:
         print("0 gastos no pagados.")
         return
+    
+    # Convertir las fechas de string a objetos datetime y ordenar los gastos por fecha
+    formato_fecha = "%d-%m-%Y"  # Definir el formato de fecha
+    gastos_no_pagados.sort(key=lambda x: datetime.datetime.strptime(x.fecha, formato_fecha))
     
     # Mostrar gastos no pagados
     for i, gasto in enumerate(gastos_no_pagados, start=1):
@@ -272,20 +278,56 @@ def registrar_pago():
         print("La cantidad ingresada no puede ser mayor al gasto.")
         return
     
+    tipo_pago = input("Elige el tipo de pago (externo/interno): ")
+    
+    if tipo_pago == 'interno':
+        # Listar orígenes disponibles
+        origenes = list(set([dinero.tipo for dinero in dinero_disponible]))
+        print("Orígenes disponibles:")
+        for i, origen in enumerate(origenes, start=1):
+            print(f"{i}. {origen}")
+        opcion_origen = input("Elige un origen desde donde se hará el pago: ")
+        if not opcion_origen.isdigit() or int(opcion_origen) > len(origenes):
+            print("Opción no válida, por favor ingresa un número de la lista.")
+            return
+        origen_seleccionado = origenes[int(opcion_origen) - 1]
+        
+        # Listar conceptos disponibles para el origen seleccionado
+        conceptos_disponibles = list(set([dinero.concepto for dinero in dinero_disponible if dinero.tipo == origen_seleccionado]))
+        print("Conceptos disponibles:")
+        for i, concepto in enumerate(conceptos_disponibles, start=1):
+            print(f"{i}. {concepto}")
+        opcion_concepto = input("Elige un concepto desde donde se hará el pago: ")
+        if not opcion_concepto.isdigit() or int(opcion_concepto) > len(conceptos_disponibles):
+            print("Opción no válida, por favor ingresa un número de la lista.")
+            return
+        concepto_seleccionado = conceptos_disponibles[int(opcion_concepto) - 1]
+        
+        # Verificar disponibilidad de fondos
+        for dinero in dinero_disponible:
+            if dinero.concepto == concepto_seleccionado and dinero.tipo == origen_seleccionado:
+                if dinero.cantidad < cantidad_pago:
+                    print("Fondos insuficientes para realizar el pago.")
+                    return
+                else:
+                    dinero.cantidad -= cantidad_pago  # Restar el pago
+    
     # Actualizar el gasto y el dinero disponible
     gasto_seleccionado.cantidad -= cantidad_pago
-    
     if gasto_seleccionado.cantidad == 0:
         gasto_seleccionado.pagado = 'si'
         fecha_pagado = input("Ingresa la fecha de pago (DD-MM-YYYY): ")  # Añadir fecha de pago
         gasto_seleccionado.fechaPagado = fecha_pagado
     
+    # Sumar la cantidad pagada al origen y lugar relacionados
     for dinero in dinero_disponible:
         if dinero.concepto == gasto_seleccionado.origen and dinero.tipo == gasto_seleccionado.lugar:
             dinero.cantidad += cantidad_pago
     
     print("Pago registrado exitosamente!\n")
     guardar_datos()
+
+
 
 def seleccionar_opcion(opciones, mensaje):
     for i, opcion in enumerate(opciones, start=1):
@@ -303,10 +345,10 @@ def ver_total_por_persona():
     if not gastos_registrados:
         print("\nNo hay gastos registrados.\n")
         return
-
+    
     # Obtener lista única de personas
     personas = list(set(gasto.persona for gasto in gastos_registrados))
-
+    
     # Mostrar lista de personas
     print("\nSelecciona una persona:")
     for i, persona in enumerate(personas, 1):
@@ -323,9 +365,18 @@ def ver_total_por_persona():
     persona_seleccionada = personas[seleccion - 1]
     
     # Calcular el total de gastos de la persona seleccionada
-    total = sum(gasto.cantidad for gasto in gastos_registrados if gasto.persona == persona_seleccionada)
+    total = 0
+    print("\nGastos no pagados de", persona_seleccionada)
+    for gasto in gastos_registrados:
+        if gasto.persona == persona_seleccionada and gasto.pagado == 'no':
+            print(f"{gasto.concepto} - {gasto.cantidad} - {gasto.fecha} - {gasto.lugar} - {gasto.origen}")
+            total += gasto.cantidad
     
-    print(f"\nEl total de gastos de {persona_seleccionada} es: {total}\n")
+    if total == 0:
+        print("No hay gastos no pagados para esta persona.\n")
+    else:
+        print(f"\nEl total de gastos no pagados de {persona_seleccionada} es: {total}\n")
+
 
 
 if __name__ == "__main__":
