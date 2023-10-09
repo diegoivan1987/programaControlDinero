@@ -20,6 +20,47 @@ class Dinero:
 
 dinero_disponible = []
 gastos_registrados = []
+log_de_operaciones = []
+
+def cargar_log():
+    if os.path.exists('log.txt'):
+        with open('log.txt', 'r') as f:
+            for linea in f.readlines():
+                datos = linea.strip().split(',')
+                entrada = {
+                    "Operacion": datos[0],
+                    "Cantidad": float(datos[1]),
+                    "Lugar": datos[2] or None,
+                    "Origen": datos[3] or None,
+                    "Concepto": datos[4],
+                    "Fecha": datos[5]
+                }
+                log_de_operaciones.append(entrada)
+
+def agregar_log(operacion, cantidad, lugar, origen, concepto, fecha):
+    entrada = {
+        "Operacion": operacion,
+        "Cantidad": cantidad,
+        "Lugar": lugar,
+        "Origen": origen,
+        "Concepto": concepto,
+        "Fecha": fecha
+    }
+    log_de_operaciones.append(entrada)
+    guardar_log()  # Guarda el log después de agregar una entrada
+
+def guardar_log():
+    with open('log.txt', 'w') as f:
+        for entrada in log_de_operaciones:
+            f.write(f"{entrada['Operacion']},{entrada['Cantidad']},{entrada['Lugar'] or ''},{entrada['Origen'] or ''},{entrada['Concepto']},{entrada['Fecha']}\n")
+
+
+def mostrar_log():
+    for entrada in log_de_operaciones:
+        print("------")
+        for clave, valor in entrada.items():
+            print(f"{clave}: {valor}")
+
 
 def cargar_datos():
     if os.path.exists('dinero.txt'):
@@ -51,14 +92,15 @@ def menu():
     print("5. Ver gastos registrados")
     print("6. Ver total de deuda de una persona")
     print("7. Hacer un movimiento de dinero")
-    print("8. Salir")
+    print("8. Mostrar log")
+    print("9. Salir")
 
     while True:
         opcion = input("Selecciona una opción: ")
-        if opcion in ['1', '2', '3', '4', '5', '6', '7','8']:
+        if opcion in ['1', '2', '3', '4', '5', '6', '7','8','9']:
             return opcion
         else:
-            print("Opción no válida, por favor ingresa un número del 1 al 7.")
+            print("Opción no válida")
 
 
 def registrar_dinero():
@@ -76,6 +118,7 @@ def registrar_dinero():
     dinero = Dinero(cantidad, concepto, tipo)
     dinero_disponible.append(dinero)
     print("Dinero registrado exitosamente!\n")
+    agregar_log("Registrar dinero", cantidad, None, None, concepto, datetime.datetime.now().strftime("%d-%m-%Y"))  # Registrar en el log
     guardar_datos()
 
 def registrar_gasto():
@@ -135,6 +178,7 @@ def registrar_gasto():
     gasto = Gasto(fecha, persona, cantidad, conceptoGasto, conceptoDisponible, origen)
     gastos_registrados.append(gasto)
     print("Gasto registrado exitosamente!\n")
+    agregar_log("Registrar gasto", cantidad, origen, None, conceptoGasto, fecha)  # Registrar en el log
     guardar_datos()
 
 def mover_dinero():
@@ -198,6 +242,7 @@ def mover_dinero():
         if dinero.tipo == origen_final and dinero.concepto == concepto_seleccionado:
             dinero.cantidad += cantidad_a_mover  # Suma la cantidad a mover al origen final
             print("Dinero movido exitosamente!")
+            agregar_log("Mover dinero", cantidad_a_mover, origen_final, origen_inicial, concepto_seleccionado, datetime.datetime.now().strftime("%d-%m-%Y"))  # Registrar en el log
             guardar_datos()
             return
     
@@ -205,6 +250,7 @@ def mover_dinero():
     nuevo_dinero = Dinero(cantidad_a_mover, concepto_seleccionado, origen_final)
     dinero_disponible.append(nuevo_dinero)
     print("Dinero movido y nuevo concepto creado exitosamente!")
+    agregar_log("Mover dinero", cantidad_a_mover, origen_final, origen_inicial, concepto_seleccionado, datetime.datetime.now().strftime("%d-%m-%Y"))  # Registrar en el log
     guardar_datos()
 
 
@@ -332,6 +378,8 @@ def registrar_pago():
             dinero.cantidad += cantidad_pago
     
     print("Pago registrado exitosamente!\n")
+    agregar_log("Registrar pago", cantidad_pago, gasto_seleccionado.lugar, gasto_seleccionado.origen, gasto_seleccionado.concepto, datetime.datetime.now().strftime("%d-%m-%Y"))  # Registrar en el log
+    guardar_datos()
     guardar_datos()
 
 
@@ -387,6 +435,7 @@ def ver_total_por_persona():
 
 if __name__ == "__main__":
     cargar_datos()
+    cargar_log()
     while True:
         opcion = menu()
         if opcion == '1':
@@ -404,6 +453,8 @@ if __name__ == "__main__":
         elif opcion == '7':
             mover_dinero()
         elif opcion == '8':
+            mostrar_log()
+        elif opcion == '9':
             break
         else:
             print("Opción no válida, intenta de nuevo.")
