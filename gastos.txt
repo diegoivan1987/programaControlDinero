@@ -32,14 +32,21 @@
 25-09-2023,yo,1300.0,orden de pago,gastos,Efectivo,no,
 25-09-2023,yo,165.0,orden de pago,ma no tocar,Efectivo,no,
 26-09-2023,yo,30.0,tienda,ma no tocar,Efectivo,no,
-28-09-2023,yo,123.0,pastel,credito,credito,no,
+28-09-2023,yo,0.0,pastel,credito,credito,si,03-10-2023
 28-09-2023,pa,3830.0,pago celdas,celdas pa,Banco,no,
 28-09-2023,yo,50.0,consulta,gastos,Efectivo,no,
 28-09-2023,yo,104.0,crema,gastos,Efectivo,no,
 27-09-2023,yo,150.0,cartuchos,gastos,Efectivo,no,
-28-09-2023,ma,100.0,recarga ma,credito,credito,no,
-28-09-2023,ma,100.0,recarga leo,credito,credito,no,
-30-09-2023,ma,200.0,hector,prestamo pa para hector,Efectivo,no,
-30-09-2023,ma,20.0,propina hector,ma no tocar,Efectivo,no,
-30-09-2023,ma,264.0,pizza,credito,credito,no,
-05-09-2023,ma,750.0,megacable,desconocido usado para compensar,Efectivo,no,
+28-09-2023,ma,0.0,recarga ma,credito,credito,si,03-10-2023
+28-09-2023,ma,0.0,recarga leo,credito,credito,si,03-10-2023
+30-09-2023,ma,0.0,hector,prestamo pa para hector,Efectivo,si,03-10-2023
+30-09-2023,ma,0.0,propina hector,ma no tocar,Efectivo,si,03-10-2023
+30-09-2023,ma,0.0,pizza,credito,credito,si,03-10-2023
+05-09-2023,ma,0.0,megacable,desconocido usado para compensar,Efectivo,si,03-10-2023
+28-09-2023,yo,0.0,didi pack,credito,credito,si,03-10-2023
+28-09-2023,yo,23.0,tienda,ma no tocar,Efectivo,no,
+29-09-2023,yo,0.0,pizza,credito,credito,si,03-10-2023
+30-09-2023,yo,21.0,galletas,ma no tocar,Efectivo,no,
+30-09-2023,yo,15.0,leche,gastos,Efectivo,no,
+30-09-2023,yo,22.0,galletas,gastos,Efectivo,no,
+30-09-2023,yo,0.0,nieve,credito,credito,si,03-10-2023

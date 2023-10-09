@@ -258,9 +258,9 @@ def registrar_pago():
     formato_fecha = "%d-%m-%Y"  # Definir el formato de fecha
     gastos_no_pagados.sort(key=lambda x: datetime.datetime.strptime(x.fecha, formato_fecha))
     
-    # Mostrar gastos no pagados
+    # Mostrar gastos no pagados incluyendo lugar y origen
     for i, gasto in enumerate(gastos_no_pagados, start=1):
-        print(f"{i}. {gasto.persona} - {gasto.concepto} - {gasto.cantidad} - {gasto.fecha}")
+        print(f"{i}. {gasto.persona} - {gasto.concepto} - {gasto.cantidad} - {gasto.fecha} - Lugar: {gasto.lugar} - Origen: {gasto.origen}")
     
     opcion_gasto = int(input("Elige un gasto para pagar: "))
     
@@ -281,27 +281,34 @@ def registrar_pago():
     tipo_pago = input("Elige el tipo de pago (externo/interno): ")
     
     if tipo_pago == 'interno':
-        # Listar orígenes disponibles
-        origenes = list(set([dinero.tipo for dinero in dinero_disponible]))
-        print("Orígenes disponibles:")
-        for i, origen in enumerate(origenes, start=1):
-            print(f"{i}. {origen}")
+        # Acumular las cantidades por origen
+        origenes_disponibles = {}
+        for dinero in dinero_disponible:
+            if dinero.tipo not in origenes_disponibles:
+                origenes_disponibles[dinero.tipo] = dinero.cantidad
+            else:
+                origenes_disponibles[dinero.tipo] += dinero.cantidad
+        
+        # Mostrar orígenes disponibles y su cantidad
+        print("Orígenes disponibles y su cantidad:")
+        for i, (origen, cantidad) in enumerate(origenes_disponibles.items(), start=1):
+            print(f"{i}. {origen} - Cantidad: {cantidad}")
         opcion_origen = input("Elige un origen desde donde se hará el pago: ")
-        if not opcion_origen.isdigit() or int(opcion_origen) > len(origenes):
+        if not opcion_origen.isdigit() or int(opcion_origen) > len(origenes_disponibles):
             print("Opción no válida, por favor ingresa un número de la lista.")
             return
-        origen_seleccionado = origenes[int(opcion_origen) - 1]
+        origen_seleccionado = list(origenes_disponibles.keys())[int(opcion_origen) - 1]
         
-        # Listar conceptos disponibles para el origen seleccionado
-        conceptos_disponibles = list(set([dinero.concepto for dinero in dinero_disponible if dinero.tipo == origen_seleccionado]))
-        print("Conceptos disponibles:")
-        for i, concepto in enumerate(conceptos_disponibles, start=1):
-            print(f"{i}. {concepto}")
+        # Listar conceptos disponibles para el origen seleccionado y mostrar la cantidad disponible
+        conceptos_disponibles = {dinero.concepto: dinero.cantidad for dinero in dinero_disponible if dinero.tipo == origen_seleccionado}
+        print("Conceptos disponibles y su cantidad:")
+        for i, (concepto, cantidad) in enumerate(conceptos_disponibles.items(), start=1):
+            print(f"{i}. {concepto} - Cantidad: {cantidad}")
         opcion_concepto = input("Elige un concepto desde donde se hará el pago: ")
         if not opcion_concepto.isdigit() or int(opcion_concepto) > len(conceptos_disponibles):
             print("Opción no válida, por favor ingresa un número de la lista.")
             return
-        concepto_seleccionado = conceptos_disponibles[int(opcion_concepto) - 1]
+        concepto_seleccionado = list(conceptos_disponibles.keys())[int(opcion_concepto) - 1]
         
         # Verificar disponibilidad de fondos
         for dinero in dinero_disponible:
@@ -326,7 +333,6 @@ def registrar_pago():
     
     print("Pago registrado exitosamente!\n")
     guardar_datos()
-
 
 
 def seleccionar_opcion(opciones, mensaje):
