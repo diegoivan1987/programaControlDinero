@@ -169,11 +169,11 @@ def registrar_gasto():
     # Verificar disponibilidad de fondos
     for dinero in dinero_disponible:
         if dinero.concepto == conceptoDisponible and dinero.tipo == origen:
-            if dinero.cantidad < cantidad:
+            """if dinero.cantidad < cantidad:
                 print("Fondos insuficientes para registrar el gasto.")
                 return
-            else:
-                dinero.cantidad -= cantidad  # Restar el gasto
+            else:"""
+            dinero.cantidad -= cantidad  # Restar el gasto
     
     gasto = Gasto(fecha, persona, cantidad, conceptoGasto, conceptoDisponible, origen)
     gastos_registrados.append(gasto)
@@ -228,9 +228,9 @@ def mover_dinero():
     cantidad_a_mover = float(input("Ingresa la cantidad de dinero a mover: "))
     
     # Verifica si la cantidad a mover es válida
-    if cantidad_a_mover > cantidad_disponible or cantidad_a_mover <= 0:
+    """if cantidad_a_mover > cantidad_disponible or cantidad_a_mover <= 0:
         print("Cantidad no válida. Debe ser un valor positivo y menor o igual a la cantidad disponible.")
-        return
+        return"""
     
     # Mover el dinero
     for dinero in dinero_disponible:
@@ -359,11 +359,11 @@ def registrar_pago():
         # Verificar disponibilidad de fondos
         for dinero in dinero_disponible:
             if dinero.concepto == concepto_seleccionado and dinero.tipo == origen_seleccionado:
-                if dinero.cantidad < cantidad_pago:
+                """if dinero.cantidad < cantidad_pago:
                     print("Fondos insuficientes para realizar el pago.")
                     return
-                else:
-                    dinero.cantidad -= cantidad_pago  # Restar el pago
+                else:"""
+                dinero.cantidad -= cantidad_pago  # Restar el pago
     
     # Actualizar el gasto y el dinero disponible
     gasto_seleccionado.cantidad -= cantidad_pago

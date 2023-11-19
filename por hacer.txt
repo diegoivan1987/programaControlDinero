@@ -1,2 +1,2 @@
-indicar que me haga un log de cada accion realizada
-hacer un analisis de todas las acciones que hago y como las hago
+permitir que me deje elegir a donde ira el dinero de un pago
+permitir que me deje añadir dinero a un concepto ya existente

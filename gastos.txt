@@ -7,15 +7,8 @@
 01-01-2000,yo,11597.0,ahorro,ma no tocar,Efectivo,no,
 01-01-2000,yo,1270.0,ahorro,navidad,Efectivo,no,
 01-01-2000,yo,2491.0,mio,navidad,Efectivo,no,
-01-01-2000,yo,171.5,chatgpt,ma no tocar,Efectivo,no,
+01-01-2000,yo,126.0,chatgpt,ma no tocar,Efectivo,no,
 01-01-2000,yo,350.0,sifu,ma no tocar,Efectivo,no,
-13-09-2023,ma,0.0,netflix,vuelto ma,Efectivo,si,22-09-2023
-13-09-2023,ma,0.0,netflix,ma no tocar,Efectivo,si,22-09-2023
-17-09-2023,ma,0.0,recargas,credito,credito,si,21-09-2023
-19-09-2023,yo,0.0,recarga,credito,credito,si,23-09-2023
-20-09-2023,yo,0.0,pastel,credito,credito,si,23-09-2023
-21-09-2023,yo,0.0,burger king,credito,credito,si,23-09-2023
-22-09-2023,yo,0.0,pastel,credito,credito,si,23-09-2023
 19-09-2023,yo,25.0,suero,ma no tocar,Efectivo,no,
 19-09-2023,yo,23.0,donitas,ma no tocar,Efectivo,no,
 19-09-2023,yo,10.0,camion,ma no tocar,Efectivo,no,
@@ -32,21 +25,78 @@
 25-09-2023,yo,1300.0,orden de pago,gastos,Efectivo,no,
 25-09-2023,yo,165.0,orden de pago,ma no tocar,Efectivo,no,
 26-09-2023,yo,30.0,tienda,ma no tocar,Efectivo,no,
-28-09-2023,yo,0.0,pastel,credito,credito,si,03-10-2023
-28-09-2023,pa,3830.0,pago celdas,celdas pa,Banco,no,
 28-09-2023,yo,50.0,consulta,gastos,Efectivo,no,
 28-09-2023,yo,104.0,crema,gastos,Efectivo,no,
 27-09-2023,yo,150.0,cartuchos,gastos,Efectivo,no,
-28-09-2023,ma,0.0,recarga ma,credito,credito,si,03-10-2023
-28-09-2023,ma,0.0,recarga leo,credito,credito,si,03-10-2023
-30-09-2023,ma,0.0,hector,prestamo pa para hector,Efectivo,si,03-10-2023
-30-09-2023,ma,0.0,propina hector,ma no tocar,Efectivo,si,03-10-2023
-30-09-2023,ma,0.0,pizza,credito,credito,si,03-10-2023
-05-09-2023,ma,0.0,megacable,desconocido usado para compensar,Efectivo,si,03-10-2023
-28-09-2023,yo,0.0,didi pack,credito,credito,si,03-10-2023
 28-09-2023,yo,23.0,tienda,ma no tocar,Efectivo,no,
-29-09-2023,yo,0.0,pizza,credito,credito,si,03-10-2023
 30-09-2023,yo,21.0,galletas,ma no tocar,Efectivo,no,
 30-09-2023,yo,15.0,leche,gastos,Efectivo,no,
 30-09-2023,yo,22.0,galletas,gastos,Efectivo,no,
-30-09-2023,yo,0.0,nieve,credito,credito,si,03-10-2023
+03-10-2023,yo,175.5,chatgpt,desconocido usado para compensar,Banco,no,
+03-10-2023,yo,150.0,sifu,desconocido usado para compensar,Efectivo,no,
+03-10-2023,yo,24.0,tienda,desconocido usado para compensar,Efectivo,no,
+03-10-2023,yo,4.0,tienda,gastos,Efectivo,no,
+03-10-2023,yo,3.0,pista,gastos,Efectivo,no,
+04-10-2023,yo,22.0,tienda,gastos,Efectivo,no,
+05-10-2023,yo,36.0,tienda,gastos,Efectivo,no,
+05-10-2023,yo,59.0,tienda,fisico,Efectivo,no,
+30-10-2023,yo,15.0,correr,gastos,Efectivo,no,
+09-10-2023,yo,100.0,nieve,gastos,Efectivo,no,
+10-10-2023,yo,5.0,tienda,gastos,Efectivo,no,
+10-10-2023,yo,296.0,medicina,gastos,Efectivo,no,
+10-10-2023,yo,204.0,medicina,ma no tocar,Efectivo,no,
+10-10-2023,yo,430.0,consulta,ma no tocar,Efectivo,no,
+09-10-2023,yo,25.63,host de heroku,desconocido usado para compensar,Banco,no,
+11-10-2023,yo,18.0,galletas,ma no tocar,Efectivo,no,
+12-10-2023,yo,18.0,galletas,ma no tocar,Efectivo,no,
+14-10-2023,yo,29.0,pan,ma no tocar,Efectivo,no,
+19-10-2023,yo,5.0,regalado,posible compra pa,Efectivo,no,
+22-10-2023,yo,28.0,tienda,gastos,Efectivo,no,
+23-10-2023,ma,0.0,nieves,credito,Efectivo,si,18-11-2023
+21-10-2023,yo,0.0,pastel,credito,credito,si,05-11-2023
+24-10-2023,yo,29.0,tienda,gastos,Efectivo,no,
+05-11-2023,yo,130.0,tienda,ma no tocar,Efectivo,no,
+05-11-2023,ma,0.0,pinol,ma no tocar,Efectivo,si,05-11-2023
+05-11-2023,ma,0.0,impresora,ma no tocar,Efectivo,si,05-11-2023
+27-10-2023,yo,0.0,desayuno,credito,credito,si,05-11-2023
+05-11-2023,yo,15.0,propina luis,ma no tocar,Efectivo,no,
+28-10-2023,yo,26.0,boleto,gastos,Banco,no,
+05-11-2023,yisus,0.0,prestamo,ma no tocar,Efectivo,si,05-11-2023
+28-10-2023,yo,0.0,didi,credito,credito,si,05-11-2023
+28-10-2023,yo,15.0,nieve,ma no tocar,Efectivo,no,
+29-10-2023,yo,0.0,nieve,credito,credito,si,05-11-2023
+29-10-2023,yo,0.0,didi pack,credito,credito,si,05-11-2023
+29-10-2023,ma,0.0,pizza,credito,credito,si,18-11-2023
+29-10-2023,yo,0.0,propina,credito,credito,si,05-11-2023
+29-10-2023,ma,0.0,dq,credito,credito,si,18-11-2023
+29-10-2023,yo,0.0,propina,credito,credito,si,05-11-2023
+05-11-2023,yo,299.0,tienda,ma no tocar,Efectivo,no,
+01-11-2023,ma,720.0,megacable abuelo,prestamo de ivan,credito,si,05-11-2023
+01-11-2023,ma,0.0,burger king,desconocido usado para compensar,Banco,si,01-11-2023
+03-11-2023,yo,140.0,pastel,gastos,Efectivo,no,
+03-11-2023,yo,100.0,cabello,gastos,Efectivo,no,
+03-11-2023,yo,350.0,sifu,gastos,Efectivo,no,
+01-11-2023,yo,0.0,chatgpt,credito,credito,si,18-11-2023
+03-11-2023,ma,0.0,megacable,credito,credito,si,18-11-2023
+18-11-2023,yo,500.0,consulta,gastos,Efectivo,no,
+18-11-2023,yo,0.0,medicina,credito,credito,si,18-11-2023
+18-11-2023,yo,0.0,nieve,credito,credito,si,18-11-2023
+18-11-2023,yo,100.0,desayuno,gastos,Efectivo,no,
+18-11-2023,ma,0.0,plateado,ma no tocar,Efectivo,si,18-11-2023
+18-11-2023,yo,0.0,didi pack,credito,credito,si,18-11-2023
+15-11-2023,yo,119.0,desayuno,gastos,Efectivo,no,
+09-11-2023,ma,0.0,didi tanatologa,gastos,Efectivo,si,18-11-2023
+09-11-2023,yo,30.0,camion,gastos,Efectivo,no,
+18-11-2023,yo,15.0,pan,ma no tocar,Efectivo,no,
+18-11-2023,yo,13.0,coca,credito,Efectivo,no,
+18-11-2023,yo,10.0,cafe,credito,Efectivo,no,
+15-11-2023,yo,828.0,ropa,credito,Efectivo,no,
+18-11-2023,yo,120.0,comida,credito,Efectivo,no,
+15-11-2023,ma,270.0,pizza,credito,Efectivo,no,
+16-11-2023,yo,63.0,pizza,gastos,Efectivo,no,
+18-11-2023,yo,0.0,crunchy,migue,Efectivo,si,18-11-2023
+18-11-2023,ma,0.0,trituradora,trituradora,Banco,si,18-11-2023
+18-11-2023,yo,16.5,prestamo,ma no tocar,Efectivo,no,
+18-11-2023,ma,0.0,audifonos,terreno,Banco,si,18-11-2023
+18-11-2023,ma,0.0,pizza,terreno,Banco,si,18-11-2023
+18-11-2023,ma,0.0,compras,compras,Efectivo,si,18-11-2023

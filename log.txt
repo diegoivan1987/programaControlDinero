@@ -1,0 +1,110 @@
+Registrar gasto,130.0,Efectivo,,tienda,05-11-2023
+Registrar gasto,28.0,Efectivo,,pinol,05-11-2023
+Registrar gasto,75.0,Efectivo,,impresora,05-11-2023
+Registrar gasto,98.0,credito,,desayuno,27-10-2023
+Registrar gasto,15.0,Efectivo,,propina luis,05-11-2023
+Registrar gasto,26.0,Banco,,boleto,28-10-2023
+Registrar gasto,180.0,Efectivo,,prestamo,05-11-2023
+Registrar pago,180.0,Efectivo,ma no tocar,prestamo,05-11-2023
+Mover dinero,180.0,Banco,Efectivo,ma no tocar,05-11-2023
+Registrar gasto,107.0,credito,,didi,28-10-2023
+Registrar pago,71.0,credito,credito,didi,05-11-2023
+Mover dinero,71.0,Banco,credito,credito,05-11-2023
+Registrar gasto,15.0,Efectivo,,nieve,28-10-2023
+Registrar gasto,137.0,credito,,nieve,29-10-2023
+Registrar gasto,49.0,credito,,didi pack,29-10-2023
+Registrar gasto,160.65,credito,,pizza,29-10-2023
+Registrar gasto,10.0,credito,,propina,29-10-2023
+Registrar gasto,173.0,credito,,dq,29-10-2023
+Registrar gasto,10.0,credito,,propina,29-10-2023
+Registrar dinero,400.0,,,gastos,05-11-2023
+Registrar dinero,800.0,,,gastos,05-11-2023
+Registrar gasto,299.0,Efectivo,,tienda,05-11-2023
+Registrar dinero,720.0,,,megacable abuelo,05-11-2023
+Registrar dinero,720.0,,,prestamo de ivan,05-11-2023
+Mover dinero,720.0,credito,Banco,prestamo de ivan,05-11-2023
+Registrar gasto,720.0,credito,,megacable abuelo,01-11-2023
+Registrar gasto,300.0,Banco,,burger king,01-11-2023
+Registrar pago,300.0,Banco,desconocido usado para compensar,burger king,05-11-2023
+Mover dinero,300.0,Efectivo,Banco,desconocido usado para compensar,05-11-2023
+Registrar gasto,140.0,Efectivo,,pastel,03-11-2023
+Registrar gasto,100.0,Efectivo,,cabello,03-11-2023
+Mover dinero,861.0,Banco,Efectivo,gastos,05-11-2023
+Mover dinero,861.0,Efectivo,Banco,gastos,05-11-2023
+Mover dinero,0.0,Banco,Efectivo,vuelto ma,05-11-2023
+Mover dinero,969.0,Banco,Efectivo,gastos,05-11-2023
+Mover dinero,474.0,Banco,Efectivo,desconocido usado para compensar,05-11-2023
+Mover dinero,57.0,Banco,Efectivo,ma no tocar,05-11-2023
+Registrar pago,49.0,credito,credito,didi pack,05-11-2023
+Registrar pago,154.0,credito,credito,pastel,05-11-2023
+Registrar pago,10.0,credito,credito,propina,05-11-2023
+Registrar pago,10.0,credito,credito,propina,05-11-2023
+Registrar pago,137.0,credito,credito,nieve,05-11-2023
+Registrar pago,36.0,credito,credito,didi,05-11-2023
+Registrar pago,98.0,credito,credito,desayuno,05-11-2023
+Registrar gasto,350.0,Efectivo,,sifu,03-11-2023
+Registrar gasto,358.5,credito,,chatgpt,01-11-2023
+Registrar gasto,780.0,credito,,megacable,03-11-2023
+Registrar pago,75.0,Efectivo,ma no tocar,impresora,05-11-2023
+Registrar pago,28.0,Efectivo,ma no tocar,pinol,05-11-2023
+Registrar pago,103.0,credito,credito,dq,05-11-2023
+Mover dinero,103.0,Efectivo,credito,credito,05-11-2023
+Registrar pago,179.0,credito,credito,chatgpt,05-11-2023
+Mover dinero,173.0,Banco,credito,credito,05-11-2023
+Mover dinero,243.0,Efectivo,Banco,ma no tocar,05-11-2023
+Mover dinero,527.13,Efectivo,Banco,desconocido usado para compensar,05-11-2023
+Mover dinero,179.0,credito,Banco,credito,05-11-2023
+Registrar gasto,500.0,Efectivo,,consulta,18-11-2023
+Registrar gasto,518.0,credito,,medicina,18-11-2023
+Registrar gasto,130.0,credito,,nieve,18-11-2023
+Registrar gasto,100.0,Efectivo,,desayuno,18-11-2023
+Registrar gasto,10.0,Efectivo,,plateado,18-11-2023
+Registrar gasto,39.0,credito,,didi pack,18-11-2023
+Registrar gasto,119.0,Efectivo,,desayuno,15-11-2023
+Registrar gasto,92.0,Efectivo,,didi tanatologa,09-11-2023
+Registrar gasto,30.0,Efectivo,,camion,09-11-2023
+Registrar gasto,15.0,Efectivo,,pan,18-11-2023
+Registrar gasto,13.0,Efectivo,,coca,18-11-2023
+Registrar gasto,10.0,Efectivo,,cafe,18-11-2023
+Registrar dinero,299.0,,,netflix,18-11-2023
+Registrar pago,92.0,Efectivo,gastos,didi tanatologa,18-11-2023
+Registrar pago,780.0,credito,credito,megacable,18-11-2023
+Mover dinero,780.0,Efectivo,credito,credito,18-11-2023
+Registrar pago,70.0,credito,credito,dq,18-11-2023
+Mover dinero,70.0,Efectivo,credito,credito,18-11-2023
+Registrar pago,160.5,credito,credito,pizza,18-11-2023
+Mover dinero,160.5,Efectivo,credito,credito,18-11-2023
+Registrar pago,173.0,Efectivo,credito,nieves,18-11-2023
+Registrar pago,10.0,Efectivo,ma no tocar,plateado,18-11-2023
+Registrar gasto,828.0,Efectivo,,ropa,15-11-2023
+Registrar gasto,120.0,Efectivo,,comida,18-11-2023
+Registrar gasto,270.0,Efectivo,,pizza,15-11-2023
+Registrar dinero,100.0,,,prestamo pa,18-11-2023
+Registrar gasto,100.0,Efectivo,,pizza,16-11-2023
+Registrar gasto,63.0,Efectivo,,pizza,16-11-2023
+Registrar gasto,100.0,Efectivo,,pago de prestamo,18-11-2023
+Registrar gasto,132.0,Efectivo,,prestamo,18-11-2023
+Registrar gasto,20.0,Efectivo,,crunchy,18-11-2023
+Registrar pago,20.0,Efectivo,migue,crunchy,18-11-2023
+Registrar pago,80.0,Efectivo,yisus,prestamo,18-11-2023
+Registrar dinero,1250.0,,,trituradora,18-11-2023
+Registrar gasto,1250.0,Banco,,trituradora,18-11-2023
+Registrar pago,1250.0,Banco,trituradora,trituradora,18-11-2023
+Registrar dinero,1000.0,,,terreno,18-11-2023
+Registrar pago,39.0,credito,credito,didi pack,18-11-2023
+Registrar pago,130.0,credito,credito,nieve,18-11-2023
+Registrar pago,518.0,credito,credito,medicina,18-11-2023
+Registrar pago,45.5,Efectivo,ma no tocar,chatgpt,18-11-2023
+Registrar gasto,16.5,Efectivo,,prestamo,18-11-2023
+Registrar gasto,300.0,Banco,,audifonos,18-11-2023
+Registrar pago,300.0,Banco,terreno,audifonos,18-11-2023
+Mover dinero,300.0,Efectivo,Banco,terreno,18-11-2023
+Registrar gasto,268.0,Banco,,pizza,18-11-2023
+Registrar pago,268.0,Banco,terreno,pizza,18-11-2023
+Mover dinero,268.0,Efectivo,Banco,terreno,18-11-2023
+Registrar gasto,1255.5,Efectivo,,compras,18-11-2023
+Registrar pago,1255.5,Efectivo,compras,compras,18-11-2023
+Mover dinero,444.5,Banco,Efectivo,gastos,18-11-2023
+Registrar gasto,249.0,Banco,,regalo,18-11-2023
+Registrar gasto,30.0,Efectivo,,nieve,18-11-2023
+Registrar pago,163.0,credito,credito,chatgpt,18-11-2023
