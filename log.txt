@@ -108,3 +108,61 @@ Mover dinero,444.5,Banco,Efectivo,gastos,18-11-2023
 Registrar gasto,249.0,Banco,,regalo,18-11-2023
 Registrar gasto,30.0,Efectivo,,nieve,18-11-2023
 Registrar pago,163.0,credito,credito,chatgpt,18-11-2023
+Registrar dinero,0.0,,,prestamo pa,27-11-2023
+Registrar gasto,140.0,Efectivo,,hamburgesas,22-11-2023
+Registrar gasto,15.0,Efectivo,,pan,22-11-2023
+Registrar gasto,76.0,credito,,didi tanatologa,23-11-2023
+Registrar dinero,0.0,,,dinero que mi ma me pidio que le cobrara,27-11-2023
+Registrar gasto,450.0,Efectivo,,tanatologa,23-11-2023
+Registrar gasto,10.0,Efectivo,,tome dinero,27-11-2023
+Registrar pago,140.0,Efectivo,prestamo pa,hamburgesas,27-11-2023
+Registrar dinero,1000.0,,,compras pa,01-12-2023
+Registrar dinero,1500.0,,,deposito pa,01-12-2023
+Registrar pago,270.0,Efectivo,credito,pizza,01-12-2023
+Registrar pago,450.0,Efectivo,dinero que mi ma me pidio que le cobrara,tanatologa,01-12-2023
+Registrar pago,76.0,Efectivo,credito,didi tanatologa,01-12-2023
+Registrar gasto,18.0,Efectivo,,galletas,01-12-2023
+Registrar gasto,130.0,credito,,comida,29-11-2023
+Registrar gasto,803.0,Banco,,2 compras,29-11-2023
+Registrar gasto,79.0,Efectivo,,tienda,01-12-2023
+Registrar gasto,165.5,credito,,didi don pancho,30-11-2023
+Registrar gasto,96.5,credito,,pizza,01-12-2023
+Registrar pago,130.0,credito,credito,comida,01-12-2023
+Registrar pago,75.5,Efectivo,credito,comida,01-12-2023
+Registrar pago,96.5,credito,credito,pizza,01-12-2023
+Registrar gasto,37.0,Efectivo,,tienda,01-12-2023
+Registrar gasto,20.0,Efectivo,,galletas,04-12-2023
+Registrar gasto,350.0,Efectivo,,sifu,02-12-2023
+Registrar gasto,110.5,credito,,nieve,02-12-2023
+Registrar gasto,10.0,credito,,propina,02-12-2023
+Mover dinero,197.0,Efectivo,Banco,compras pa,04-12-2023
+Mover dinero,17.0,Efectivo,Banco,gastos,04-12-2023
+Registrar gasto,345.0,credito,,chatgpt,03-12-2023
+Registrar gasto,30.0,Efectivo,,dogo,03-12-2023
+Mover dinero,70.0,Banco,Efectivo,compras pa,04-12-2023
+Registrar gasto,19.0,Banco,,megacable abuelo,04-12-2023
+Registrar pago,10.0,credito,credito,propina,04-12-2023
+Registrar pago,101.0,credito,credito,nieve,04-12-2023
+Registrar pago,19.0,Banco,compras pa,megacable abuelo,09-12-2023
+Mover dinero,19.0,Efectivo,Banco,compras pa,09-12-2023
+Registrar gasto,16.0,Efectivo,,chocolate,09-12-2023
+Registrar gasto,28.0,Efectivo,,suavitel,09-12-2023
+Registrar gasto,4.0,Efectivo,,impresiones,09-12-2023
+Registrar gasto,100.0,credito,,recarga,04-12-2023
+Registrar pago,172.5,credito,credito,chatgpt,09-12-2023
+Mover dinero,172.5,Banco,credito,credito,09-12-2023
+Registrar gasto,279.0,credito,,cartuchos,04-12-2023
+Registrar gasto,53.0,credito,,didi tanatologa,07-12-2023
+Registrar gasto,133.0,credito,,didi cucsh,07-12-2023
+Registrar gasto,10.0,Efectivo,,tren,08-12-2023
+Registrar gasto,20.0,Efectivo,,tren mandados,07-12-2023
+Registrar gasto,50.0,Efectivo,,frappe,07-12-2023
+Registrar gasto,45.0,Efectivo,,tienda,07-12-2023
+Mover dinero,1100.0,Banco,Efectivo,gastos,09-12-2023
+Registrar pago,172.5,credito,credito,chatgpt,09-12-2023
+Registrar pago,9.5,credito,credito,nieve,09-12-2023
+Registrar pago,44.5,Efectivo,credito,comida,09-12-2023
+Mover dinero,773.5,credito,Banco,gastos,09-12-2023
+Registrar gasto,780.0,credito,,megacable,09-12-2023
+Mover dinero,172.5,credito,Banco,credito,09-12-2023
+Registrar pago,279.0,credito,credito,cartuchos,09-12-2023

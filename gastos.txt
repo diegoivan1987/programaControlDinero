@@ -52,51 +52,51 @@
 14-10-2023,yo,29.0,pan,ma no tocar,Efectivo,no,
 19-10-2023,yo,5.0,regalado,posible compra pa,Efectivo,no,
 22-10-2023,yo,28.0,tienda,gastos,Efectivo,no,
-23-10-2023,ma,0.0,nieves,credito,Efectivo,si,18-11-2023
-21-10-2023,yo,0.0,pastel,credito,credito,si,05-11-2023
 24-10-2023,yo,29.0,tienda,gastos,Efectivo,no,
 05-11-2023,yo,130.0,tienda,ma no tocar,Efectivo,no,
-05-11-2023,ma,0.0,pinol,ma no tocar,Efectivo,si,05-11-2023
-05-11-2023,ma,0.0,impresora,ma no tocar,Efectivo,si,05-11-2023
-27-10-2023,yo,0.0,desayuno,credito,credito,si,05-11-2023
 05-11-2023,yo,15.0,propina luis,ma no tocar,Efectivo,no,
 28-10-2023,yo,26.0,boleto,gastos,Banco,no,
-05-11-2023,yisus,0.0,prestamo,ma no tocar,Efectivo,si,05-11-2023
-28-10-2023,yo,0.0,didi,credito,credito,si,05-11-2023
 28-10-2023,yo,15.0,nieve,ma no tocar,Efectivo,no,
-29-10-2023,yo,0.0,nieve,credito,credito,si,05-11-2023
-29-10-2023,yo,0.0,didi pack,credito,credito,si,05-11-2023
-29-10-2023,ma,0.0,pizza,credito,credito,si,18-11-2023
-29-10-2023,yo,0.0,propina,credito,credito,si,05-11-2023
-29-10-2023,ma,0.0,dq,credito,credito,si,18-11-2023
-29-10-2023,yo,0.0,propina,credito,credito,si,05-11-2023
 05-11-2023,yo,299.0,tienda,ma no tocar,Efectivo,no,
-01-11-2023,ma,720.0,megacable abuelo,prestamo de ivan,credito,si,05-11-2023
-01-11-2023,ma,0.0,burger king,desconocido usado para compensar,Banco,si,01-11-2023
 03-11-2023,yo,140.0,pastel,gastos,Efectivo,no,
 03-11-2023,yo,100.0,cabello,gastos,Efectivo,no,
 03-11-2023,yo,350.0,sifu,gastos,Efectivo,no,
-01-11-2023,yo,0.0,chatgpt,credito,credito,si,18-11-2023
-03-11-2023,ma,0.0,megacable,credito,credito,si,18-11-2023
 18-11-2023,yo,500.0,consulta,gastos,Efectivo,no,
-18-11-2023,yo,0.0,medicina,credito,credito,si,18-11-2023
-18-11-2023,yo,0.0,nieve,credito,credito,si,18-11-2023
 18-11-2023,yo,100.0,desayuno,gastos,Efectivo,no,
-18-11-2023,ma,0.0,plateado,ma no tocar,Efectivo,si,18-11-2023
-18-11-2023,yo,0.0,didi pack,credito,credito,si,18-11-2023
 15-11-2023,yo,119.0,desayuno,gastos,Efectivo,no,
-09-11-2023,ma,0.0,didi tanatologa,gastos,Efectivo,si,18-11-2023
 09-11-2023,yo,30.0,camion,gastos,Efectivo,no,
 18-11-2023,yo,15.0,pan,ma no tocar,Efectivo,no,
 18-11-2023,yo,13.0,coca,credito,Efectivo,no,
 18-11-2023,yo,10.0,cafe,credito,Efectivo,no,
 15-11-2023,yo,828.0,ropa,credito,Efectivo,no,
-18-11-2023,yo,120.0,comida,credito,Efectivo,no,
-15-11-2023,ma,270.0,pizza,credito,Efectivo,no,
+18-11-2023,yo,0.0,comida,credito,Efectivo,si,09-12-2023
 16-11-2023,yo,63.0,pizza,gastos,Efectivo,no,
-18-11-2023,yo,0.0,crunchy,migue,Efectivo,si,18-11-2023
-18-11-2023,ma,0.0,trituradora,trituradora,Banco,si,18-11-2023
 18-11-2023,yo,16.5,prestamo,ma no tocar,Efectivo,no,
-18-11-2023,ma,0.0,audifonos,terreno,Banco,si,18-11-2023
-18-11-2023,ma,0.0,pizza,terreno,Banco,si,18-11-2023
-18-11-2023,ma,0.0,compras,compras,Efectivo,si,18-11-2023
+22-11-2023,yo,15.0,pan,ma no tocar,Efectivo,no,
+27-11-2023,yo,10.0,tome dinero,ma no tocar,Efectivo,no,
+01-12-2023,yo,18.0,galletas,gastos,Efectivo,no,
+29-11-2023,yo,0.0,comida,credito,credito,si,29-11-2023
+29-11-2023,pa,803.0,2 compras,compras pa,Banco,no,
+01-12-2023,yo,79.0,tienda,gastos,Efectivo,no,
+30-11-2023,ma,165.5,didi don pancho,credito,credito,no,
+01-12-2023,yo,0.0,pizza,credito,credito,si,01-12-2023
+01-12-2023,yo,37.0,tienda,gastos,Efectivo,no,
+04-12-2023,yo,20.0,galletas,gastos,Efectivo,no,
+02-12-2023,yo,350.0,sifu,gastos,Efectivo,no,
+02-12-2023,yo,0.0,nieve,credito,credito,si,09-12-2023
+02-12-2023,yo,0.0,propina,credito,credito,si,04-12-2023
+03-12-2023,yo,0.0,chatgpt,credito,credito,si,09-12-2023
+03-12-2023,yo,30.0,dogo,gastos,Efectivo,no,
+04-12-2023,ma,0.0,megacable abuelo,compras pa,Banco,si,09-12-2023
+09-12-2023,yo,16.0,chocolate,gastos,Efectivo,no,
+09-12-2023,ma,28.0,suavitel,gastos,Efectivo,no,
+09-12-2023,ma,4.0,impresiones,gastos,Efectivo,no,
+04-12-2023,ma,100.0,recarga,credito,credito,no,
+04-12-2023,ma,0.0,cartuchos,credito,credito,si,09-12-2023
+07-12-2023,ma,53.0,didi tanatologa,credito,credito,no,
+07-12-2023,ma,133.0,didi cucsh,credito,credito,no,
+08-12-2023,yo,10.0,tren,gastos,Efectivo,no,
+07-12-2023,ma,20.0,tren mandados,compras pa,Efectivo,no,
+07-12-2023,yo,50.0,frappe,compras pa,Efectivo,no,
+07-12-2023,yo,45.0,tienda,compras pa,Efectivo,no,
+09-12-2023,ma,780.0,megacable,credito,credito,no,
