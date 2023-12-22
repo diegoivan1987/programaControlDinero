@@ -166,3 +166,49 @@ Mover dinero,773.5,credito,Banco,gastos,09-12-2023
 Registrar gasto,780.0,credito,,megacable,09-12-2023
 Mover dinero,172.5,credito,Banco,credito,09-12-2023
 Registrar pago,279.0,credito,credito,cartuchos,09-12-2023
+Registrar pago,780.0,credito,credito,megacable,10-12-2023
+Mover dinero,780.0,Efectivo,credito,credito,10-12-2023
+Registrar pago,4.0,Efectivo,gastos,impresiones,10-12-2023
+Registrar pago,28.0,Efectivo,gastos,suavitel,10-12-2023
+Registrar pago,20.0,Efectivo,compras pa,tren mandados,10-12-2023
+Registrar pago,133.0,credito,credito,didi cucsh,10-12-2023
+Mover dinero,133.0,Efectivo,credito,credito,10-12-2023
+Registrar pago,53.0,credito,credito,didi tanatologa,10-12-2023
+Mover dinero,53.0,Efectivo,credito,credito,10-12-2023
+Registrar pago,100.0,credito,credito,recarga,10-12-2023
+Mover dinero,100.0,Efectivo,credito,credito,10-12-2023
+Registrar pago,165.5,credito,credito,didi don pancho,10-12-2023
+Mover dinero,165.5,Efectivo,credito,credito,10-12-2023
+Registrar dinero,1000.0,,,gastos de ma,10-12-2023
+Registrar gasto,364.0,Banco,,gomitas,11-12-2023
+Registrar gasto,17.0,Efectivo,,papas,11-12-2023
+Registrar gasto,290.0,Efectivo,,farmacia,22-12-2023
+Registrar gasto,100.0,credito,,recarga leo,12-12-2023
+Registrar gasto,20.0,Efectivo,,tren,13-12-2023
+Registrar gasto,28.0,Efectivo,,envoltura,13-12-2023
+Registrar gasto,400.0,Efectivo,,salida,13-12-2023
+Registrar gasto,80.0,Banco,,salida,13-12-2023
+Registrar gasto,20.0,Efectivo,,camion,14-12-2023
+Registrar gasto,53.0,Banco,,salida,14-12-2023
+Registrar gasto,38.0,credito,,comida,14-12-2023
+Registrar gasto,16.0,Efectivo,,chocolates,14-12-2023
+Registrar gasto,246.0,credito,,pasteles y capuchinos,16-12-2023
+Registrar gasto,20.0,Efectivo,,tren,15-12-2023
+Registrar gasto,215.0,Efectivo,,camfeteria,17-12-2023
+Registrar gasto,227.0,credito,,burger king,17-12-2023
+Registrar gasto,20.0,Efectivo,,impresiones,19-12-2023
+Registrar gasto,3.0,Efectivo,,queso,19-12-2023
+Registrar gasto,131.5,credito,,nieve,18-12-2023
+Registrar gasto,90.0,Efectivo,,cartucho taller,19-12-2023
+Registrar gasto,75.0,Efectivo,,cartucho casa,19-12-2023
+Registrar gasto,107.0,credito,,didi tanatologa,20-12-2023
+Registrar gasto,450.0,Efectivo,,tanatologa,20-12-2023
+Registrar gasto,30.0,Efectivo,,camion,20-12-2023
+Registrar gasto,50.0,Efectivo,,frappe,20-12-2023
+Registrar gasto,3486.0,Banco,,compras,21-12-2023
+Registrar gasto,15.0,Efectivo,,pan,21-12-2023
+Registrar gasto,100.0,credito,,recarga ma,21-12-2023
+Registrar gasto,15.0,Efectivo,,leche,22-12-2023
+Registrar gasto,299.0,Banco,,netflix,13-12-2023
+Registrar gasto,100.0,Banco,,pago a credito,12-12-2023
+Registrar gasto,130.5,credito,,pastel,22-12-2023
