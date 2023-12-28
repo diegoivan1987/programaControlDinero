@@ -69,66 +69,50 @@
 18-11-2023,yo,13.0,coca,credito,Efectivo,no,
 18-11-2023,yo,10.0,cafe,credito,Efectivo,no,
 15-11-2023,yo,828.0,ropa,credito,Efectivo,no,
-18-11-2023,yo,0.0,comida,credito,Efectivo,si,09-12-2023
 16-11-2023,yo,63.0,pizza,gastos,Efectivo,no,
 18-11-2023,yo,16.5,prestamo,ma no tocar,Efectivo,no,
 22-11-2023,yo,15.0,pan,ma no tocar,Efectivo,no,
 27-11-2023,yo,10.0,tome dinero,ma no tocar,Efectivo,no,
 01-12-2023,yo,18.0,galletas,gastos,Efectivo,no,
-29-11-2023,yo,0.0,comida,credito,credito,si,29-11-2023
 29-11-2023,pa,803.0,2 compras,compras pa,Banco,no,
 01-12-2023,yo,79.0,tienda,gastos,Efectivo,no,
-30-11-2023,ma,0.0,didi don pancho,credito,credito,si,10-12-2023
-01-12-2023,yo,0.0,pizza,credito,credito,si,01-12-2023
 01-12-2023,yo,37.0,tienda,gastos,Efectivo,no,
 04-12-2023,yo,20.0,galletas,gastos,Efectivo,no,
 02-12-2023,yo,350.0,sifu,gastos,Efectivo,no,
-02-12-2023,yo,0.0,nieve,credito,credito,si,09-12-2023
-02-12-2023,yo,0.0,propina,credito,credito,si,04-12-2023
-03-12-2023,yo,0.0,chatgpt,credito,credito,si,09-12-2023
 03-12-2023,yo,30.0,dogo,gastos,Efectivo,no,
-04-12-2023,ma,0.0,megacable abuelo,compras pa,Banco,si,09-12-2023
 09-12-2023,yo,16.0,chocolate,gastos,Efectivo,no,
-09-12-2023,ma,0.0,suavitel,gastos,Efectivo,si,10-12-2023
-09-12-2023,ma,0.0,impresiones,gastos,Efectivo,si,10-12-2023
-04-12-2023,ma,0.0,recarga,credito,credito,si,10-12-2023
-04-12-2023,ma,0.0,cartuchos,credito,credito,si,09-12-2023
-07-12-2023,ma,0.0,didi tanatologa,credito,credito,si,10-12-2023
-07-12-2023,ma,0.0,didi cucsh,credito,credito,si,10-12-2023
 08-12-2023,yo,10.0,tren,gastos,Efectivo,no,
-07-12-2023,ma,0.0,tren mandados,compras pa,Efectivo,si,10-12-2023
 07-12-2023,yo,50.0,frappe,compras pa,Efectivo,no,
 07-12-2023,yo,45.0,tienda,compras pa,Efectivo,no,
-09-12-2023,ma,0.0,megacable,credito,credito,si,10-12-2023
-11-12-2023,ma,364.0,gomitas,gastos de ma,Banco,no,
 11-12-2023,yo,17.0,papas,gastos,Efectivo,no,
 22-12-2023,yo,290.0,farmacia,gastos,Efectivo,no,
-12-12-2023,ma,100.0,recarga leo,credito,credito,no,
+12-12-2023,ma,100.0,recarga leo,navidad,Banco,no,
 13-12-2023,yo,20.0,tren,gastos,Efectivo,no,
 13-12-2023,yo,28.0,envoltura,gastos,Efectivo,no,
 13-12-2023,yo,400.0,salida,gastos,Efectivo,no,
 13-12-2023,yo,80.0,salida,gastos,Banco,no,
 14-12-2023,yo,20.0,camion,gastos,Efectivo,no,
 14-12-2023,yo,53.0,salida,gastos de ma,Banco,no,
-14-12-2023,yo,38.0,comida,credito,credito,no,
 14-12-2023,yo,16.0,chocolates,gastos,Efectivo,no,
 16-12-2023,ma,246.0,pasteles y capuchinos,credito,credito,no,
 15-12-2023,yo,20.0,tren,gastos,Efectivo,no,
 17-12-2023,yo,215.0,camfeteria,gastos,Efectivo,no,
-17-12-2023,yo,227.0,burger king,credito,credito,no,
 19-12-2023,ma,20.0,impresiones,gastos,Efectivo,no,
 19-12-2023,yo,3.0,queso,gastos,Efectivo,no,
-18-12-2023,yo,31.5,nieve,credito,credito,no,
-19-12-2023,yo,90.0,cartucho taller,gastos,Efectivo,no,
-19-12-2023,yo,75.0,cartucho casa,gastos,Efectivo,no,
-20-12-2023,ma,107.0,didi tanatologa,credito,credito,no,
+18-12-2023,yo,21.5,nieve,credito,credito,no,
+19-12-2023,ma,90.0,cartucho taller,gastos,Efectivo,no,
+19-12-2023,ma,75.0,cartucho casa,gastos,Efectivo,no,
+20-12-2023,ma,107.0,didi tanatologa,navidad,Banco,no,
 20-12-2023,ma,450.0,tanatologa,gastos,Efectivo,no,
 20-12-2023,yo,30.0,camion,gastos,Efectivo,no,
 20-12-2023,yo,50.0,frappe,gastos,Efectivo,no,
-21-12-2023,pa,3486.0,compras,compras pa,Banco,si,21-12-2023
 21-12-2023,yo,15.0,pan,gastos,Efectivo,no,
-21-12-2023,ma,100.0,recarga ma,credito,credito,no,
+21-12-2023,ma,100.0,recarga ma,naivdad,Banco,no,
 22-12-2023,yo,15.0,leche,gastos,Efectivo,no,
 13-12-2023,ma,299.0,netflix,gastos de ma,Banco,no,
 12-12-2023,yo,100.0,pago a credito,gastos de ma,Banco,no,
-22-12-2023,yo,130.5,pastel,credito,credito,no,
+22-12-2023,yo,26.0,palomitas,gastos,Efectivo,no,
+25-12-2023,yo,30.0,recarga,gastos de ma,Banco,no,
+26-12-2023,yo,30.0,mollete,compras pa,Efectivo,no,
+27-12-2023,yo,28.0,pan,gastos,Efectivo,no,
+27-12-2023,yo,18.0,pan,gastos,Efectivo,no,
