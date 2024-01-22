@@ -2,10 +2,10 @@
 0.0,milly,Efectivo
 0.5,ma no tocar,Efectivo
 0.0,vuelto ma,Efectivo
-732.5,credito,credito
-453.5,gastos,Efectivo
+75.0,credito,credito
+496.0,gastos,Efectivo
 100.0,inversion,gbm
-243.0,navidad,Banco
+0.0,navidad,Banco
 0.0,ma no tocar,Banco
 0.0,cetes,Banco
 0.0,milly,Banco
@@ -13,8 +13,14 @@
 0.0,migue,Efectivo
 0.0,trituradora,Banco
 0.0,compras,Efectivo
-65.0,compras pa,Banco
-4.0,gastos,Banco
-14.0,compras pa,Efectivo
-154.0,gastos de ma,Banco
-700.0,navidad,Efectivo
+0.0,compras pa,Banco
+39.0,gastos,Banco
+69.0,compras pa,Efectivo
+3.0,gastos de ma,Banco
+84.0,navidad,Efectivo
+0.0,a credito,Efectivo
+447.0,a credito,Banco
+29.0,platzi,Efectivo
+0.0,gastos de ma,Efectivo
+261.0,platzi,Banco
+0.0,debo pa,Efectivo
