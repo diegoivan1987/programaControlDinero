@@ -1,26 +1,11 @@
 11000.0,inversion,cetes
-0.0,milly,Efectivo
-0.5,ma no tocar,Efectivo
-0.0,vuelto ma,Efectivo
-75.0,credito,credito
-496.0,gastos,Efectivo
+443.0,a credito,credito
 100.0,inversion,gbm
-0.0,navidad,Banco
-0.0,ma no tocar,Banco
-0.0,cetes,Banco
-0.0,milly,Banco
-0.0,desconocido usado para compensar,Banco
-0.0,migue,Efectivo
-0.0,trituradora,Banco
-0.0,compras,Efectivo
-0.0,compras pa,Banco
-39.0,gastos,Banco
-69.0,compras pa,Efectivo
-3.0,gastos de ma,Banco
-84.0,navidad,Efectivo
-0.0,a credito,Efectivo
-447.0,a credito,Banco
-29.0,platzi,Efectivo
-0.0,gastos de ma,Efectivo
-261.0,platzi,Banco
-0.0,debo pa,Efectivo
+18.0,compras pa,Banco
+3.0,a credito,Banco
+558.0,a credito,Efectivo
+46.0,platzi,Efectivo
+89.5,debo pa,Banco
+332.5,debo pa,Efectivo
+10.5,debo ma,Banco
+10.0,platzi,credito
