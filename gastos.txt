@@ -4,6 +4,6 @@
 19-02-2024,yo,477.5,deuda,debo pa,Efectivo,no,
 19-02-2024,yo,1036.5,a credito,debo pa,Efectivo,no,
 19-09-2023,yo,19962.0,deuda,ma no tocar,Efectivo,no,
-10-01-2024,yo,4306.0,gastos,navidad,Banco,no,
+10-01-2024,yo,4305.0,gastos,navidad,Banco,no,
 17-02-2024,yo,544.0,gastos,platzi,Efectivo,no,
 11-08-2023,jahaira,600.0,prestamo y transferencia,ma no tocar,Efectivo,no,

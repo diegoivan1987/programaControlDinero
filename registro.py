@@ -372,14 +372,21 @@ def registrar_pago():
         fecha_pagado = input("Ingresa la fecha de pago (DD-MM-YYYY): ")  # Añadir fecha de pago
         gasto_seleccionado.fechaPagado = fecha_pagado
     
-    # Sumar la cantidad pagada al origen y lugar relacionados
+     # Verificar si la combinación origen-lugar existe y sumar o crear según corresponda
+    combinacion_existente = False
     for dinero in dinero_disponible:
         if dinero.concepto == gasto_seleccionado.origen and dinero.tipo == gasto_seleccionado.lugar:
             dinero.cantidad += cantidad_pago
+            combinacion_existente = True
+            break
+    
+    if not combinacion_existente:
+        # Crear nueva combinación usando la clase Dinero
+        nuevo_dinero = Dinero(cantidad_pago, gasto_seleccionado.origen, gasto_seleccionado.lugar)
+        dinero_disponible.append(nuevo_dinero)
     
     print("Pago registrado exitosamente!\n")
     agregar_log("Registrar pago", cantidad_pago, gasto_seleccionado.lugar, gasto_seleccionado.origen, gasto_seleccionado.concepto, datetime.datetime.now().strftime("%d-%m-%Y"))  # Registrar en el log
-    guardar_datos()
     guardar_datos()
 
 

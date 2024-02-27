@@ -282,3 +282,4 @@ Registrar gasto,88.0,Efectivo,,desayuno,26-02-2024
 Registrar gasto,29.0,credito,,didi pack,26-02-2024
 Registrar gasto,285.0,Efectivo,,debo pa,26-02-2024
 Registrar pago,1.0,Banco,navidad,gastos,26-02-2024
+Registrar pago,1.0,Banco,navidad,gastos,26-02-2024
