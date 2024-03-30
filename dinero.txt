@@ -1,11 +1,19 @@
 11000.0,inversion,cetes
-443.0,a credito,credito
+-20.0,a credito,credito
 100.0,inversion,gbm
-18.0,compras pa,Banco
-3.0,a credito,Banco
-558.0,a credito,Efectivo
-46.0,platzi,Efectivo
-89.5,debo pa,Banco
-332.5,debo pa,Efectivo
-10.5,debo ma,Banco
-10.0,platzi,credito
+0.0,compras pa,Banco
+1.0,a credito,Banco
+106.5,a credito,Efectivo
+16.0,platzi,Efectivo
+0.0,debo pa,Banco
+0.5,debo pa,Efectivo
+0.0,debo ma,Banco
+0.0,platzi,credito
+65.0,gastos,Efectivo
+7.0,debo ma,Efectivo
+0.0,telefono ma,Banco
+0.0,gastos,Banco
+0.0,debo ma,credito
+0.0,telefono ma,credito
+0.0,gastos,credito
+11.0,telefono ma,Efectivo
