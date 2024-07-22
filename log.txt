@@ -1,110 +1,63 @@
-Registrar gasto,77.0,credito,,pastel,04-03-2024
-Registrar gasto,20.0,Efectivo,,tienda,04-03-2024
-Registrar gasto,20.0,Efectivo,,galletas,04-03-2024
-Registrar gasto,92.0,credito,,didi tanatologa,29-02-2024
-Registrar gasto,450.0,Efectivo,,tanatologia,29-02-2024
-Registrar gasto,30.0,Efectivo,,tren,29-02-2024
-Registrar gasto,54.0,Efectivo,,frappe,29-02-2024
-Registrar gasto,13.0,Efectivo,,coca,29-02-2024
-Registrar gasto,100.0,Efectivo,,bici,04-03-2024
-Registrar gasto,20.0,credito,,recarga,02-03-2024
-Registrar gasto,30.0,Efectivo,,pan,02-03-2024
-Registrar gasto,34.0,Efectivo,,suero,02-03-2024
-Registrar gasto,130.0,Efectivo,,didi,02-03-2024
-Registrar gasto,3.0,Efectivo,,medicina,02-03-2024
-Registrar gasto,50.0,Efectivo,,tienda,03-03-2024
-Registrar gasto,170.0,credito,,chatgpt,03-03-2024
-Registrar gasto,70.0,Banco,,uber plus,29-02-2024
-Registrar pago,100.0,Efectivo,debo pa,bici,04-03-2024
-Registrar pago,20.0,Efectivo,platzi,galletas,04-03-2024
-Registrar pago,20.0,Efectivo,platzi,tienda,04-03-2024
-Registrar pago,13.0,Efectivo,a credito,coca,04-03-2024
-Registrar pago,30.0,Efectivo,a credito,tren,04-03-2024
-Registrar pago,54.0,Efectivo,a credito,frappe,04-03-2024
-Mover dinero,1000.0,Banco,Efectivo,debo ma,05-03-2024
-Registrar gasto,568.0,Efectivo,,farmacia,04-03-2024
-Registrar gasto,389.0,Banco,,telefono,04-03-2024
-Registrar gasto,906.0,Banco,,a credito,04-03-2024
-Registrar gasto,104.0,Banco,,nieve,04-03-2024
-Registrar gasto,33.0,Banco,,nieve,04-03-2024
-Registrar gasto,18.0,Banco,,nieve,04-03-2024
-Registrar gasto,15.0,Banco,,nieve,04-03-2024
-Registrar gasto,332.0,Efectivo,,sifu,04-03-2024
-Registrar gasto,18.0,Efectivo,,sifu,04-03-2024
-Registrar gasto,200.0,Efectivo,,nutriologa,06-03-2024
-Registrar gasto,30.0,Efectivo,,tienda,11-03-2024
-Registrar gasto,122.0,credito,,comida,11-03-2024
-Registrar gasto,780.0,credito,,megacable,11-03-2024
-Registrar gasto,60.0,Efectivo,,desayuno,09-03-2024
-Registrar gasto,33.0,Efectivo,,tienda,11-03-2024
-Registrar gasto,100.0,credito,,recarga ma,09-03-2024
-Registrar gasto,26.0,Efectivo,,pinguinos,11-03-2024
-Registrar gasto,90.0,Efectivo,,nieve,11-03-2024
-Registrar gasto,40.0,Efectivo,,nieve,11-03-2024
-Registrar pago,780.0,Efectivo,a credito,megacable,11-03-2024
-Registrar pago,450.0,Efectivo,a credito,tanatologia,11-03-2024
-Registrar pago,92.0,Efectivo,a credito,didi tanatologa,11-03-2024
-Mover dinero,940.0,Banco,Efectivo,a credito,11-03-2024
-Mover dinero,943.0,credito,Banco,a credito,11-03-2024
-Registrar gasto,47.0,Banco,,a credito,11-03-2024
-Registrar gasto,226.0,Banco,,telefono,11-03-2024
-Registrar gasto,555.0,Banco,,telefono,11-03-2024}
-Registrar gasto,965.0,Banco,,agua,11-03-2024
-Mover dinero,7.0,Banco,Efectivo,gastos,11-03-2024
-Registrar pago,965.0,Efectivo,dinero celdas,agua,11-03-2024
-Registrar pago,555.0,Efectivo,dinero celdas,telefono,11-03-2024
-Registrar pago,226.0,Efectivo,dinero celdas,telefono,11-03-2024
-Mover dinero,1200.0,Banco,Efectivo,dinero celdas,12-03-2024
-Registrar gasto,3162.5,Banco,,celdas,12-03-2024
-Registrar gasto,46.0,Efectivo,,tienda,18-03-2024
-Registrar gasto,299.0,credito,,netflix,13-03-2024
-Registrar gasto,451.0,credito,,okuma,11-03-2024
-Registrar gasto,85.0,credito,,okuma,11-03-2024
-Registrar gasto,121.5,credito,,pastel,12-03-2024
-Registrar gasto,30.0,Banco,,crunchyroll,13-03-2024
-Registrar gasto,17.0,Efectivo,,tienda,13-03-2024
-Mover dinero,44.0,credito,Banco,a credito,18-03-2024
-Mover dinero,4.5,credito,Banco,debo ma,18-03-2024
-Mover dinero,0.5,credito,Banco,debo ma,18-03-2024
-Mover dinero,11.0,credito,Banco,telefono ma,18-03-2024
-Mover dinero,7.0,credito,Banco,gastos,18-03-2024
-Registrar gasto,30.0,Efectivo,,camion,14-03-2024
-Registrar gasto,87.5,credito,,didi tanatologa,14-03-2024
-Registrar pago,451.0,Efectivo,a credito,okuma,18-03-2024
-Registrar gasto,100.0,Efectivo,,cabello,16-03-2024
-Registrar gasto,6.0,credito,,didi pack,11-03-2024
-Registrar gasto,5.0,credito,,didi pack,11-03-2024
-Registrar gasto,7.0,credito,,didi pack,11-03-2024
-Registrar gasto,10.0,credito,,didi pack,11-03-2024
-Registrar gasto,7.0,credito,,didi pack,11-03-2024
-Registrar gasto,5.0,credito,,didi pakc,11-03-2024
-Registrar gasto,6.0,credito,,didi pack,11-03-2024
-Registrar gasto,65.0,Efectivo,,desayuno,16-03-2024
-Registrar gasto,45.0,Efectivo,,pastel,18-03-2024
-Registrar pago,65.0,Efectivo,a credito,desayuno,18-03-2024
-Registrar pago,100.0,Efectivo,a credito,cabello,18-03-2024
-Registrar pago,6.0,Efectivo,a credito,didi pack,18-03-2024
-Registrar pago,5.0,Efectivo,debo ma,didi pakc,18-03-2024
-Registrar pago,7.0,Efectivo,gastos,didi pack,18-03-2024
-Registrar pago,10.0,Efectivo,platzi,didi pack,18-03-2024
-Registrar pago,5.0,Efectivo,telefono ma,didi pack,18-03-2024
-Registrar pago,6.0,Efectivo,telefono ma,didi pack,18-03-2024
-Registrar pago,30.0,Efectivo,a credito,camion,18-03-2024
-Registrar pago,17.0,Efectivo,a credito,tienda,18-03-2024
-Registrar gasto,20.0,credito,,recarga leo,19-03-2024
-Registrar gasto,20.0,Efectivo,,galletas,19-03-2024
-Mover dinero,200.0,Banco,Efectivo,a credito,28-03-2024
-Registrar gasto,107.5,Efectivo,,pastel,20-03-2024
-Registrar gasto,12.5,Efectivo,,pastel,20-03-2024
-Registrar gasto,100.0,Banco,,recarga ma,20-03-2024
-Registrar gasto,38.0,Efectivo,,tienda,21-03-2024
-Registrar gasto,135.0,Efectivo,,burger,21-03-2024
-Registrar gasto,130.0,Efectivo,,nieve,21-03-2024
-Registrar gasto,83.0,Efectivo,,cena,24-03-2024
-Registrar gasto,40.0,Efectivo,,tienda,25-03-2024
-Registrar gasto,40.0,Efectivo,,tren,27-03-2024
-Registrar gasto,100.0,Efectivo,,tanatologa didi,27-03-2024
-Registrar gasto,50.0,Banco,,recarga leo,28-03-2024
-Registrar gasto,49.0,Banco,,club didi,28-03-2024
-Registrar gasto,135.0,Efectivo,,burger,28-03-2024
-Registrar dinero,1.0,,,1,30-03-2024
+Registrar pago,20.0,Efectivo,gastos,amper,24-06-2024
+Registrar gasto,90.0,credito,,didi tanatologa,13-06
+Registrar gasto,80.0,Efectivo,,cartucho,18-06-2024
+Registrar gasto,100.0,credito,,recarga leo,23-06-2024
+Registrar gasto,20.0,Efectivo,,amper,24-06-2024
+Registrar pago,40.0,Efectivo,desconocido,megacable aumento,25-06-2024
+Registrar pago,70.0,Efectivo,gastos,vuelto,25-06-2024
+Registrar pago,80.0,Efectivo,gastos,cartucho,25-06-2024
+Registrar pago,90.0,Efectivo,a credito,didi tanatologa,25-06-2024
+Registrar pago,100.0,Efectivo,a credito,recarga leo,25-06-2024
+Registrar gasto,135.0,credito,,comida sabado,29-06-2024
+Registrar pago,460.0,credito,a credito, pago de saldo,03-07-2024
+Registrar gasto,13.0,Efectivo,,coca,21-07-2024
+Registrar gasto,182.0,credito,,chatgpt,21-07-2024
+Registrar gasto,80.0,Efectivo,,lonche,21-07-2024
+Registrar gasto,21.0,Efectivo,,galletas,21-07-2024
+Registrar gasto,11.5,Efectivo,,galletas,21-07-2024
+Registrar gasto,9.0,Efectivo,,galletas,21-07-2024
+Registrar gasto,92.0,credito,,comida,21-07-2024
+Registrar gasto,250.0,Efectivo,,nutriologa,21-07-2024
+Registrar pago,13.0,Efectivo,devolucion rodillera,coca,21-07-2024
+Registrar pago,80.0,Efectivo,devolucion rodillera,lonche,21-07-2024
+Registrar pago,11.5,Efectivo,devolucion rodillera,galletas,21-07-2024
+Registrar pago,9.0,Efectivo,vuelto ma,galletas,21-07-2024
+Registrar pago,250.0,Efectivo,dinero para mar,nutriologa,21-07-2024
+Registrar pago,182.0,Efectivo,a credito,chatgpt,21-07-2024
+Registrar pago,54.5,Efectivo,a credito,comida,21-07-2024
+Registrar gasto,100.0,credito,,recarga,08-07-2024
+Registrar gasto,35.0,Efectivo,,tienda,21-07-2024
+Registrar gasto,73.0,Efectivo,,farmacia,21-07-2024
+Registrar gasto,73.0,Efectivo,,lonche,21-07-2024
+Registrar gasto,82.0,credito,,didi tanatologia,11-07-2024
+Registrar gasto,20.0,Efectivo,,tren,11-07-2024
+Registrar gasto,34.0,Efectivo,,tienda,21-07-2024
+Registrar gasto,44.0,Efectivo,,comida,21-07-2024
+Registrar pago,20.0,Efectivo,gastos,amper,21-07-2024
+Registrar pago,28.0,Efectivo,gastos,amper y papas,21-07-2024
+Registrar pago,12.0,Efectivo,gastos,prestamo,21-07-2024
+Registrar gasto,106.0,credito,,comida,21-07-2024
+Registrar gasto,21.0,Efectivo,,galletas,21-07-2024
+Registrar gasto,15.0,Efectivo,,tienda,21-07-2024
+Registrar gasto,20.0,credito,,recarga,21-07-2024
+Registrar gasto,150.0,Efectivo,,didi don pancho,17-07-2024
+Registrar gasto,45.0,Efectivo,,tienda,21-07-2024
+Registrar pago,82.0,Efectivo,a credito,didi tanatologia,21-07-2024
+Registrar pago,100.0,Efectivo,a credito,recarga,21-07-2024
+Registrar gasto,15.0,Efectivo,,tienda,21-07-2024
+Registrar gasto,153.0,Efectivo,,pastel,20-07-2024
+Registrar gasto,23.0,Efectivo,,tren,20-07-2024
+Registrar gasto,100.0,credito,,recarga,21-07-2024
+Registrar gasto,70.0,Banco,,uber plus,08-07-2024
+Registrar pago,20.0,Efectivo,a credito,tren,21-07-2024
+Registrar pago,37.5,Efectivo,a credito,comida,21-07-2024
+Registrar pago,35.0,Efectivo,a credito,tienda,21-07-2024
+Registrar pago,73.0,Efectivo,a credito,farmacia,21-07-2024
+Registrar pago,73.0,Efectivo,a credito,lonche,21-07-2024
+Registrar pago,34.0,Efectivo,a credito,tienda,21-07-2024
+Registrar pago,44.0,Efectivo,devolucion rodillera,comida,21-07-2024
+Registrar pago,106.0,Efectivo,a credito,comida,21-07-2024
+Registrar pago,20.0,Efectivo,a credito,recarga,21-07-2024
+Registrar pago,70.0,Efectivo,vuelto gastos taller,uber plus,21-07-2024
+Registrar pago,150.0,Efectivo,gastos,didi don pancho,21-07-2024
+Registrar pago,100.0,Efectivo,a credito,recarga,21-07-2024
