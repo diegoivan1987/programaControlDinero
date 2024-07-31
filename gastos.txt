@@ -1,2 +1,5 @@
 11-08-2023,jahaira,600.0,prestamo y transferencia,ma no tocar,Efectivo,no,
 09-04-2024,jahaira,388.0,prestamo,gastos,Efectivo,no,
+30-07-2024,jahaira,20.0,amper,gastos,Efectivo,no,
+30-07-2024,jahaira,25.0,pila lap,platzi,Efectivo,no,
+27-07-2024,ma,151.0,cena,gastos,Efectivo,no,

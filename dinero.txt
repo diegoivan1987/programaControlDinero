@@ -1,14 +1,12 @@
 11000.0,inversion,cetes
-1000.0,a credito,credito
+249.5,a credito,credito
 100.0,inversion,gbm
-8.5,platzi,Efectivo
+458.5,platzi,Efectivo
 0.0,gastos,Banco
 0.0,ma no tocar,Efectivo
-220.5,gastos,Efectivo
-77.0,vuelto ma,Efectivo
-404.5,devolucion rodillera,Efectivo
-392.0,dinero para mar,Efectivo
-0.0,a credito,Efectivo
-0.0,netflix,Banco
-66.0,vuelto gastos taller,Banco
-70.0,vuelto gastos taller,Efectivo
+47.0,gastos,Efectivo
+748.5,a credito,Efectivo
+300.0,netflix,Efectivo
+820.0,cable,Efectivo
+139.0,vuelto gastos taller,Efectivo
+25.0,platzi,Banco

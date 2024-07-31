@@ -61,3 +61,18 @@ Registrar pago,20.0,Efectivo,a credito,recarga,21-07-2024
 Registrar pago,70.0,Efectivo,vuelto gastos taller,uber plus,21-07-2024
 Registrar pago,150.0,Efectivo,gastos,didi don pancho,21-07-2024
 Registrar pago,100.0,Efectivo,a credito,recarga,21-07-2024
+Registrar gasto,75.5,credito,,didi tanatologia,24-07-2024
+Registrar gasto,127.0,credito,,didi plantillas,24-07-2024
+Registrar gasto,18.0,Efectivo,,tienda,30-07-2024
+Registrar gasto,30.0,Efectivo,,lonche,30-07-2024
+Registrar gasto,20.0,Efectivo,,amper,30-07-2024
+Registrar gasto,15.0,Efectivo,,tienda,30-07-2024
+Registrar gasto,31.5,Efectivo,,galletas,30-07-2024
+Registrar gasto,380.0,Efectivo,,plantillas,24-07-2024
+Registrar gasto,100.0,Efectivo,,salida lucas,26-07-2024
+Registrar gasto,100.0,credito,,recarga leo,27-07-2024
+Registrar gasto,151.0,Efectivo,,cena,27-07-2024
+Registrar pago,75.5,Efectivo,a credito,didi tanatologia,30-07-2024
+Registrar pago,127.0,Efectivo,a credito,didi plantillas,30-07-2024
+Registrar pago,380.0,Efectivo,a credito,plantillas,30-07-2024
+Registrar pago,100.0,Efectivo,a credito,recarga leo,30-07-2024
