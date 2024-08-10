@@ -1,5 +1,21 @@
 11-08-2023,jahaira,600.0,prestamo y transferencia,ma no tocar,Efectivo,no,
 09-04-2024,jahaira,388.0,prestamo,gastos,Efectivo,no,
-30-07-2024,jahaira,20.0,amper,gastos,Efectivo,no,
-30-07-2024,jahaira,25.0,pila lap,platzi,Efectivo,no,
+30-07-2024,jahaira,15.0,pila lap,platzi,Efectivo,no,
 27-07-2024,ma,151.0,cena,gastos,Efectivo,no,
+31-07-2024,yo,0.0,lonche,platzi,Efectivo,si,10-08-2024
+01-08-2024,jahaira,20.0,amper,gastos,Efectivo,no,
+03-08-2024,ma,50.0,megacable,netflix,Efectivo,no,
+03-08-2024,yo,0.0,chat gpt,a credito,Efectivo,si,09-08-2024
+04-08-2024,yo,0.0,farmacia,a credito,Efectivo,si,09-08-2024
+04-08-2024,yo,0.0,recarga,platzi,Banco,si,09-08-2024
+04-08-2024,yo,0.0,estancia,a credito,Efectivo,si,09-08-2024
+04-08-2024,yo,0.0,didi,a credito,Efectivo,si,09-08-2024
+04-08-2024,yo,0.0,didi,a credito,Efectivo,si,09-08-2024
+07-08-2024,yo,350.0,gym,platzi,Efectivo,no,
+07-08-2024,jahaira,22.0,amper,a credito,Efectivo,no,
+08-08-2024,yo,0.0,tienda,a credito,Efectivo,si,09-08-2024
+09-08-2024,yo,22.0,tienda,vuelto gastos taller,Efectivo,no,
+09-08-2024,yo,30.0,lonche,vuelto gastos taller,Efectivo,no,
+09-08-2024,yo,48.0,farmacia,vuelto gastos taller,Efectivo,no,
+09-08-2024,yo,18.0,galletas,vuelto gastos taller,Efectivo,no,
+09-08-2024,ma,70.0,uber plus,a credito,Banco,no,

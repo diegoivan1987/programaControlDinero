@@ -76,3 +76,39 @@ Registrar pago,75.5,Efectivo,a credito,didi tanatologia,30-07-2024
 Registrar pago,127.0,Efectivo,a credito,didi plantillas,30-07-2024
 Registrar pago,380.0,Efectivo,a credito,plantillas,30-07-2024
 Registrar pago,100.0,Efectivo,a credito,recarga leo,30-07-2024
+Registrar gasto,20.0,Efectivo,,submarinos,31-07-2024
+Registrar gasto,13.0,Efectivo,,coca,31-07-2024
+Registrar gasto,48.0,Efectivo,,lonche,31-07-2024
+Registrar gasto,20.0,Efectivo,,amper,01-08-2024
+Registrar gasto,350.0,Efectivo,,sifu,01-08-2024
+Registrar gasto,30.0,Efectivo,,tren,02-08-2024
+Registrar gasto,20.0,Efectivo,,tren,02-08-2024
+Registrar gasto,30.0,Efectivo,,lonche,02-08-2024
+Registrar gasto,250.0,Efectivo,,nutriologa,02-08-2024
+Registrar gasto,35.0,Efectivo,,tienda,02-08-2024
+Registrar gasto,50.0,Efectivo,,megacable,03-08-2024
+Registrar gasto,380.0,credito,,chat gpt,03-08-2024
+Registrar gasto,2.0,Efectivo,,192,04-08-2024
+Registrar gasto,20.0,Banco,,recarga,04-08-2024}
+Registrar gasto,300.0,Efectivo,,estancia,04-08-2024
+Registrar gasto,54.0,credito,,didi,04-08-2024
+Registrar gasto,60.0,credito,,didi,04-08-2024
+Registrar gasto,30.0,Efectivo,,tienda,05-08-2024
+Registrar gasto,100.0,Efectivo,,cabello,06-08-2024
+Registrar gasto,350.0,Efectivo,,gym,07-08-2024
+Registrar gasto,22.0,Efectivo,,amper,07-08-2024
+Registrar gasto,30.0,Efectivo,,lonche,07-08-2024
+Registrar gasto,37.0,Efectivo,,tienda,08-08-2024
+Registrar gasto,22.0,Efectivo,,tienda,09-08-2024
+Registrar gasto,30.0,Efectivo,,lonche,09-08-2024
+Registrar gasto,48.0,Efectivo,,farmacia,09-08-2024
+Registrar gasto,18.0,Efectivo,,galletas,09-08-2024
+Registrar pago,48.0,Efectivo,platzi,lonche,10-08-2024
+Registrar pago,190.0,Efectivo,a credito,chat gpt,10-08-2024
+Registrar pago,192.0,Efectivo,a credito,farmacia,10-08-2024
+Registrar pago,20.0,Banco,platzi,recarga,10-08-2024
+Registrar pago,300.0,Efectivo,a credito,estancia,10-08-2024
+Registrar pago,54.0,Efectivo,a credito,didi,10-08-2024
+Registrar pago,60.0,Efectivo,a credito,didi,10-08-2024
+Registrar pago,37.0,Efectivo,a credito,tienda,10-08-2024
+Registrar gasto,70.0,Banco,,uber plus,09-08-2024
