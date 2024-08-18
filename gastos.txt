@@ -17,3 +17,5 @@
 17-08-2024,yo,39.0,tienda,a credito,Efectivo,no,
 15-08-2024,yo,600.0,dentista,gastos,Efectivo,no,
 17-08-2024,yo,18.0,galletas,gastos,Efectivo,no,
+17-08-2024,a credito,99.0,pago,amazon prime,Efectivo,no,
+17-08-2024,a credito,13.0,pago,vuelto gastos taller,Efectivo,no,

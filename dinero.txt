@@ -4,9 +4,9 @@
 58.5,platzi,Efectivo
 0.0,ma no tocar,Efectivo
 0.0,gastos,Efectivo
-744.5,a credito,Efectivo
-21.0,vuelto gastos taller,Efectivo
-99.0,amazon primer,Efectivo
+0.0,a credito,Efectivo
+8.0,vuelto gastos taller,Efectivo
+0.0,amazon prime,Efectivo
 0.0,gastos,Banco
-120.5,a credito,Banco
+0.0,a credito,Banco
 25.0,platzi,Banco
