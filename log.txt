@@ -112,3 +112,9 @@ Registrar pago,54.0,Efectivo,a credito,didi,10-08-2024
 Registrar pago,60.0,Efectivo,a credito,didi,10-08-2024
 Registrar pago,37.0,Efectivo,a credito,tienda,10-08-2024
 Registrar gasto,70.0,Banco,,uber plus,09-08-2024
+Registrar gasto,50.0,Efectivo,,tienda,17-08-2024
+Registrar gasto,100.0,credito,,recarga ma,13-08-2024
+Registrar gasto,129.0,Efectivo,,tienda,17-08-2024
+Registrar gasto,39.0,Efectivo,,tienda,17-08-2024
+Registrar gasto,600.0,Efectivo,,dentista,15-08-2024
+Registrar gasto,18.0,Efectivo,,galletas,17-08-2024

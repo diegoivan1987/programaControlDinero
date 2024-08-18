@@ -1,11 +1,11 @@
 11000.0,inversion,cetes
-66.5,a credito,credito
+-33.5,a credito,credito
 100.0,inversion,gbm
-108.5,platzi,Efectivo
+58.5,platzi,Efectivo
 0.0,gastos,Banco
 0.0,ma no tocar,Efectivo
-4.0,gastos,Efectivo
-909.5,a credito,Efectivo
+0.0,gastos,Efectivo
+741.5,a credito,Efectivo
 120.5,a credito,Banco
 250.0,netflix,Efectivo
 0.0,cable,Efectivo
