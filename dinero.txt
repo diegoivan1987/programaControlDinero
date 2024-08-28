@@ -1,12 +1,14 @@
-11000.0,inversion,cetes
--33.5,a credito,credito
+6211.5,inversion,cetes
+40.0,a credito,credito
+3415.0,inversion,credito
 100.0,inversion,gbm
-58.5,platzi,Efectivo
+6.5,platzi,Efectivo
+389.0,inversion,Efectivo
 0.0,ma no tocar,Efectivo
-0.0,gastos,Efectivo
+1169.5,gastos,Efectivo
 0.0,a credito,Efectivo
-8.0,vuelto gastos taller,Efectivo
-0.0,amazon prime,Efectivo
+21.0,vuelto gastos taller,Efectivo
+99.0,amazon prime,Efectivo
 0.0,gastos,Banco
 0.0,a credito,Banco
 25.0,platzi,Banco

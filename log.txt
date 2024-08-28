@@ -118,3 +118,29 @@ Registrar gasto,129.0,Efectivo,,tienda,17-08-2024
 Registrar gasto,39.0,Efectivo,,tienda,17-08-2024
 Registrar gasto,600.0,Efectivo,,dentista,15-08-2024
 Registrar gasto,18.0,Efectivo,,galletas,17-08-2024
+Registrar gasto,39.0,Efectivo,,tienda,25-08-2024
+Registrar gasto,13.0,Efectivo,,coca,25-08-2024
+Registrar gasto,90.0,Efectivo,,llanta,22-08-2024
+Registrar gasto,175.0,Banco,,jabon,25-08-2024
+Registrar gasto,174.5,credito,,capuchinos,21-08-2024
+Registrar gasto,50.0,Efectivo,,pastel,21-08-2024
+Registrar gasto,30.0,credito,,recarga leo,22-08-2024
+Registrar gasto,50.0,Efectivo,,tienda,25-08-2024
+Registrar gasto,18.0,Efectivo,,galletas,25-08-2024
+Registrar gasto,20.0,Efectivo,,tren plantillas,23-08-2024
+Registrar gasto,30.0,Efectivo,,tren,23-08-2024
+Registrar gasto,100.0,credito,,recarga ma,24-08-2024
+Registrar gasto,615.0,Banco,,pago de tarjeta,25-08-2024
+Registrar gasto,45.0,Efectivo,,dulceria,26-08-2024
+Registrar gasto,14.0,Efectivo,,refresco,27-08-2024
+Registrar pago,151.0,Efectivo,gastos,cena,28-08-2024
+Registrar pago,50.0,Efectivo,gastos,megacable,28-08-2024
+Registrar pago,70.0,Efectivo,a credito,uber plus,28-08-2024
+Registrar pago,100.0,Efectivo,a credito,recarga ma,28-08-2024
+Registrar pago,90.0,Efectivo,a credito,llanta,28-08-2024
+Registrar pago,30.0,Efectivo,a credito,recarga leo,28-08-2024
+Registrar pago,20.0,Efectivo,a credito,tren plantillas,28-08-2024
+Registrar pago,100.0,Efectivo,a credito,recarga ma,28-08-2024
+Registrar pago,99.0,Efectivo,amazon prime,pago,28-08-2024
+Registrar pago,13.0,Efectivo,vuelto gastos taller,pago,28-08-2024
+Registrar pago,389.0,Banco,inversion,pago de tarjeta,28-08-2024
