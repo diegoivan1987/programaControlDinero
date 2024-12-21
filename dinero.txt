@@ -1,39 +1,44 @@
-50.0,cabello,Banco
+0.0,cabello,Banco
 0.0,amazon prime,Banco
-587.5,inversion,Banco
-582.0,platzi,Banco
-32.0,a credito,Banco
-61.0,premio,Banco
+0.0,inversion,Banco
+0.0,platzi,Banco
+0.0,a credito,Banco
+0.0,premio,Banco
 0.0,gastos,Banco
-56.0,chatgpt,Banco
-22.0,nutricion,Banco
-296.0,dragon,Banco
-1330.0,pago ibm,Banco
-200.0,taxi,Banco
-20.5,comida,Banco
-542.5,tanatologia,Banco
-8.0,taxi,Efectivo
+0.0,chatgpt,Banco
+0.0,nutricion,Banco
+0.0,dragon,Banco
+0.0,pago ibm,Banco
+0.0,gym,Banco
+0.0,taxi,Banco
+0.0,comida,Banco
+0.0,tanatologia,Banco
+0.0,tren,Banco
+63.0,tanatologia,Efectivo
+1573.0,taxi,Efectivo
 0.0,ma no tocar,Efectivo
 0.0,comida,Efectivo
-125.0,nutricion,Efectivo
-123.5,inversion,Efectivo
-175.0,gym,Efectivo
-90.0,amazon prime,Efectivo
-83.0,chatgpt,Efectivo
-0.0,dragon,Efectivo
-33.5,platzi,Efectivo
-64.0,premio,Efectivo
-847.0,a credito,Efectivo
-50.0,cabello,Efectivo
-3.5,gastos,Efectivo
-10.0,tren,Efectivo
+0.0,nutricion,Efectivo
+0.0,inversion,Efectivo
+0.0,gym,Efectivo
+0.0,amazon prime,Efectivo
+0.0,chatgpt,Efectivo
+70.0,dragon,Efectivo
+450.0,platzi,Efectivo
+0.0,premio,Efectivo
+240.0,a credito,Efectivo
+0.0,cabello,Efectivo
+0.0,gastos,Efectivo
+19.0,tren,Efectivo
+984.0,pago ibm,Efectivo
+0.0,taxi,credito
 0.0,netflix,credito
-1.0,inversion,credito
-10.0,amazon prime,credito
-38.0,a credito,credito
+0.0,inversion,credito
+0.0,amazon prime,credito
+0.0,a credito,credito
 0.0,platzi,credito
 0.0,gastos,credito
 0.0,chatgpt,credito
-470.0,pago ibm,credito
+0.0,pago ibm,credito
 100.0,inversion,gbm
 11562.5,inversion,cetes

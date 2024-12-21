@@ -526,3 +526,72 @@ Registrar gasto,487.0,credito,,smarthwatch,22-11-2024
 Registrar gasto,20.5,Banco,,comida,20-11-2024
 Registrar pago,582.0,Banco,platzi,para que platzi este al corriente,22-11-2024
 Registrar pago,74.0,Banco,taxi,taxi semana del 11 al 15,22-11-2024
+Registrar gasto,70.0,Banco,,uber,16-11-2024
+Registrar gasto,65.0,Banco,,lonche,25-11-2024
+Registrar gasto,100.0,credito,,recarga leo,23-11-2024
+Registrar gasto,150.0,credito,,recargas,23-11-2024
+Registrar gasto,22.0,Banco,,galletas,25-11-2024
+Registrar gasto,27.0,Banco,,submarinos,23-11-2024
+Registrar gasto,20.0,credito,,recarga,24-11-2024
+Registrar gasto,167.0,Efectivo,,didi sanmina,25-11-2024
+Registrar gasto,20.0,Efectivo,,camion,25-11-2024
+Registrar gasto,70.0,Efectivo,,tren,25-11-2024
+Registrar gasto,40.0,Banco,,ensalada,25-11-2024
+Registrar gasto,20.0,Efectivo,,medicina,25-11-2024
+Registrar gasto,32.5,Banco,,comida,25-11-2024
+Registrar gasto,14.0,Banco,,yogurt,25-11-2024
+Registrar gasto,50.0,Efectivo,,taxi,25-11-2024
+Registrar gasto,29.0,Efectivo,,medicina,26-11-2024
+Registrar gasto,40.0,Banco,,comida,26-11-2024
+Registrar gasto,20.5,Banco,,comida,26-11-2024
+Registrar gasto,21.0,Banco,,galletas,26-11-2024
+Registrar gasto,130.0,Banco,,comida,28-11-2024
+Registrar gasto,33.0,Efectivo,,medicina,27-11-2024
+Registrar gasto,12.0,Banco,,granola,27-11-2024
+Registrar gasto,27.0,Banco,,submarinos,27-11-2024
+Registrar gasto,107.0,credito,,didi ibm,28-11-2024
+Registrar gasto,40.0,Banco,,comida,28-11-2024
+Registrar gasto,380.0,Banco,,plantillas,28-11-2024
+Registrar gasto,32.5,Banco,,comida,26-11-2024
+Registrar gasto,2492.5,Banco,,platzi,29-11-2024
+Registrar gasto,587.5,Banco,,platzi,29-11-2024
+Registrar gasto,610.0,Banco,,platzi,29-11-2024
+Registrar gasto,100.0,credito,,recarga,01-12-2024
+Registrar gasto,88.0,credito,,didi tanatologia,29
+Registrar gasto,93.0,credito,,didi ibm,02-12-2024
+Registrar gasto,76.0,credito,,didi ibm,02-12-2024
+Registrar gasto,58.0,Banco,,comida,02-12-2024
+Registrar gasto,32.5,Banco,,comida,02-12-2024
+Registrar gasto,21.0,Banco,,galletas,02-12-2024
+Registrar gasto,22.0,Banco,,galletas,02-12-2024
+Registrar gasto,100.0,Banco,,recarga ma,01-12-2024
+Registrar gasto,69.0,credito,,didi club,01-12-2024
+Registrar gasto,188.0,credito,,pastel,01-12-2024
+Registrar gasto,4.0,credito,,pastel,01-12-2024
+Registrar gasto,15.5,credito,,propina,01-12-2024
+Registrar gasto,88.0,credito,,didi tantologa,29-11-2024
+Registrar gasto,159.0,credito,,didi ibm,29-11-2024
+Registrar gasto,58.0,Banco,,comida,02-12-2024
+Registrar gasto,20.5,Banco,,comida,02-12-2024
+Registrar gasto,12.0,Banco,,comid,02-12-2024
+Registrar gasto,21.0,Banco,,galletas,02-12-2024
+Registrar gasto,450.0,Efectivo,,tanatologia,29-11-2024
+Registrar pago,19.0,Efectivo,tren,pago fabricas,17-12-2024
+Registrar pago,63.0,Efectivo,tanatologia,pago fabricas,17-12-2024
+Registrar pago,19.0,Efectivo,pago ibm,pago fabricas,17-12-2024
+Registrar pago,240.0,Efectivo,taxi,nieves,17-12-2024
+Registrar pago,150.0,Efectivo,taxi,Netflix,17-12-2024
+Registrar pago,100.0,Efectivo,taxi,recarga ma,17-12-2024
+Registrar pago,380.0,Efectivo,pago ibm,megacable,17-12-2024
+Registrar pago,781.0,Efectivo,taxi,pants,17-12-2024
+Registrar pago,100.0,Efectivo,taxi,prestamo ma,17-12-2024
+Registrar pago,100.0,Efectivo,a credito,recarga,17-12-2024
+Registrar pago,150.0,Efectivo,pago ibm,recargas,17-12-2024
+Registrar pago,100.0,Efectivo,pago ibm,recarga leo,17-12-2024
+Registrar pago,70.0,Efectivo,dragon,uber plus,17-12-2024
+Registrar gasto,20.0,Efectivo,,galletas,17-02-2024
+Registrar gasto,25.0,Efectivo,,submarinos,16-02-2024
+Registrar pago,150.0,Efectivo,taxi,Netflix,17-12-2024
+Registrar pago,380.0,Efectivo,pago ibm,megacable,17-12-2024
+Registrar pago,87.0,Efectivo,a credito,didi tanatologia,17-12-2024
+Registrar pago,450.0,Efectivo,platzi,tanatologia,17-12-2024
