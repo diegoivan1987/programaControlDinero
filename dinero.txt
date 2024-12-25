@@ -12,7 +12,7 @@
 0.0,tanatologia,Banamex
 100.0,cabello,Banamex
 0.0,chat,Banamex
-246.0,gastos,Efectivo
+0.0,gastos,Efectivo
 246.0,nutricion,Efectivo
 350.0,dragon,Efectivo
 0.0,chatgpt,Efectivo
