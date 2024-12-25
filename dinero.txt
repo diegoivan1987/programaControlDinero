@@ -1,44 +1,26 @@
-36.0,cabello,Banco  
-0.0,amazon prime,Banco  
-0.0,inversion,Banco  
-0.0,platzi,Banco  
-0.0,a credito,Banco  
-0.0,premio,Banco  
-0.0,gastos,Banco  
-0.0,chatgpt,Banco  
-0.0,nutricion,Banco  
-0.0,dragon,Banco  
-0.0,pago ibm,Banco  
-0.0,gym,Banco  
-0.0,taxi,Banco  
-0.0,comida,Banco  
-0.0,tanatologia,Banco  
-0.0,tren,Banco  
-366.0,tanatologia,Efectivo  
-101.0,taxi,Efectivo  
-0.0,ma no tocar,Efectivo  
-0.0,comida,Efectivo  
-0.0,nutricion,Efectivo  
-0.0,inversion,Efectivo  
-0.0,gym,Efectivo  
-0.0,amazon prime,Efectivo  
-0.0,chatgpt,Efectivo  
-70.0,dragon,Efectivo  
-450.0,platzi,Efectivo  
-0.0,premio,Efectivo  
-240.0,a credito,Efectivo  
-0.0,cabello,Efectivo  
-0.0,gastos,Efectivo  
-19.0,tren,Efectivo  
-984.0,pago ibm,Efectivo  
-541.0,taxi,credito  
-0.0,netflix,credito  
-0.0,inversion,credito  
-0.0,amazon prime,credito  
-0.0,a credito,credito  
-0.0,platzi,credito  
-0.0,gastos,credito  
-0.0,chatgpt,credito  
-0.0,pago ibm,credito  
-100.0,inversion,gbm  
+36.0,gastos,BBVA
+0.0,nutricion,BBVA
+0.0,dragon,BBVA
+0.0,chatgpt,BBVA
+0.0,tanatologia,BBVA
+0.0,cabello,BBVA
+0.0,chat,BBVA
+2215.0,gastos,Banamex
+4.0,nutricion,Banamex
+0.0,dragon,Banamex
+200.0,chatgpt,Banamex
+0.0,tanatologia,Banamex
+100.0,cabello,Banamex
+0.0,chat,Banamex
+246.0,gastos,Efectivo
+246.0,nutricion,Efectivo
+350.0,dragon,Efectivo
+0.0,chatgpt,Efectivo
+1084.0,tanatologia,Efectivo
+0.0,cabello,Efectivo
+0.0,chat,Efectivo
+100.0,amazon prime,Efectivo 
+450.0,platzi,Efectivo
+467.0,a credito,credito
+100.0,inversion,gbm
 11562.5,inversion,cetes
