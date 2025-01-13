@@ -187,7 +187,7 @@ def registrar_gasto():
                 dinero.cantidad -= cantidad  # Restar el gasto
                 break  # Ya aplicamos el descuento
     
-    gasto = Gasto(fecha, persona, cantidad, conceptoGasto, cuenta, conceptoDisponible)
+    gasto = Gasto(fecha, persona, cantidad, conceptoGasto, conceptoDisponible,cuenta)
     gastos_registrados.append(gasto)
     print("Gasto registrado exitosamente!\n")
     agregar_log("Registrar gasto", cantidad, cuenta, None, conceptoGasto, fecha)
