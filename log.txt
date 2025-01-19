@@ -595,3 +595,66 @@ Registrar pago,150.0,Efectivo,taxi,Netflix,17-12-2024
 Registrar pago,380.0,Efectivo,pago ibm,megacable,17-12-2024
 Registrar pago,87.0,Efectivo,a credito,didi tanatologia,17-12-2024
 Registrar pago,450.0,Efectivo,platzi,tanatologia,17-12-2024
+Registrar gasto,130.0,credito,,recarga,24-12-2024
+Registrar gasto,100.0,credito,,recarga,28-12-2024
+Registrar gasto,36.0,Efectivo,,tienda,28-12-2024
+Registrar gasto,69.0,credito,,didi club,01-01-2025
+Registrar gasto,165.0,credito,,flingster,01-01-2025
+Registrar gasto,25.0,Efectivo,,agua,02-01-2025
+Registrar gasto,350.0,Efectivo,,dragon,02-01-2025
+Registrar gasto,25.0,Efectivo,,pan,03-01-2025
+Registrar pago,100.0,Efectivo,gastos,recarga leo,12-01-2025
+Registrar pago,100.0,Efectivo,a credito,recarga,12-01-2025
+Registrar gasto,48.0,Efectivo,,agua jamaica,08-01-2025
+Registrar gasto,240.0,Efectivo,,salida,04-01-2025
+Registrar gasto,35.0,Efectivo,,lonche,07-01-2025
+Registrar gasto,50.0,Efectivo,,comida,07-01-2025
+Registrar gasto multicuenta (best fit),675.0,Efectivo,tanatologia,dentista,08-01-2025
+Registrar gasto multicuenta (best fit),125.0,Efectivo,nutricion,dentista,08-01-2025
+Registrar gasto,50.0,Efectivo,,comida,08-01-2025
+Registrar gasto,121.0,Efectivo,,nutricion,08-01-2025
+Registrar gasto,129.0,Efectivo,,nutricion,08-01-2025
+Registrar gasto,25.0,Efectivo,,donitas,08-01-2025
+Registrar gasto,27.0,Efectivo,,paleta,09-01-2025
+Registrar gasto,35.0,Efectivo,,comida,10-01-2025
+Registrar gasto,295.0,BBVA,,nieves,28-12-2024
+Registrar gasto,656.0,BBVA,,luz casa,31-12-2024
+Registrar gasto,830.0,BBVA,,megacable,02-01-2025
+Registrar gasto,113.0,BBVA,,desayuno,03-01-2025
+Registrar gasto,100.0,Banamex,,desconocido,19-12-2024
+Registrar gasto,610.0,credito,,compra pa,06-01-2025
+Registrar gasto,74.5,BBVA,,compras,06-01-2025
+Registrar gasto,474.0,BBVA,,compras pa,06-01-2025
+Registrar gasto,267.5,BBVA,,compras pa,06-01-2025
+Registrar gasto,1699.0,credito,,compras pa,06-01-2025
+Registrar gasto,553.0,BBVA,,compras pa,06-01-2025
+Registrar gasto,758.0,credito,,citrato,06-01-2025
+Registrar gasto,50.0,credito,,recarga leo,09-01-2025
+Registrar gasto,110.0,Banamex,,comida,09-01-2025
+Registrar gasto,503.0,Efectivo,,okuma,10-01-2025
+Registrar gasto,44.0,credito,,coomeet,10-01-2025
+Registrar gasto,76.0,credito,,tanatologia,11-01-2025
+Registrar gasto,450.0,Efectivo,,tanatologia,11-01-2025
+Registrar gasto,144.0,vales,,melox,11-01-2025
+Registrar gasto,44.0,BBVA,,coomeet,11-01-2025
+Registrar gasto,35.0,Efectivo,,lonche,12-01-2025
+Registrar gasto,329.0,BBVA,,netfliz,14-01-2025
+Registrar gasto,313.0,vales,,fluoxetina,15-01-2025
+Registrar gasto,100.0,credito,,recarga ma,16-01-2025
+Registrar gasto,110.0,BBVA,,desayuno,17-01-2025
+Registrar gasto,425.5,BBVA,,omega,07-01-2025
+Registrar gasto,299.0,BBVA,,cortina,17-01-2025
+Registrar gasto,883.5,BBVA,,asiento bici,17-01-2025
+Registrar gasto,1000.0,Efectivo,,neurologa,08-01-2025
+Registrar pago,758.0,Efectivo,a credito,citrato,18-01-2025
+Registrar pago,425.5,Efectivo,gastos,omega,18-01-2025
+Registrar pago,50.0,Efectivo,a credito,recarga leo,18-01-2025
+Registrar pago,503.0,Efectivo,gastos,okuma,18-01-2025
+Registrar pago,100.0,Efectivo,a credito,recarga ma,18-01-2025
+Registrar pago,883.5,Efectivo,gastos,asiento bici,18-01-2025
+Registrar gasto,125.0,Efectivo,,comida,18-01-2025
+Registrar pago,50.0,Efectivo,platzi,comida,18-01-2025
+Registrar pago,129.0,Efectivo,platzi,nutricion,18-01-2025
+Registrar pago,27.0,Efectivo,platzi,paleta,18-01-2025
+Registrar pago,35.0,Efectivo,platzi,comida,18-01-2025
+Registrar pago,25.0,Efectivo,platzi,donitas,18-01-2025

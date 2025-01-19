@@ -1,26 +1,37 @@
-36.0,gastos,BBVA
+866.0,gastos,BBVA
+0.0,a credito,BBVA
 0.0,nutricion,BBVA
 0.0,dragon,BBVA
-0.0,chatgpt,BBVA
 0.0,tanatologia,BBVA
 0.0,cabello,BBVA
 0.0,chat,BBVA
-2215.0,gastos,Banamex
-4.0,nutricion,Banamex
+0.0,plan,BBVA
+0.0,megacable,BBVA
+0.0,netflix,BBVA
+9115.0,gastos,Banamex
+0.0,a credito,Banamex
+0.0,nutricion,Banamex
 0.0,dragon,Banamex
-200.0,chatgpt,Banamex
 0.0,tanatologia,Banamex
-100.0,cabello,Banamex
+0.0,cabello,Banamex
 0.0,chat,Banamex
-0.0,gastos,Efectivo
-246.0,nutricion,Efectivo
-350.0,dragon,Efectivo
-0.0,chatgpt,Efectivo
-1084.0,tanatologia,Efectivo
+0.0,plan,Banamex
+0.0,megacable,Banamex
+0.0,netflix,Banamex
+3045.0,gastos,Efectivo
+0.0,a credito,Efectivo
+0.0,nutricion,Efectivo
+0.0,dragon,Efectivo
+0.0,tanatologia,Efectivo
 0.0,cabello,Efectivo
 0.0,chat,Efectivo
-100.0,amazon prime,Efectivo 
-450.0,platzi,Efectivo
-467.0,a credito,credito
+0.0,plan,Efectivo
+0.0,megacable,Efectivo
+0.0,netflix,Efectivo
+50.0,amazon prime,Efectivo
+1080.0,platzi,Efectivo
+1000.0,a credito,credito
 100.0,inversion,gbm
 11562.5,inversion,cetes
+189.8,vales,Edenred
+952.0,vales,Pluxee
