@@ -1,4 +1,4 @@
-866.0,gastos,BBVA
+139.0,gastos,BBVA
 0.0,a credito,BBVA
 0.0,nutricion,BBVA
 0.0,dragon,BBVA
@@ -18,7 +18,7 @@
 0.0,plan,Banamex
 0.0,megacable,Banamex
 0.0,netflix,Banamex
-3045.0,gastos,Efectivo
+3028.0,gastos,Efectivo
 0.0,a credito,Efectivo
 0.0,nutricion,Efectivo
 0.0,dragon,Efectivo
@@ -30,8 +30,8 @@
 0.0,netflix,Efectivo
 50.0,amazon prime,Efectivo
 1080.0,platzi,Efectivo
-1000.0,a credito,credito
+7.0,a credito,credito
 100.0,inversion,gbm
 11562.5,inversion,cetes
 189.8,vales,Edenred
-952.0,vales,Pluxee
+2.0,vales,Pluxee

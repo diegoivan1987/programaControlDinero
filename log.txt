@@ -658,3 +658,8 @@ Registrar pago,129.0,Efectivo,platzi,nutricion,18-01-2025
 Registrar pago,27.0,Efectivo,platzi,paleta,18-01-2025
 Registrar pago,35.0,Efectivo,platzi,comida,18-01-2025
 Registrar pago,25.0,Efectivo,platzi,donitas,18-01-2025
+Registrar gasto,883.0,credito,,asiento,20-01-2025
+Registrar gasto,17.0,Efectivo,,galletas,21-01-2025
+Registrar gasto,110.0,credito,,desayuno,21-01-2025
+Registrar gasto,428.0,BBVA,,pizza,21-01-2025
+Registrar gasto,49.0,BBVA,,amazon prime,09-01-2025
