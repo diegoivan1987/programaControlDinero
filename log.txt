@@ -663,3 +663,12 @@ Registrar gasto,17.0,Efectivo,,galletas,21-01-2025
 Registrar gasto,110.0,credito,,desayuno,21-01-2025
 Registrar gasto,428.0,BBVA,,pizza,21-01-2025
 Registrar gasto,49.0,BBVA,,amazon prime,09-01-2025
+Registrar gasto,135.0,BBVA,,comida,22-01-2025
+Registrar gasto,18.0,Efectivo,,agua,23-01-2025
+Registrar gasto,150.0,Efectivo,,desayuno,23-01-2025
+Registrar gasto,313.0,Efectivo,,okuma,24-01-2025
+Registrar gasto,100.0,Banamex,,recarga,24-01-2025
+Registrar gasto,100.0,Banamex,,recarga,25-01-2025
+Registrar gasto,274.0,Banamex,,nieves,25-01-2025
+Registrar gasto,500.0,Efectivo,,comida china,25-01-2025
+Registrar gasto,388.0,Banamex,,boleto,25-01-2025

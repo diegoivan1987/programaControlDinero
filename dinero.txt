@@ -1,4 +1,6 @@
-139.0,gastos,BBVA
+4305.5,ahorro,Nu
+0.0,casa,BBVA
+64.0,gastos,BBVA
 0.0,a credito,BBVA
 0.0,nutricion,BBVA
 0.0,dragon,BBVA
@@ -8,7 +10,8 @@
 0.0,plan,BBVA
 0.0,megacable,BBVA
 0.0,netflix,BBVA
-9115.0,gastos,Banamex
+2371.5,casa,Banamex
+3328.0,gastos,Banamex
 0.0,a credito,Banamex
 0.0,nutricion,Banamex
 0.0,dragon,Banamex
@@ -16,15 +19,16 @@
 0.0,cabello,Banamex
 0.0,chat,Banamex
 0.0,plan,Banamex
-0.0,megacable,Banamex
-0.0,netflix,Banamex
-3028.0,gastos,Efectivo
+830.0,megacable,Banamex
+164.5,netflix,Banamex
+0.0,casa,Efectivo
+848.0,gastos,Efectivo
 0.0,a credito,Efectivo
-0.0,nutricion,Efectivo
-0.0,dragon,Efectivo
-0.0,tanatologia,Efectivo
-0.0,cabello,Efectivo
-0.0,chat,Efectivo
+125.0,nutricion,Efectivo
+350.0,dragon,Efectivo
+542.0,tanatologia,Efectivo
+100.0,cabello,Efectivo
+42.0,chat,Efectivo
 0.0,plan,Efectivo
 0.0,megacable,Efectivo
 0.0,netflix,Efectivo
