@@ -20,3 +20,6 @@
 25-01-2025,yo,274.0,nieves,gastos,Banamex,no,
 25-01-2025,ma,500.0,comida china,gastos,Efectivo,no,
 25-01-2025,yo,388.0,boleto,gastos,Banamex,no,
+27-01-2025,yo,1649.0,audifonos y tenis,gastos,Banamex,no,
+27-01-2025,yo,17.0,galletas,gastos,Efectivo,no,
+28-01-2025,yo,110.0,desayuno,gastos,Banamex,no,

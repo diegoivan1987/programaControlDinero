@@ -11,7 +11,7 @@
 0.0,megacable,BBVA
 0.0,netflix,BBVA
 2371.5,casa,Banamex
-3328.0,gastos,Banamex
+1569.0,gastos,Banamex
 0.0,a credito,Banamex
 0.0,nutricion,Banamex
 0.0,dragon,Banamex
@@ -22,7 +22,7 @@
 830.0,megacable,Banamex
 164.5,netflix,Banamex
 0.0,casa,Efectivo
-848.0,gastos,Efectivo
+831.0,gastos,Efectivo
 0.0,a credito,Efectivo
 125.0,nutricion,Efectivo
 350.0,dragon,Efectivo

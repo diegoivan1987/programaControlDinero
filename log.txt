@@ -672,3 +672,6 @@ Registrar gasto,100.0,Banamex,,recarga,25-01-2025
 Registrar gasto,274.0,Banamex,,nieves,25-01-2025
 Registrar gasto,500.0,Efectivo,,comida china,25-01-2025
 Registrar gasto,388.0,Banamex,,boleto,25-01-2025
+Registrar gasto,1649.0,Banamex,,audifonos y tenis,27-01-2025
+Registrar gasto,17.0,Efectivo,,galletas,27-01-2025
+Registrar gasto,110.0,Banamex,,desayuno,28-01-2025
