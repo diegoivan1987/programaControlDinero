@@ -675,3 +675,21 @@ Registrar gasto,388.0,Banamex,,boleto,25-01-2025
 Registrar gasto,1649.0,Banamex,,audifonos y tenis,27-01-2025
 Registrar gasto,17.0,Efectivo,,galletas,27-01-2025
 Registrar gasto,110.0,Banamex,,desayuno,28-01-2025
+Registrar gasto,110.0,Banamex,,desayuno,28-01-2025
+Registrar gasto,47.0,Efectivo,,comida,30-01-2025
+Registrar gasto,49.0,Efectivo,,comida,29-01-2025
+Registrar gasto,40.0,Nu,,chat,30-01-2025
+Registrar gasto,500.0,Efectivo,,cosas deporte,31-01-2025
+Registrar gasto,100.0,Nu,,comida,31-01-2025
+Registrar gasto,69.0,credito,,didi club,01-02-2025
+Registrar gasto,75.0,Nu,,tanatologia,01-02-2025
+Registrar gasto,450.0,Efectivo,,tanatologia,01-02-2025
+Registrar gasto,20.0,Efectivo,,camion,01-02-2025
+Registrar gasto,38.0,Efectivo,,frappe,01-02-2025
+Registrar gasto,177.0,Efectivo,,pintura,01-02-2025
+Registrar gasto,103.0,Efectivo,,pintura,01-02-2025
+Registrar gasto,100.0,Efectivo,,nieve,01-02-2025
+Registrar gasto,60.0,Efectivo,,refrescos,02-02-2025
+Registrar gasto,300.0,BBVA,,salida,02-02-2025
+Registrar gasto,109.0,Nu,,comida,02-02-2025
+Registrar gasto,11.0,credito,,propina,02-02-2025
