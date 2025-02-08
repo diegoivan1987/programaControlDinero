@@ -693,3 +693,14 @@ Registrar gasto,60.0,Efectivo,,refrescos,02-02-2025
 Registrar gasto,300.0,BBVA,,salida,02-02-2025
 Registrar gasto,109.0,Nu,,comida,02-02-2025
 Registrar gasto,11.0,credito,,propina,02-02-2025
+Registrar gasto,109.0,credito,,comida,03-02-2025
+Registrar gasto,103.0,BBVA,,chat,03-02-2025
+Registrar gasto,123.0,credito,,desayuno,04-02-2025
+Registrar gasto,100.0,credito,,recarga,04-02-2025
+Registrar gasto,350.0,Efectivo,,dragon,04-02-2025
+Registrar gasto,35.0,Efectivo,,lonche,05-02-2025
+Registrar gasto,30.0,Efectivo,,paleta,06-02-2025
+Registrar gasto,72.0,Efectivo,,donas,07-02-2025
+Registrar pago,100.0,Efectivo,a credito,recarga,07-02-2025
+Registrar pago,500.0,Efectivo,casa,comida china,07-02-2025
+Registrar gasto,49.0,credito,,amazon,07-02-2025

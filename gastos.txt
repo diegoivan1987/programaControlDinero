@@ -8,5 +8,4 @@
 19-01-2025,yo,950.0,despensa,vales,Pluxee,no,
 21-01-2025,ma,428.0,pizza,gastos,BBVA,no,
 24-01-2025,ma,313.0,okuma,gastos,Efectivo,no,
-24-01-2025,ma,100.0,recarga,gastos,Banamex,no,
-25-01-2025,ma,500.0,comida china,gastos,Efectivo,no,
+04-02-2025,ma,100.0,recarga,a credito,Efectivo,no,

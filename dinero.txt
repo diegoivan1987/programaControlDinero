@@ -1,42 +1,48 @@
 4980.5,ahorro,Nu
 3151.0,casa,Nu
 0.0,casa,BBVA
-239.0,gastos,BBVA
+0.0,gastos,BBVA
 0.0,a credito,BBVA
 0.0,nutricion,BBVA
 0.0,dragon,BBVA
 0.0,tanatologia,BBVA
-0.0,cabello,BBVA
+52.0,cabello,BBVA
 0.0,chat,BBVA
 0.0,plan,BBVA
 0.0,megacable,BBVA
 0.0,netflix,BBVA
-0.75,casa,Banamex
-896.5,gastos,Banamex
+841.0,casa,Banamex
+258.0,gastos,Banamex
 0.0,ahorro,Banamex
 0.0,a credito,Banamex
-62.5,nutricion,Banamex
-290.5,dragon,Banamex
-196.0,tanatologia,Banamex
-25.0,cabello,Banamex
-31.5,chat,Banamex
-25.0,plan,Banamex
-1037.5,megacable,Banamex
-246.75,netflix,Banamex
-0.0,casa,Efectivo
+125.0,nutricion,Banamex
+28.0,dragon,Banamex
+467.0,tanatologia,Banamex
+85.0,cabello,Banamex
+63.0,chat,Banamex
+50.0,plan,Banamex
+1245.0,megacable,Banamex
+329.0,netflix,Banamex
+145.0,pintura,Banamex
+87.5,gym,Banamex
+166.75,avion,Banamex
+125.0,cinta,Banamex
+350.0,platzi,Banamex
+364.5,a credito,Banamex
+450.0,casa,Efectivo
 0.0,gastos,Efectivo
 0.0,a credito,Efectivo
-125.0,nutricion,Efectivo
+73.0,nutricion,Efectivo
 87.0,dragon,Efectivo
 92.0,tanatologia,Efectivo
-100.0,cabello,Efectivo
+65.0,cabello,Efectivo
 42.0,chat,Efectivo
 0.0,plan,Efectivo
 0.0,megacable,Efectivo
 0.0,netflix,Efectivo
 50.0,amazon prime,Efectivo
-1080.0,platzi,Efectivo
-0.0,a credito,credito
+730.0,platzi,Efectivo
+625.5,a credito,credito
 100.0,inversion,gbm
 11562.5,inversion,cetes
 189.8,vales,Edenred
