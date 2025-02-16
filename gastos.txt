@@ -1,11 +1,18 @@
-31-12-2024,yo,656.0,luz casa,finiquito,BBVA,no,
-02-01-2025,yo,830.0,megacable,finiquito,BBVA,no,
-06-01-2025,pa,175.0,compra pa,a credito,credito,no,
-06-01-2025,pa,18.0,compras pa,a credito,credito,no,
-11-01-2025,pa,144.0,melox,gastos,vales,no,
-14-01-2025,yo,329.0,netflix,finiquito,BBVA,no,
-17-01-2025,yo,299.0,cortina,gastos,BBVA,no,
-19-01-2025,yo,950.0,despensa,vales,Pluxee,no,
-21-01-2025,ma,428.0,pizza,gastos,BBVA,no,
-24-01-2025,ma,313.0,okuma,gastos,Efectivo,no,
+31-12-2024,yo,656.0,luz casa,finiquito,BBVA,si,01-01-2025
+02-01-2025,yo,830.0,megacable,finiquito,BBVA,si,01-01-2025
+06-01-2025,pa,175.0,compra pa,a credito,credito,si,01-01-2025
+06-01-2025,pa,18.0,compras pa,a credito,credito,si,01-01-2025
+11-01-2025,pa,144.0,melox,gastos,vales,si,01-01-2025
+14-01-2025,yo,329.0,netflix,finiquito,BBVA,si,01-01-2025
+17-01-2025,yo,299.0,cortina,gastos,BBVA,si,01-01-2025
+19-01-2025,yo,950.0,despensa,vales,Pluxee,si,01-01-2025
+21-01-2025,ma,428.0,pizza,gastos,BBVA,si,01-01-2025
+24-01-2025,ma,313.0,okuma,gastos,Efectivo,si,01-01-2025
 04-02-2025,ma,100.0,recarga,a credito,Efectivo,no,
+08-02-2025,yo,142.5,atarax,casa,Efectivo,no,
+09-02-2025,ma,2407.5,despensa,casa,Nu,si,01-01-2025
+12-02-2025,ma,320.0,okuma,prestamo pa,Efectivo,no,
+13-02-2025,ma,150.0,recarga ma,prestamo ma,BBVA,no,
+12-02-2025,yo,584.0,megacable,reembolso ma,credito,no,
+14-02-2025,ma,100.0,recarga leo,a credito,Efectivo,no,
+13-02-2025,yo,41.0,chat,cabello,BBVA,no,

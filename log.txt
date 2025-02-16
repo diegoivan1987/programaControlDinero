@@ -704,3 +704,32 @@ Registrar gasto,72.0,Efectivo,,donas,07-02-2025
 Registrar pago,100.0,Efectivo,a credito,recarga,07-02-2025
 Registrar pago,500.0,Efectivo,casa,comida china,07-02-2025
 Registrar gasto,49.0,credito,,amazon,07-02-2025
+Registrar gasto,64.0,Efectivo,,cine,08-02-2025
+Registrar gasto,425.0,Efectivo,,atarax,08-02-2025
+Registrar gasto,27.0,Efectivo,,pan,11-02-2025
+Registrar gasto,2407.5,Nu,,despensa,09-02-2025
+Registrar gasto,700.0,Efectivo,,dentista,11-02-2025
+Registrar gasto,329.0,credito,,netflix,12-02-2025
+Registrar gasto,320.0,Efectivo,,okuma,12-02-2025
+Registrar gasto,77.0,Efectivo,,didi neurologa,12-02-2025
+Registrar gasto,850.0,Efectivo,,neurologa,12-02-2025
+Registrar gasto,200.0,Efectivo,,neurologa,12-02-2025
+Registrar gasto,50.0,Efectivo,,neurologa,12-02-2025
+Registrar dinero,400.0,,,prestamo ma,15-02-2025
+Registrar gasto,150.0,BBVA,,recarga ma,13-02-2025
+Registrar gasto,100.0,credito,,desayuno,14-02-2025
+Registrar gasto,790.0,credito,,megacable,12-02-2025
+Registrar gasto,28.0,Efectivo,,pan,14-02-2025
+Registrar gasto,100.0,credito,,recarga leo,14-02-2025
+Registrar gasto,41.0,BBVA,,chat,13-02-2025
+Registrar gasto,100.0,Efectivo,,pintura,15-02-2025
+Registrar gasto,120.0,Efectivo,,salida,15-02-2025
+Registrar pago,64.0,Efectivo,nutricion,cine,16-02-2025
+Registrar pago,27.0,Efectivo,dragon,pan,16-02-2025
+Registrar pago,700.0,Efectivo,platzi,dentista,16-02-2025
+Registrar pago,77.0,Efectivo,tanatologia,didi neurologa,16-02-2025
+Registrar pago,850.0,Efectivo,compras pa,neurologa,16-02-2025
+Registrar pago,200.0,Efectivo,prestamo pa,neurologa,16-02-2025
+Registrar pago,50.0,Efectivo,vuelto pa,neurologa,16-02-2025
+Registrar pago,100.0,Efectivo,a credito,desayuno,16-02-2025
+Registrar pago,282.5,Efectivo,casa,atarax,16-02-2025
