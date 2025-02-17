@@ -8,11 +8,10 @@
 19-01-2025,yo,950.0,despensa,vales,Pluxee,si,01-01-2025
 21-01-2025,ma,428.0,pizza,gastos,BBVA,si,01-01-2025
 24-01-2025,ma,313.0,okuma,gastos,Efectivo,si,01-01-2025
-04-02-2025,ma,100.0,recarga,a credito,Efectivo,no,
-08-02-2025,yo,142.5,atarax,casa,Efectivo,no,
 09-02-2025,ma,2407.5,despensa,casa,Nu,si,01-01-2025
+04-02-2025,ma,100.0,recarga,a credito,Efectivo,no,
 12-02-2025,ma,320.0,okuma,prestamo pa,Efectivo,no,
 13-02-2025,ma,150.0,recarga ma,prestamo ma,BBVA,no,
-12-02-2025,yo,584.0,megacable,reembolso ma,credito,no,
+12-02-2025,yo,113.0,megacable,a lo que falte,Efectivo,no,
 14-02-2025,ma,100.0,recarga leo,a credito,Efectivo,no,
-13-02-2025,yo,41.0,chat,cabello,BBVA,no,
+16-02-2025,pa,120.0,importacion compras,a credito,Efectivo,no,

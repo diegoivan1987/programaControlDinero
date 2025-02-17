@@ -733,3 +733,5 @@ Registrar pago,200.0,Efectivo,prestamo pa,neurologa,16-02-2025
 Registrar pago,50.0,Efectivo,vuelto pa,neurologa,16-02-2025
 Registrar pago,100.0,Efectivo,a credito,desayuno,16-02-2025
 Registrar pago,282.5,Efectivo,casa,atarax,16-02-2025
+Registrar gasto multicuenta (best fit),250.0,Efectivo,prestamo ma,medicina,16-02-2025
+Registrar gasto multicuenta (best fit),150.0,Efectivo,prestamo pa,medicina,16-02-2025
