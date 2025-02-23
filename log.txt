@@ -735,3 +735,26 @@ Registrar pago,100.0,Efectivo,a credito,desayuno,16-02-2025
 Registrar pago,282.5,Efectivo,casa,atarax,16-02-2025
 Registrar gasto multicuenta (best fit),250.0,Efectivo,prestamo ma,medicina,16-02-2025
 Registrar gasto multicuenta (best fit),150.0,Efectivo,prestamo pa,medicina,16-02-2025
+Registrar gasto,47.0,Efectivo,,tienda,17-02-2025
+Registrar gasto,40.0,Efectivo,,desayuno,18-02-2025
+Registrar gasto,528.5,credito,,ok,18-02-2025
+Registrar gasto,129.0,credito,,amazon prime,19-02-2025
+Registrar gasto multicuenta (best fit),250.0,Efectivo,prestamo ma,terapia magda,19-02-2025
+Registrar gasto multicuenta (best fit),150.0,Efectivo,prestamo pa,terapia magda,19-02-2025
+Registrar gasto,210.0,Efectivo,,comida,19-02-2025
+Registrar gasto,151.0,credito,,comida,21-02-2025
+Registrar pago,100.0,Efectivo,a credito,importacion compras,22-02-2025
+Registrar gasto,100.0,Efectivo,,pintura,22-02-2025
+Registrar pago,113.0,Efectivo,sin repartir,megacable,22-02-2025
+Registrar pago,151.0,Efectivo,reembolso ma,comida,22-02-2025
+Registrar pago,150.0,Efectivo,prestamo pa,terapia magda,22-02-2025
+Registrar pago,250.0,Efectivo,prestamo ma,terapia magda,22-02-2025
+Registrar pago,129.0,Efectivo,reembolso ma,amazon prime,22-02-2025
+Registrar pago,40.0,Efectivo,a credito,desayuno,22-02-2025
+Registrar pago,47.0,Efectivo,a credito,tienda,22-02-2025
+Registrar pago,528.5,credito,a credito,ok,22-02-2025
+Registrar pago,100.0,credito,a credito,recarga,22-02-2025
+Registrar pago,100.0,credito,a credito,recarga leo,22-02-2025
+Registrar pago,20.0,Efectivo,a credito,importacion compras,22-02-2025
+Registrar gasto,150.0,Efectivo,,debia pa,22-02-2025
+Registrar pago,315.5,Efectivo,megacable,okuma,22-02-2025
