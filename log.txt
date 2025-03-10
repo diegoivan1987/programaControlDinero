@@ -758,3 +758,77 @@ Registrar pago,100.0,credito,a credito,recarga leo,22-02-2025
 Registrar pago,20.0,Efectivo,a credito,importacion compras,22-02-2025
 Registrar gasto,150.0,Efectivo,,debia pa,22-02-2025
 Registrar pago,315.5,Efectivo,megacable,okuma,22-02-2025
+Registrar gasto,433.5,Nu,,despensa,23-02-2025
+Registrar gasto,1200.0,Pluxee,,despensa,23-02-2025
+Registrar gasto,333.0,Efectivo,,okuma,23-02-2025
+Registrar gasto,100.0,credito,,recarga,24-02-2025
+Registrar gasto,50.0,Efectivo,,tienda,24-02-2025
+Registrar gasto,30.0,Efectivo,,comida,26-02-2025
+Registrar gasto,335.0,credito,,kentuky,
+Registrar gasto,50.0,Efectivo,,tienda,27-02-2025
+Registrar gasto,35.0,Efectivo,,tienda,28-02-2025
+Registrar gasto,69.0,credito,,didi club,01-03-2025
+Registrar gasto,50.0,Efectivo,,tren,01-03-2025
+Registrar gasto,20.0,Efectivo,,tienda,01-03-2025
+Registrar gasto multicuenta (best fit),450.0,Efectivo,avion,tanatologa,01-03-2025
+Registrar gasto,100.0,Efectivo,,pintura,01-03-2025
+Registrar pago,333.0,Efectivo,cinta,okuma,01-03-2025
+Registrar gasto,178.0,credito,,chat,02-03-2025
+Registrar gasto,120.0,credito,,comida,02-03-2025
+Registrar gasto,42.0,Nu,,chat,03-03-2025
+Registrar gasto,790.0,Nu,,megacable,03-03-2025
+Registrar gasto,262.5,Efectivo,,dragon,03-03-2025
+Registrar gasto,350.0,Efectivo,,dragon,03-03-2025
+Registrar gasto,268.0,Efectivo,,abono cinta,03-03-2025
+Registrar gasto,592.5,Efectivo,,abono cinta,03-03-2025
+Registrar gasto,375.0,Efectivo,,abono cinta,03-03-2025
+Registrar gasto multicuenta (best fit),271.0,Efectivo,tanatologia,abono cinta,03-03-2025
+Registrar gasto multicuenta (best fit),141.75,Efectivo,netflix,abono cinta,03-03-2025
+Registrar gasto multicuenta (best fit),131.0,Efectivo,gastos,abono cinta,03-03-2025
+Registrar gasto multicuenta (best fit),100.0,Efectivo,neurologa,abono cinta,03-03-2025
+Registrar gasto multicuenta (best fit),87.5,Efectivo,nutricion,abono cinta,03-03-2025
+Registrar gasto multicuenta (best fit),84.5,Efectivo,prestamo ma,abono cinta,03-03-2025
+Registrar gasto multicuenta (best fit),48.75,Efectivo,avion,abono cinta,03-03-2025
+Registrar gasto,100.5,credito,,comida,05-03-2025
+Registrar gasto multicuenta (best fit),50.0,Efectivo,cabello,gym,07-03-2025
+Registrar gasto,115.5,credito,,comida,07-03-2025
+Registrar gasto multicuenta (best fit),47.5,Efectivo,pintura,tienda,07-03-2025
+Registrar gasto multicuenta (best fit),2.5,Efectivo,cabello,tienda,07-03-2025
+Registrar gasto,50.0,credito,,didi lavadora,08-03-2025
+Registrar gasto,54.0,credito,,didi regreso,08-03-2025
+Registrar gasto,100.0,credito,,recarga leo,08-03-2025
+Registrar gasto multicuenta (best fit),43.0,Efectivo,gym,nieve rocky,08-03-2025
+Registrar gasto multicuenta (best fit),17.0,Efectivo,cabello,nieve rocky,08-03-2025
+Registrar gasto,1300.0,Pluxee,,despensa,02-03-2025
+Registrar gasto,180.0,Efectivo,,pieza lavadora,09-03-2025
+Registrar gasto,87.0,Nu,,chat,09-03-2025
+Registrar gasto,147.5,Nu,,pastel,09-03-2025
+Registrar pago,17.0,Efectivo,cabello,nieve rocky,09-03-2025
+Registrar pago,43.0,Efectivo,gym,nieve rocky,09-03-2025
+Registrar pago,115.5,Efectivo,a credito,comida,09-03-2025
+Registrar pago,50.0,Efectivo,cabello,gym,09-03-2025
+Registrar pago,100.5,Efectivo,a credito,comida,09-03-2025
+Registrar pago,48.75,Efectivo,avion,abono cinta,09-03-2025
+Registrar pago,84.5,Efectivo,prestamo ma,abono cinta,09-03-2025
+Registrar pago,87.5,Efectivo,nutricion,abono cinta,09-03-2025
+Registrar pago,100.0,Efectivo,neurologa,abono cinta,09-03-2025
+Registrar pago,131.0,Efectivo,gastos,abono cinta,09-03-2025
+Registrar pago,141.75,Efectivo,netflix,abono cinta,09-03-2025
+Registrar pago,271.0,Efectivo,tanatologia,abono cinta,09-03-2025
+Registrar pago,592.5,Efectivo,megacable,abono cinta,09-03-2025
+Registrar pago,100.0,Efectivo,a credito,recarga leo,09-03-2025
+Registrar pago,54.0,Efectivo,a credito,didi regreso,09-03-2025
+Registrar pago,50.0,Efectivo,a credito,didi lavadora,09-03-2025
+Registrar pago,2.5,Efectivo,cabello,tienda,09-03-2025
+Registrar pago,47.5,Efectivo,pintura,tienda,09-03-2025
+Registrar pago,335.0,Efectivo,a credito,kentuky,09-03-2025
+Registrar pago,120.0,Efectivo,a credito,comida,09-03-2025
+Registrar pago,178.0,Efectivo,a credito,chat,09-03-2025
+Registrar pago,20.0,Efectivo,netflix,tienda,09-03-2025
+Registrar pago,50.0,Efectivo,nutricion,tren,09-03-2025
+Registrar pago,69.0,Efectivo,a credito,didi club,09-03-2025
+Registrar pago,35.0,Efectivo,netflix,tienda,09-03-2025
+Registrar pago,50.0,Efectivo,netflix,tienda,09-03-2025
+Registrar pago,30.0,Efectivo,megacable,comida,09-03-2025
+Registrar pago,50.0,Efectivo,nutricion,tienda,09-03-2025
+Registrar pago,100.0,Efectivo,a credito,recarga,09-03-2025
