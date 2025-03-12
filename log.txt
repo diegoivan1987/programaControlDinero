@@ -832,3 +832,6 @@ Registrar pago,50.0,Efectivo,netflix,tienda,09-03-2025
 Registrar pago,30.0,Efectivo,megacable,comida,09-03-2025
 Registrar pago,50.0,Efectivo,nutricion,tienda,09-03-2025
 Registrar pago,100.0,Efectivo,a credito,recarga,09-03-2025
+Registrar gasto,41.0,credito,,chat,11-03-2025
+Registrar gasto,109.0,credito,,comida,11-03-2025
+Registrar gasto,329.0,credito,,netflix,12-03-2025

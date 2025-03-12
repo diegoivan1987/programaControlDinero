@@ -1,4 +1,5 @@
-6542.5,ahorro,Nu
+5364.75,ahorro,Nu
+833.75, avion gastos varios,Nu
 2000.0,casa,Nu
 1080.0,platzi,Nu
 0.0,casa,BBVA
@@ -11,10 +12,10 @@
 0.0,dragon,BBVA
 0.0,gym,BBVA
 0.0,nutricion,BBVA
-0.0,chat,BBVA
+43.0,chat,BBVA
 0.0,cabello,BBVA
-14.0,plan,BBVA
-14.0,dentista,BBVA
+0.0,plan,BBVA
+0.0,dentista,BBVA
 0.0,sin repartir,Banamex
 0.0,casa,Banamex
 0.0,megacable,Banamex
@@ -30,26 +31,25 @@
 0.0,cabello,Banamex
 0.0,plan,Banamex
 0.0,dentista,Banamex
-1292.5,sin repartir,Efectivo
 0.0,casa,Efectivo
-0.0,megacable,Efectivo
+207.0,megacable,Efectivo
 0.0,netflix,Efectivo
-0.0,tanatologia,Efectivo
+281.0,tanatologia,Efectivo
 0.0,avion,Efectivo
-0.0,pintura,Efectivo
+45.0,pintura,Efectivo
 0.0,cinta,Efectivo
-0.0,dragon,Efectivo
-0.0,gym,Efectivo
-250,nutricion,Efectivo
-0.0,chat,Efectivo
-100.0,cabello,Efectivo
-0.0,plan,Efectivo
-0.0,gastos,Efectivo
+87.5,dragon,Efectivo
+350.0,gym,Efectivo
+250.0,nutricion,Efectivo
+31.5,chat,Efectivo
+0.0,cabello,Efectivo
+50.0,plan,Efectivo
+61.25,gastos,Efectivo
 84.5,prestamo ma,Efectivo
 100.0,neurologa,Efectivo
-0.0,dentista,Efectivo
+58.25,dentista,Efectivo
 0.0,a credito,Efectivo
-1400,a credito,credito
+1250.0,a credito,credito
 100.0,inversion,gbm
 11562.5,inversion,cetes
 36.7,vales,Pluxee
