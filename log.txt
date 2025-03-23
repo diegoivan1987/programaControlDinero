@@ -836,3 +836,34 @@ Registrar gasto,41.0,credito,,chat,11-03-2025
 Registrar gasto,109.0,credito,,comida,11-03-2025
 Registrar gasto,329.0,credito,,netflix,12-03-2025
 Registrar gasto,250.0,Efectivo,,nutricion,12-03-2025
+Registrar gasto,17.0,Efectivo,,coca,12-03-2025
+Registrar gasto,27.0,Efectivo,,paleta,13-03-2025
+Registrar gasto,143.0,credito,,ok,14-03-2025
+Registrar gasto,184.25,Efectivo,,salida,15-03-2025
+Registrar gasto,50.75,Efectivo,,salida,15-03-2025
+Registrar gasto,80.0,Efectivo,,cine,15-03-2025
+Registrar gasto,40.0,Efectivo,,nieve,15-03-2025
+Registrar gasto,1000.0,Nu,,despensa,16-03-2025
+Registrar gasto,17.0,Efectivo,,tienda,18-03-2025
+Registrar gasto,50.0,Efectivo,,pastel pa,18-03-2025
+Registrar gasto,129.0,credito,,amazon music,18-03-2025
+Registrar gasto,150.0,credito,,recarga,19-03-2025
+Registrar gasto,49.0,Efectivo,,comida,19-03-2025
+Registrar gasto,50.0,Efectivo,,camion,20-03-2025
+Registrar gasto,31.0,Efectivo,,tienda,21-03-2025
+Registrar gasto,120.0,credito,,comida,21-03-2025
+Registrar gasto,194.5,Banamex,,cumpleanios,20-03-2025
+Registrar gasto,27.0,Banamex,,paleta,20-03-2025
+Registrar gasto multicuenta (best fit),281.0,Efectivo,tanatologia,tanatologia,22-03-2025
+Registrar gasto multicuenta (best fit),100.0,Efectivo,neurologa,tanatologia,22-03-2025
+Registrar gasto multicuenta (best fit),69.0,Efectivo,prestamo ma,tanatologia,22-03-2025
+Registrar gasto,20.0,Efectivo,,tren,22-03-2025
+Registrar gasto,25.0,Efectivo,,pan,22-03-2025
+Registrar gasto multicuenta (best fit),56.5,Efectivo,dragon,pintura,22-03-2025
+Registrar gasto multicuenta (best fit),43.5,Efectivo,pintura,pintura,22-03-2025
+Registrar pago,56.5,Banamex,dragon,pintura,22-03-2025
+Registrar pago,25.0,Banamex,dentista,pan,22-03-2025
+Registrar pago,20.0,Banamex,dentista,tren,22-03-2025
+Registrar pago,69.0,Banamex,prestamo ma,tanatologia,22-03-2025
+Registrar pago,100.0,Banamex,neurologa,tanatologia,22-03-2025
+Registrar pago,120.0,credito,a credito,comida,22-03-2025

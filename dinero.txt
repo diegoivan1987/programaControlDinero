@@ -1,19 +1,20 @@
-5623.7,ahorro,Nu
-1000.5,avion gastos varios,Nu
-160.0,tanatologia gastos varios,Nu
-120.0,pintura gastos varios,Nu
-87.5,dragon gastos varios,Nu
-87.5,gym gastos varios,Nu
-62.5,nutricion gastos varios,Nu
-31.5,chat gastos varios,Nu
-30.0,cabello gastos varios,Nu
-25.0,plan gastos varios,Nu
-29.125,dentista gastos varios,Nu
-100.0,cinta gastos varios,Nu
-187.25,mio gastos varios,Nu
-2807.25,casa gastos casa,Nu
-197.5,megacable gastos casa,Nu
-82.25,netflix gastos casa,Nu
+6000.7,ahorro,Nu
+1167.25,avion gastos varios,Nu
+200.0,tanatologia gastos varios,Nu
+204.5,pintura gastos varios,Nu
+231.5,dragon gastos varios,Nu
+237.25,gym gastos varios,Nu
+125.0,nutricion gastos varios,Nu
+94.5,chat gastos varios,Nu
+60.0,cabello gastos varios,Nu
+50.0,plan gastos varios,Nu
+107.25,dentista gastos varios,Nu
+200.0,cinta gastos varios,Nu
+0.75,libre gastos varios,Nu
+2614.5,casa gastos casa,Nu
+0.0,a credito gastos varios,Nu
+435.0,megacable gastos casa,Nu
+164.5,netflix gastos casa,Nu
 1080.0,platzi,Nu
 0.0,casa,BBVA
 0.0,megacable,BBVA
@@ -29,7 +30,6 @@
 0.0,cabello,BBVA
 0.0,plan,BBVA
 0.0,dentista,BBVA
-0.0,sin repartir,Banamex
 0.0,casa,Banamex
 0.0,megacable,Banamex
 0.0,netflix,Banamex
@@ -44,25 +44,29 @@
 0.0,cabello,Banamex
 0.0,plan,Banamex
 0.0,dentista,Banamex
+0.0,libre,Banamex
+0.0,ahorro,Banamex
+82.0,prestamo ma,Banamex
+100.0,neurologa,Banamex
 0.0,casa,Efectivo
-40.0,megacable,Efectivo
+0.0,megacable,Efectivo
 0.0,netflix,Efectivo
-281.0,tanatologia,Efectivo
+0.0,tanatologia,Efectivo
 0.0,avion,Efectivo
-45.0,pintura,Efectivo
+1.5,pintura,Efectivo
 0.0,cinta,Efectivo
-87.5,dragon,Efectivo
-350.0,gym,Efectivo
+0.0,dragon,Efectivo
+0.0,gym,Efectivo
 0.0,nutricion,Efectivo
-31.5,chat,Efectivo
+0.0,chat,Efectivo
 0.0,cabello,Efectivo
 50.0,plan,Efectivo
-228.25,gastos,Efectivo
-84.5,prestamo ma,Efectivo
-100.0,neurologa,Efectivo
-58.25,dentista,Efectivo
+0.0,libre,Efectivo
+15.5,prestamo ma,Efectivo
+0.0,neurologa,Efectivo
+9.25,dentista,Efectivo
 0.0,a credito,Efectivo
-1350.0,a credito,credito
+928.0,a credito,credito
 167.0,megacable,credito
 100.0,inversion,gbm
 11562.5,inversion,cetes

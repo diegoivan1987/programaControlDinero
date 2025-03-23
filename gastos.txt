@@ -7,3 +7,15 @@
 02-03-2025,ma,1300.0,despensa,vales,Pluxee,si,02-03-2025
 09-03-2025,pa,180.0,pieza lavadora,sin repartir,Efectivo,si,09-03-2025
 12-03-2025,ma,329.0,netflix,a credito,credito,si,12-03-2025
+16-03-2025,ma,1000.0,despensa,casa gastos casa,Nu,si,16-03-2025
+14-03-2025,yo,143.0,ok,a credito,credito,no,
+15-03-2025,yo,50.75,salida,gym,Efectivo,no,
+15-03-2025,yo,80.0,cine,gym,Efectivo,no,
+15-03-2025,yo,40.0,nieve,gym,Efectivo,no,
+18-03-2025,yo,17.0,tienda,gym,Efectivo,no,
+18-03-2025,yo,50.0,pastel pa,gym,Banamex,no,
+18-03-2025,yo,129.0,amazon music,a credito,credito,no,
+19-03-2025,ma,150.0,recarga,a credito,credito,no,
+20-03-2025,yo,50.0,camion,gym,Banamex,no,
+21-03-2025,yo,10.0,tienda,dragon,Banamex,no,
+20-03-2025,yo,194.5,cumpleanios,ahorro,Banamex,no,
