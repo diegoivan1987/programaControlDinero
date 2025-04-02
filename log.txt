@@ -867,3 +867,28 @@ Registrar pago,20.0,Banamex,dentista,tren,22-03-2025
 Registrar pago,69.0,Banamex,prestamo ma,tanatologia,22-03-2025
 Registrar pago,100.0,Banamex,neurologa,tanatologia,22-03-2025
 Registrar pago,120.0,credito,a credito,comida,22-03-2025
+Registrar gasto,535.0,credito,,mcdonalds,23-03-2025
+Registrar pago,500.0,Efectivo,a credito,mcdonalds,02-04-2025
+Registrar gasto,35.0,Efectivo,,lonche,24-03-2025
+Registrar gasto,500.0,Efectivo,,gas,24-03-2025
+Registrar gasto,41.0,BBVA,,chat,25-03-2025
+Registrar gasto,35.0,credito,,lonche,26-03-2025
+Registrar gasto,50.0,Efectivo,,pan,27-03-2025
+Registrar gasto,15.0,Efectivo,,lunalas,28-03-2025
+Registrar gasto,141.0,credito,,comida,29-03-2025
+Registrar pago,141.0,credito,a credito,comida,02-04-2025
+Registrar pago,35.0,credito,megacable,lonche,02-04-2025
+Registrar pago,500.0,Efectivo,a credito,gas,02-04-2025
+Registrar gasto,20.0,Efectivo,,coca sin azucar,29-03-2025
+Registrar gasto multicuenta (best fit),437.0,Efectivo,ahorro,okuma,29-03-2025
+Registrar gasto,100.0,Efectivo,,pintura,29-03-2025
+Registrar gasto,14.0,Efectivo,,coca,29-03-2025
+Registrar gasto,100.0,credito,,recarga,30-01-2025
+Registrar gasto,969.0,credito,,resorte,01-04-2025
+Registrar pago,969.0,Efectivo,a credito,resorte,02-04-2025
+Registrar gasto multicuenta (best fit),167.0,credito,megacable,interruptor,01-04-2025
+Registrar gasto multicuenta (best fit),134.0,credito,a credito,interruptor,01-04-2025
+Registrar pago,134.0,Efectivo,a credito,interruptor,02-04-2025
+Registrar pago,167.0,Efectivo,megacable,interruptor,02-04-2025
+Registrar gasto multicuenta (best fit),350.0,Efectivo,megacable,dragon,01-04-2025
+Registrar gasto multicuenta (best fit),400.0,Efectivo,ahorro,cinta,01-04-2025

@@ -1,4 +1,4 @@
-6000.7,ahorro,Nu
+5044.7,ahorro,Nu
 1167.25,avion gastos varios,Nu
 200.0,tanatologia gastos varios,Nu
 204.5,pintura gastos varios,Nu
@@ -26,10 +26,11 @@
 0.0,dragon,BBVA
 0.0,gym,BBVA
 0.0,nutricion,BBVA
-43.0,chat,BBVA
+2.0,chat,BBVA
 0.0,cabello,BBVA
 0.0,plan,BBVA
 0.0,dentista,BBVA
+90.0,prestamo para camara,BBVA
 0.0,casa,Banamex
 0.0,megacable,Banamex
 0.0,netflix,Banamex
@@ -48,26 +49,30 @@
 0.0,ahorro,Banamex
 82.0,prestamo ma,Banamex
 100.0,neurologa,Banamex
-0.0,casa,Efectivo
-0.0,megacable,Efectivo
-0.0,netflix,Efectivo
-0.0,tanatologia,Efectivo
-0.0,avion,Efectivo
-1.5,pintura,Efectivo
-0.0,cinta,Efectivo
-0.0,dragon,Efectivo
-0.0,gym,Efectivo
-0.0,nutricion,Efectivo
-0.0,chat,Efectivo
-0.0,cabello,Efectivo
-50.0,plan,Efectivo
+1289.0,mio,Banamex
+287.25,casa,Efectivo
+14.5,megacable,Efectivo
+82.25,netflix,Efectivo
+160.0,tanatologia,Efectivo
+166.75,avion,Efectivo
+21.5,pintura,Efectivo
+100.0,cinta,Efectivo
+87.5,dragon,Efectivo
+87.5,gym,Efectivo
+62.5,nutricion,Efectivo
+31.5,chat,Efectivo
+30.0,cabello,Efectivo
+40.0,plan,Efectivo
 0.0,libre,Efectivo
 15.5,prestamo ma,Efectivo
 0.0,neurologa,Efectivo
-9.25,dentista,Efectivo
-0.0,a credito,Efectivo
-928.0,a credito,credito
-167.0,megacable,credito
+38.375,dentista,Efectivo
+92.5,ahorro,Efectivo
+1245.0,a credito,Efectivo
+62.5,mio,Efectivo
+31.0,vuelto pa,Efectivo
+0.0,a credito,credito
+0.0,megacable,credito
 100.0,inversion,gbm
 11562.5,inversion,cetes
 36.7,vales,Pluxee
