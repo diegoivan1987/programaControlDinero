@@ -892,3 +892,27 @@ Registrar pago,134.0,Efectivo,a credito,interruptor,02-04-2025
 Registrar pago,167.0,Efectivo,megacable,interruptor,02-04-2025
 Registrar gasto multicuenta (best fit),350.0,Efectivo,megacable,dragon,01-04-2025
 Registrar gasto multicuenta (best fit),400.0,Efectivo,ahorro,cinta,01-04-2025
+Registrar gasto,790.0,Nu,,megacable,02-04-2025
+Registrar gasto,18.0,Efectivo,,galletas,02-04-2025
+Registrar gasto,50.0,Efectivo,,chip,02-04-2025
+Registrar gasto,50.0,Efectivo,,rosal,02-04-2025
+Registrar pago,50.0,Banamex,avion,rosal,03-04-2025
+Registrar pago,50.0,Banamex,avion,chip,03-04-2025
+Registrar pago,100.0,Banamex,ahorro,cinta,03-04-2025
+Registrar pago,87.5,Banamex,megacable,dragon,03-04-2025
+Registrar pago,141.0,Banamex,ahorro,comida,03-04-2025
+Registrar pago,35.0,Banamex,ahorro,lonche,03-04-2025
+Registrar pago,35.0,Banamex,plan,lonche,03-04-2025
+Registrar pago,35.0,Banamex,a credito,mcdonalds,03-04-2025
+Registrar pago,10.0,Banamex,dragon,tienda,03-04-2025
+Registrar pago,60.0,Banamex,a credito,recarga,03-04-2025
+Registrar pago,194.5,Banamex,ahorro,cumpleanios,03-04-2025
+Registrar pago,50.0,Banamex,gym,camion,03-04-2025
+Registrar pago,129.0,Banamex,ahorro,amazon music,03-04-2025
+Registrar pago,50.0,Banamex,gym,pastel pa,03-04-2025
+Registrar pago,40.0,Banamex,gym,nieve,03-04-2025
+Registrar pago,17.0,Banamex,gym,tienda,03-04-2025
+Registrar pago,80.0,Banamex,gym,cine,03-04-2025
+Registrar pago,50.75,Banamex,gym,salida,03-04-2025
+Registrar pago,143.0,Banamex,ahorro,ok,03-04-2025
+Registrar pago,435.0,Nu,casa gastos casa,megacable,03-04-2025
