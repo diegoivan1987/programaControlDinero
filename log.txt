@@ -916,3 +916,106 @@ Registrar pago,80.0,Banamex,gym,cine,03-04-2025
 Registrar pago,50.75,Banamex,gym,salida,03-04-2025
 Registrar pago,143.0,Banamex,ahorro,ok,03-04-2025
 Registrar pago,435.0,Nu,casa gastos casa,megacable,03-04-2025
+Registrar gasto,69.0,credito,,didi club,04-04-2025
+Registrar pago,150.0,Efectivo,ahorro,recarga,13-04-2025
+Registrar pago,437.0,Efectivo,ahorro,okuma,13-04-2025
+Registrar gasto,200.0,credito,,recarga,04-04-2025
+Registrar gasto,226.5,Efectivo,,camisa,04-04-2025
+Registrar gasto,23.5,Efectivo,,camisa,05-04-2025
+Registrar pago,200.0,Efectivo,a credito,recarga,13-04-2025
+Registrar gasto multicuenta (best fit),400.0,Efectivo,ahorro,gym,05-04-2025
+Registrar gasto multicuenta (best fit),527.0,Efectivo,ahorro,okuma,05-04-2025
+Registrar gasto multicuenta (best fit),100.0,Efectivo,casa,cabello,05-04-2025
+Registrar gasto multicuenta (best fit),100.0,Efectivo,tanatologia,pintura,05-04-2025
+Registrar gasto,130.0,credito,,didi evento,05-04-2025
+Registrar gasto,270.0,credito,,mcdonalds,06-04-2025
+Registrar gasto,25.0,Efectivo,,pay,08-04-2025
+Registrar gasto,37.0,Efectivo,,desayuno,09-04-2025
+Registrar gasto,22.0,Efectivo,,tienda,09-04-2025
+Registrar gasto,77.5,credito,,didi neurologa,09-04-2025
+Registrar gasto multicuenta (best fit),1075.5,Efectivo,ahorro,neurologa,09-04-2025
+Registrar gasto multicuenta (best fit),200.0,Efectivo,a credito,neurologa,09-04-2025
+Registrar gasto multicuenta (best fit),24.5,Efectivo,cabello,neurologa,09-04-2025
+Registrar gasto multicuenta (best fit),87.5,Efectivo,gym,donitas,09-04-2025
+Registrar gasto multicuenta (best fit),82.25,Efectivo,netflix,donitas,09-04-2025
+Registrar gasto multicuenta (best fit),6.25,Efectivo,dentista,donitas,09-04-2025
+Registrar gasto,26.0,Banamex,,pague misa,10-04-2025
+Registrar gasto,30.0,Banamex,,pague alexa,10-04-2025
+Registrar gasto,42.0,credito,,chat,11-04-2025
+Registrar pago,527.0,Efectivo,ahorro,okuma,13-04-2025
+Registrar gasto multicuenta (best fit),527.0,Efectivo,ahorro,gelatinas,11-04-2025
+Registrar gasto multicuenta (best fit),53.0,Efectivo,tanatologia,gelatinas,11-04-2025
+Registrar gasto,329.0,credito,,netflix,12-04-2025
+Registrar gasto,100.0,credito,,recarga alexa,12-04-2025
+Registrar gasto,20.0,Efectivo,,coca,14-04-2025
+Registrar gasto,36.0,Efectivo,,tienda,14-04-2025
+Registrar gasto,650.0,Banamex,,pago leo,14-04-2025
+Registrar gasto,50.0,credito,,recarga leo,14-04-2025
+Registrar gasto multicuenta (best fit),66.5,Efectivo,dragon,pintura,14-04-2025
+Registrar gasto multicuenta (best fit),33.5,Efectivo,megacable,pintura,14-04-2025
+Registrar gasto,26.0,Efectivo,,pan,14-04-2025
+Registrar gasto,1000.0,Pluxee,,despensa,06-04-2025
+Registrar gasto,30.0,Efectivo,,comida,14-04-2025
+Registrar gasto,34.0,Efectivo,,tienda,14-04-2025
+Registrar gasto,20.0,Efectivo,,pago juan,14-04-2025
+Registrar gasto,403.0,credito,,medicina,16-04-2025
+Registrar gasto multicuenta (best fit),112.5,credito,a credito,comida,17-04-2025
+Registrar gasto multicuenta (best fit),2.5,credito,mio,comida,17-04-2025
+Registrar gasto,354.0,Nu,,ok,18-04-2025
+Registrar gasto multicuenta (best fit),21.5,Efectivo,pintura,pintura,19-04-2025
+Registrar gasto multicuenta (best fit),19.0,Efectivo,casa,pintura,19-04-2025
+Registrar gasto multicuenta (best fit),18.5,Efectivo,prestamo ma,pintura,19-04-2025
+Registrar gasto multicuenta (best fit),16.0,Efectivo,mio,pintura,19-04-2025
+Registrar gasto multicuenta (best fit),8.625,Efectivo,dentista,pintura,19-04-2025
+Registrar gasto multicuenta (best fit),7.0,Efectivo,tanatologia,pintura,19-04-2025
+Registrar gasto multicuenta (best fit),5.5,Efectivo,cabello,pintura,19-04-2025
+Registrar gasto multicuenta (best fit),3.875,Efectivo,avion,pintura,19-04-2025
+Registrar gasto,216.0,Nu,,dairy,20-04-2025
+Registrar pago,527.0,Efectivo,ahorro,gelatinas,20-04-2025
+Registrar pago,53.0,Efectivo,tanatologia,gelatinas,20-04-2025
+Registrar pago,100.0,Efectivo,a credito,recarga alexa,20-04-2025
+Registrar pago,650.0,Efectivo,casa,pago leo,20-04-2025
+Registrar pago,50.0,Efectivo,a credito,recarga leo,20-04-2025
+Registrar gasto,250.0,Efectivo,,nutricion,16-04-2025
+Registrar gasto multicuenta (best fit),500.0,Efectivo,casa,pescado,17-04-2025
+Registrar gasto multicuenta (best fit),32.0,Efectivo,tanatologia,nieve,19-04-2025
+Registrar gasto,10.0,Efectivo,,puse farmacia,19-04-2025
+Registrar gasto,25.0,Efectivo,,agua,19-04-2025
+Registrar pago,69.0,Nu,a credito,didi club,20-04-2025
+Registrar pago,200.0,Nu,mio,camisa,20-04-2025
+Registrar pago,26.5,Nu,mio,camisa,20-04-2025
+Registrar pago,400.0,Nu,ahorro,gym,20-04-2025
+Registrar pago,23.5,Nu,dentista,camisa,20-04-2025
+Registrar pago,100.0,Nu,tanatologia,pintura,20-04-2025
+Registrar pago,100.0,Nu,casa,cabello,20-04-2025
+Registrar pago,130.0,Nu,a credito,didi evento,20-04-2025
+Registrar pago,270.0,Nu,a credito,mcdonalds,20-04-2025
+Registrar pago,25.0,Nu,avion,pay,20-04-2025
+Registrar pago,37.0,Nu,avion,desayuno,20-04-2025
+Registrar pago,22.0,Nu,ahorro,tienda,20-04-2025
+Registrar pago,77.5,Nu,a credito,didi neurologa,20-04-2025
+Registrar pago,186.0,Nu,a credito,neurologa,20-04-2025
+Registrar pago,16.0,Nu,mio,pintura,20-04-2025
+Registrar pago,25.0,Nu,ahorro,agua,20-04-2025
+Registrar pago,31.5,Nu,chat,desconocido,20-04-2025
+Registrar pago,40.0,Nu,plan,desconocido,20-04-2025
+Registrar pago,32.0,Nu,tanatologia,nieve,20-04-2025
+Registrar pago,3.875,Nu,avion,pintura,20-04-2025
+Registrar pago,5.5,Nu,cabello,pintura,20-04-2025
+Registrar pago,7.0,Nu,tanatologia,pintura,20-04-2025
+Registrar pago,8.625,Nu,dentista,pintura,20-04-2025
+Registrar pago,18.5,Nu,prestamo ma,pintura,20-04-2025
+Registrar pago,19.0,Nu,casa,pintura,20-04-2025
+Registrar pago,112.5,Nu,a credito,comida,20-04-2025
+Registrar pago,42.0,Nu,a credito,chat,20-04-2025
+Registrar pago,329.0,Nu,a credito,netflix,20-04-2025
+Registrar pago,33.5,Nu,megacable,pintura,20-04-2025
+Registrar pago,66.5,Nu,dragon,pintura,20-04-2025
+Registrar pago,250.0,Nu,ahorro,nutricion,20-04-2025
+Registrar pago,14.0,Nu,a credito,neurologa,20-04-2025
+Registrar pago,24.5,Nu,cabello,neurologa,20-04-2025
+Registrar pago,87.5,Nu,gym,donitas,20-04-2025
+Registrar pago,82.25,Nu,netflix,donitas,20-04-2025
+Registrar pago,6.25,Nu,dentista,donitas,20-04-2025
+Registrar pago,36.0,Nu,nutricion,tienda,20-04-2025
+Registrar pago,1075.5,Nu,ahorro,neurologa,20-04-2025

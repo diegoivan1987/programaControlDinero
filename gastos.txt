@@ -9,6 +9,6 @@
 12-03-2025,ma,329.0,netflix,a credito,credito,si,12-03-2025
 16-03-2025,ma,1000.0,despensa,casa gastos casa,Nu,si,16-03-2025
 24-03-2025,pa,500.0,gas,a credito,Efectivo,si,29-03-2025
-29-03-2025,ma,20.0,coca sin azucar,casa,Efectivo,si,29-03-2025
-19-03-2025,ma,150.0,recarga,ahorro,Nu,no,
-29-03-2025,ma,437.0,okuma,ahorro,Efectivo,no,
+18-04-2025,ma,354.0,ok,ahorro,Nu,no,
+20-04-2025,ma,216.0,dairy,ahorro,Nu,no,
+17-04-2025,ma,500.0,pescado,casa,Efectivo,no,
