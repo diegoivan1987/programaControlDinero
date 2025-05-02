@@ -1019,3 +1019,30 @@ Registrar pago,82.25,Nu,netflix,donitas,20-04-2025
 Registrar pago,6.25,Nu,dentista,donitas,20-04-2025
 Registrar pago,36.0,Nu,nutricion,tienda,20-04-2025
 Registrar pago,1075.5,Nu,ahorro,neurologa,20-04-2025
+Registrar gasto,40.0,Efectivo,,tienda,22-04-2025
+Registrar gasto,60.0,Efectivo,,comida,23-04-2025
+Registrar gasto,274.5,credito,,pizza,23-04-2025
+Registrar pago,500.0,Efectivo,casa,pescado,27-04-2025
+Registrar pago,354.0,Efectivo,ahorro,ok,27-04-2025
+Registrar pago,216.0,Efectivo,ahorro,dairy,27-04-2025
+Registrar gasto,388.0,credito,,reloj,23-04-2025
+Registrar gasto,39.0,BBVA,,chat,25-04-2025
+Registrar gasto,27.0,Efectivo,,paleta,24-04-2025
+Registrar gasto,20.0,Efectivo,,tienda,25-04-2025
+Registrar gasto,200.0,credito,,recarga,26-04-2025
+Registrar gasto,30.0,Efectivo,,tren,26-04-2025
+Registrar gasto,450.0,Efectivo,,tanatologia,26-04-2025
+Registrar gasto,102.5,credito,,didi tanatologia,26-04-2025
+Registrar gasto,58.0,Efectivo,,frappe,26-04-2025
+Registrar gasto multicuenta (best fit),807.25,Banamex,casa,despensa,27-04-2025
+Registrar gasto multicuenta (best fit),192.75,Banamex,megacable,despensa,27-04-2025
+Registrar gasto,16.0,Efectivo,,pan,27-04-2025
+Registrar gasto multicuenta (best fit),527.0,Efectivo,ahorro,okuma,27-04-2025
+Registrar gasto,6.0,Efectivo,,tienda,30-04-2025
+Registrar gasto multicuenta (best fit),229.5,credito,a credito,desayuno,01-05-2025
+Registrar gasto,846.0,Nu,,luz,01-05-2025
+Registrar gasto,594.7,Nu,,megacable,01-05-2025
+Registrar gasto,240.3,Nu,,megacable,01-05-2025
+Registrar pago,846.0,Efectivo,casa,luz,01-05-2025
+Registrar pago,102.5,credito,a credito,didi tanatologia,01-05-2025
+Registrar pago,240.3,Nu,netflix,megacable,01-05-2025

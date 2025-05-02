@@ -1,23 +1,24 @@
-3429.7,casa,Nu
-7801.2,ahorro,Nu
-590.0,megacable,Nu
-7.8,mio,Nu
-1833.0,avion,Nu
-800.0,tanatologia,Nu
-200.0,pintura,Nu
-0.0,cinta,Nu
-241.5,dragon,Nu
-475.0,gym,Nu
-164.45,netflix,Nu
-98.5,nutricion,Nu
-178.5,chat,Nu
-74.5,cabello,Nu
-251.67,dentista,Nu
-100.0,plan,Nu
+3821.9,casa,Nu
+7583.0,ahorro,Nu
+0.0,megacable,Nu
+152.25,mio,Nu
+1999.7,avion,Nu
+160.5,tanatologia,Nu
+280.0,pintura,Nu
+0.0,dragon,Nu
+450.5,gym,Nu
+329.0,netflix,Nu
+161.0,nutricion,Nu
+171.0,chat,Nu
+104.5,cabello,Nu
+281.6,dentista,Nu
+125.0,plan,Nu
+0.0,celular,Nu
 0.0,a credito,Nu
 0.0,neurologa,Nu
 1080.0,platzi,Nu
 100.5,prestamo ma,Nu
+39.0,prestamo para camara,Nu
 0.0,casa,BBVA
 0.0,ahorro,BBVA
 0.0,megacable,BBVA
@@ -25,7 +26,6 @@
 0.0,avion,BBVA
 0.0,tanatologia,BBVA
 0.0,pintura,BBVA
-0.0,cinta,BBVA
 0.0,dragon,BBVA
 0.0,gym,BBVA
 0.0,netflix,BBVA
@@ -34,7 +34,8 @@
 0.0,cabello,BBVA
 0.0,dentista,BBVA
 0.0,plan,BBVA
-90.0,prestamo para camara,BBVA
+0.0,celular,BBVA
+51.0,prestamo para camara,BBVA
 0.0,casa,Banamex
 0.0,ahorro,Banamex
 0.0,megacable,Banamex
@@ -42,7 +43,6 @@
 0.0,avion,Banamex
 0.0,tanatologia,Banamex
 0.0,pintura,Banamex
-0.0,cinta,Banamex
 0.0,dragon,Banamex
 0.0,gym,Banamex
 0.0,netflix,Banamex
@@ -51,17 +51,17 @@
 0.0,cabello,Banamex
 0.0,dentista,Banamex
 0.0,plan,Banamex
+0.0,celular,Banamex
 0.0,a credito,Banamex
 0.0,prestamo ma,Banamex
 0.0,neurologa,Banamex
-140.0,casa,Efectivo
-252.0,ahorro,Efectivo
+748.0,casa,Efectivo
+119.0,ahorro,Efectivo
 2.0,megacable,Efectivo
 0.0,mio,Efectivo
 0.875,avion,Efectivo
-21.0,tanatologia,Efectivo
+15.0,tanatologia,Efectivo
 0.0,pintura,Efectivo
-0.0,cinta,Efectivo
 0.0,dragon,Efectivo
 0.0,gym,Efectivo
 0.0,netflix,Efectivo
@@ -70,13 +70,12 @@
 0.0,cabello,Efectivo
 0.0,dentista,Efectivo
 0.0,plan,Efectivo
-0.0,prestamo ma,Efectivo
-150.0,a credito,Efectivo
+0.0,celular,Efectivo
+130.0,prestamo ma,Efectivo
+0.0,a credito,Efectivo
 1.0,vuelto pa,Efectivo
-1305.5,a credito,credito
+980.5,a credito,credito
 94.5,mio,credito
 100.0,inversion,gbm
 11562.5,inversion,cetes
-342.5,vales,Pluxee
-82.25,netflix,Pluxee
-197.5,megacable,Pluxee
+622.25,vales,Pluxee
