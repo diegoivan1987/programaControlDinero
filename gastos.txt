@@ -1,16 +1,1 @@
-06-01-2025,pa,175.0,compra pa,a credito,credito,si,01-01-2025
-23-02-2025,ma,433.5,despensa,casa,Nu,si,01-01-2025
-23-02-2025,ma,1200.0,despensa,vales,Pluxee,si,01-01-2025
-23-02-2025,ma,0.0,okuma,cinta,Efectivo,si,23-02-2025
-26-02-2025,ma,0.0,kentuky,a credito,Efectivo,si,09-03-2025
-03-03-2025,ma,790.0,megacable,casa,Nu,si,03-03-2025
-02-03-2025,ma,1300.0,despensa,vales,Pluxee,si,02-03-2025
-09-03-2025,pa,180.0,pieza lavadora,sin repartir,Efectivo,si,09-03-2025
-12-03-2025,ma,329.0,netflix,a credito,credito,si,12-03-2025
-16-03-2025,ma,1000.0,despensa,casa gastos casa,Nu,si,16-03-2025
-24-03-2025,pa,500.0,gas,a credito,Efectivo,si,29-03-2025
-27-04-2025,ma,807.25,despensa,casa,Banamex,si,27-04-2025
-01-05-2025,ma,790.0,megacable,netflix,Nu,si,01-05-2025
-23-04-2025,ma,274.5,pizza,a credito,Efectivo,no,
-26-04-2025,ma,200.0,recarga,a credito,credito,no,
-27-04-2025,ma,296.5,okuma,ahorro,Efectivo,no,
+07-05-2025,ma,100.0,prestamo para ma,a credito,Efectivo,no,

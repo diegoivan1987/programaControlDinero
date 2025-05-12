@@ -1,24 +1,25 @@
-4629.15,casa,Nu
-8154.5,ahorro,Nu
-406.25,mio,Nu
-200.0,celular,Nu
-197.5,megacable,Nu
-1999.7,avion,Nu
-320.5,tanatologia,Nu
-400.0,pintura,Nu
-87.5,dragon,Nu
-538.0,gym,Nu
-411.25,netflix,Nu
-223.5,nutricion,Nu
-202.5,chat,Nu
-134.5,cabello,Nu
-310.7,dentista,Nu
-150.0,plan,Nu
-0.0,a credito,Nu
-0.0,neurologa,Nu
-1080.0,platzi,Nu
-100.5,prestamo ma,Nu
-39.0,prestamo para camara,Nu
+3374.4,casa turbo,Nu
+10197.38,ahorro turbo,Nu
+874.21,ahorro,Nu
+0.0,mio turbo,Nu
+400.0,celular turbo,Nu
+395.0,megacable turbo,Nu
+1999.7,avion turbo,Nu
+480.5,tanatologia turbo,Nu
+270.0,pintura turbo,Nu
+175.0,dragon turbo,Nu
+625.5,gym turbo,Nu
+164.5,netflix turbo,Nu
+286.0,nutricion turbo,Nu
+155.0,chat turbo,Nu
+164.5,cabello turbo,Nu
+339.82,dentista turbo,Nu
+175.0,plan turbo,Nu
+0.0,a credito turbo,Nu
+0.0,neurologa turbo,Nu
+30.5,prestamo ma turbo,Nu
+39.0,prestamo para camara turbo,Nu
+1113.97,platzi,Nu
 0.0,casa,BBVA
 0.0,ahorro,BBVA
 0.0,mio,BBVA
@@ -53,8 +54,8 @@
 0.0,a credito,Banamex
 0.0,prestamo ma,Banamex
 0.0,neurologa,Banamex
-748.0,casa,Efectivo
-119.0,ahorro,Efectivo
+1920.0,casa,Efectivo
+518.5,ahorro,Efectivo
 0.0,mio,Efectivo
 0.0,celular,Efectivo
 2.0,megacable,Efectivo
@@ -68,11 +69,12 @@
 0.0,cabello,Efectivo
 0.0,dentista,Efectivo
 0.0,plan,Efectivo
-130.0,prestamo ma,Efectivo
+0.0,prestamo ma,Efectivo
 0.0,a credito,Efectivo
 1.0,vuelto pa,Efectivo
-980.5,a credito,credito
-94.5,mio,credito
+293.0,compras,Efectivo
+1501.5,a credito,credito
+20.0,chat,credito
 100.0,inversion,gbm
 11562.5,inversion,cetes
-622.25,vales,Pluxee
+1.25,vales,Pluxee

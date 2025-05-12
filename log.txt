@@ -1046,3 +1046,37 @@ Registrar gasto,240.3,Nu,,megacable,01-05-2025
 Registrar pago,846.0,Efectivo,casa,luz,01-05-2025
 Registrar pago,102.5,credito,a credito,didi tanatologia,01-05-2025
 Registrar pago,240.3,Nu,netflix,megacable,01-05-2025
+Registrar gasto,130.0,Efectivo,,prestamo ma,03-05-2025
+Registrar gasto,70.0,Efectivo,,prestamo ma,03-05-2025
+Registrar gasto,101.0,credito,,crema,03-05-2025
+Registrar pago,274.5,Efectivo,a credito,pizza,10-05-2025
+Registrar pago,200.0,Efectivo,a credito,recarga,10-05-2025
+Registrar pago,85.5,Efectivo,ahorro,okuma,10-05-2025
+Registrar gasto,170.0,credito,,nutrisa,03-05-2025
+Registrar gasto,100.0,Efectivo,,pintura,03-05-2025
+Registrar gasto,150.0,Efectivo,,bastidor,03-05-2025
+Registrar gasto,1255.0,credito,,compras ma,03-05-2025
+Registrar gasto,1000.0,Pluxee,,despensa,04-05-2025
+Registrar gasto,10.0,Efectivo,,baño,04-05-2025
+Registrar gasto,75.0,Efectivo,,gastos salida,04-05-2025
+Registrar gasto,275.0,credito,,mcdonalds,04-05-2025
+Registrar gasto,69.0,credito,,didi club,05-05-2025
+Registrar gasto,39.0,Nu,,chat,06-05-2025
+Registrar gasto,35.0,Efectivo,,lonche,05-05-2025
+Registrar gasto,124.0,credito,,pizza,05-05-2025
+Registrar gasto,45.0,Efectivo,,desayuno,07-05-2025
+Registrar gasto,100.0,Efectivo,,prestamo para ma,07-05-2025
+Registrar gasto,10.0,credito,,recarga,07-05-2025
+Registrar gasto,170.0,credito,,nieves,08-05-2025
+Registrar gasto,10.0,credito,,recarga,09-05-2025
+Registrar gasto,58.0,credito,,frappe,09-05-2025
+Registrar gasto,2520.0,Nu,,resonancia,10-05-2025
+Registrar gasto multicuenta (best fit),193.5,credito,a credito,rodillera,10-05-2025
+Registrar gasto multicuenta (best fit),6.5,credito,mio,rodillera,10-05-2025
+Registrar gasto,16.0,Efectivo,,pago hilario,05-05-2025
+Registrar gasto,35.0,Efectivo,,pago monse,09-05-2025
+Registrar gasto,890.0,Pluxee,,despensa,11-05-2025
+Registrar gasto,20.0,credito,,recarga,11-05-2025
+Registrar gasto,329.0,credito,,netflix,12-05-2025
+Registrar pago,101.0,credito,a credito,crema,12-05-2025
+Registrar pago,170.0,credito,a credito,nutrisa,12-05-2025
