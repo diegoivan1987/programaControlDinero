@@ -1,27 +1,25 @@
-3374.4,casa turbo,Nu
-10197.38,ahorro turbo,Nu
-874.21,ahorro,Nu
+4732.4,casa turbo,Nu
+16020.7,ahorro turbo,Nu
+878.0,ahorro,Nu
 0.0,mio turbo,Nu
-400.0,celular turbo,Nu
-395.0,megacable turbo,Nu
+0.0,celular turbo,Nu
+0.0,megacable turbo,Nu
 1999.7,avion turbo,Nu
-480.5,tanatologia turbo,Nu
-270.0,pintura turbo,Nu
-175.0,dragon turbo,Nu
-625.5,gym turbo,Nu
-164.5,netflix turbo,Nu
-286.0,nutricion turbo,Nu
-155.0,chat turbo,Nu
-164.5,cabello turbo,Nu
-339.82,dentista turbo,Nu
-175.0,plan turbo,Nu
-0.0,a credito turbo,Nu
+0.0,tanatologia turbo,Nu
+0.0,pintura turbo,Nu
+0.0,dragon turbo,Nu
+0.0,gym turbo,Nu
+0.0,netflix turbo,Nu
+0.0,nutricion turbo,Nu
+0.0,chat turbo,Nu
+0.0,cabello turbo,Nu
+398.0,dentista turbo,Nu
+0.0,plan turbo,Nu
+589.0,a credito turbo,Nu
 0.0,neurologa turbo,Nu
-30.5,prestamo ma turbo,Nu
-39.0,prestamo para camara turbo,Nu
-1113.97,platzi,Nu
+1120.0,platzi,Nu
 0.0,casa,BBVA
-0.0,ahorro,BBVA
+85.0,ahorro,BBVA
 0.0,mio,BBVA
 0.0,celular,BBVA
 0.0,megacable,BBVA
@@ -31,11 +29,10 @@
 0.0,gym,BBVA
 0.0,netflix,BBVA
 0.0,nutricion,BBVA
-2.0,chat,BBVA
+0.0,chat,BBVA
 0.0,cabello,BBVA
 0.0,dentista,BBVA
 0.0,plan,BBVA
-51.0,prestamo para camara,BBVA
 0.0,casa,Banamex
 0.0,ahorro,Banamex
 0.0,mio,Banamex
@@ -52,29 +49,27 @@
 0.0,dentista,Banamex
 0.0,plan,Banamex
 0.0,a credito,Banamex
-0.0,prestamo ma,Banamex
 0.0,neurologa,Banamex
-1920.0,casa,Efectivo
-518.5,ahorro,Efectivo
+585.0,casa,Efectivo
+126.5,ahorro,Efectivo
 0.0,mio,Efectivo
 0.0,celular,Efectivo
-2.0,megacable,Efectivo
-15.0,tanatologia,Efectivo
+0.0,megacable,Efectivo
+0.0,tanatologia,Efectivo
 0.0,pintura,Efectivo
 0.0,dragon,Efectivo
 0.0,gym,Efectivo
 0.0,netflix,Efectivo
-0.5,nutricion,Efectivo
+0.0,nutricion,Efectivo
 0.0,chat,Efectivo
 0.0,cabello,Efectivo
-0.0,dentista,Efectivo
+45.5,dentista,Efectivo
 0.0,plan,Efectivo
-0.0,prestamo ma,Efectivo
-0.0,a credito,Efectivo
-1.0,vuelto pa,Efectivo
-293.0,compras,Efectivo
-1501.5,a credito,credito
-20.0,chat,credito
+759.5,prestamo ma,Efectivo
+0.0,prestamo pa,Efectivo
+508.0,a credito,Efectivo
+0.0,a credito,credito
+0.0,gym,credito
 100.0,inversion,gbm
 11562.5,inversion,cetes
 1.25,vales,Pluxee

@@ -1080,3 +1080,52 @@ Registrar gasto,20.0,credito,,recarga,11-05-2025
 Registrar gasto,329.0,credito,,netflix,12-05-2025
 Registrar pago,101.0,credito,a credito,crema,12-05-2025
 Registrar pago,170.0,credito,a credito,nutrisa,12-05-2025
+Registrar gasto,75.0,credito,,didi imss,12-05-2025
+Registrar gasto,35.0,Efectivo,,lonche,13-05-2025
+Registrar pago,100.0,Efectivo,a credito,prestamo para ma,24-05-2025
+Registrar gasto,100.0,Efectivo,,cabello,15-05-2025
+Registrar gasto,130.0,credito,,desayuno,17-05-2025
+Registrar gasto,90.0,credito,,didi tanatologa,17-05-2025
+Registrar gasto,108.0,credito,,didi regreso,17-05-2025
+Registrar gasto,450.0,Efectivo,,tanatologia,17-05-2025
+Registrar gasto,390.0,Efectivo,,okuma,17-05-2025
+Registrar gasto,1000.0,Efectivo,,despensa,18-05-2025
+Registrar gasto,275.0,credito,,mcdonalds,19-05-2025
+Registrar gasto,77.0,credito,,didi nieves,22-05-2025
+Registrar gasto,438.0,credito,,celular,22-05-2025
+Registrar gasto,200.0,credito,,recarga,23-05-2025
+Registrar gasto multicuenta (best fit),250.0,Efectivo,compras,nutricion,23-05-2025
+Registrar gasto multicuenta (best fit),130.0,credito,a credito,pizza,24-05-2025
+Registrar gasto multicuenta (best fit),120.0,credito,chat,pizza,24-05-2025
+Registrar gasto,14.0,Efectivo,,coca,24-05-2025
+Registrar gasto,80.0,Efectivo,,pintura,24-05-2025
+Registrar gasto multicuenta (best fit),200.0,Efectivo,ahorro,camisa,25-05-2025
+Registrar gasto,80.0,Nu,,camisa,25-05-2025
+Registrar gasto,570.0,credito,,boletos,26-05-2025
+Registrar gasto,42.0,Efectivo,,tienda,28-05-2025
+Registrar gasto,232.0,credito,,didis,28-05-2025
+Registrar gasto,6.0,Efectivo,,coca,29-05-2025
+Registrar gasto,20.0,Efectivo,,tren,29-05-2025
+Registrar gasto,35.0,Efectivo,,papas mas,29-05-2025
+Registrar gasto,100.0,Efectivo,,didi,29-05-2025
+Registrar gasto,71.0,Efectivo,,compras sanmina,30-05-2025
+Registrar pago,390.0,Efectivo,casa,okuma,04-06-2025
+Registrar pago,200.0,Efectivo,a credito,recarga,04-06-2025
+Registrar pago,130.0,Efectivo,a credito,pizza,04-06-2025
+Registrar pago,120.0,Efectivo,chat,pizza,04-06-2025
+Registrar gasto,14.0,Efectivo,,coca,29-05-2025
+Registrar gasto,320.0,Efectivo,,okuma,29-05-2025
+Registrar gasto,100.0,Efectivo,,pintura,30-05-2025
+Registrar gasto,22.0,Efectivo,,pan,30-05-2025
+Registrar gasto,50.0,credito,,recarga leo,01-06-2025
+Registrar gasto multicuenta (best fit),6000.0,Nu,ahorro turbo,minisplit,01-06-2025
+Registrar gasto,100.0,credito,,recarga,02-06-2025
+Registrar gasto,214.0,credito,,desayuno,02-06-2025
+Registrar gasto multicuenta (best fit),253.0,credito,a credito,comida china,02-06-2025
+Registrar gasto multicuenta (best fit),97.0,credito,gym,comida china,02-06-2025
+Registrar gasto,13.0,Efectivo,,coca,03-06-2025
+Registrar gasto,42.0,Efectivo,,desayuno,03-06-2025
+Registrar gasto,500.0,Nu,,pago invex,04-06-2025
+Registrar gasto,12.0,Efectivo,,impresiones,04-06-2025
+Registrar gasto,790.0,Nu,,megacable,04-06-2025
+Registrar pago,42.0,Efectivo,compras,tienda,04-06-2025

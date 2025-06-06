@@ -1,1 +1,5 @@
-07-05-2025,ma,100.0,prestamo para ma,a credito,Efectivo,no,
+29-05-2025,ma,320.0,okuma,ahorro,Efectivo,no,
+01-06-2025,ma,50.0,recarga leo,a credito,Efectivo,no,
+02-06-2025,ma,253.0,comida china,a credito,Efectivo,no,
+02-06-2025,ma,97.0,comida china,ahorro,Efectivo,no,
+04-06-2025,ma,500.0,pago invex,ahorro,Efectivo,no,
