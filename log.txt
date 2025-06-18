@@ -1129,3 +1129,40 @@ Registrar gasto,500.0,Nu,,pago invex,04-06-2025
 Registrar gasto,12.0,Efectivo,,impresiones,04-06-2025
 Registrar gasto,790.0,Nu,,megacable,04-06-2025
 Registrar pago,42.0,Efectivo,compras,tienda,04-06-2025
+Registrar gasto,38.0,Nu,,chat,14-06-2025
+Registrar gasto,14.0,Efectivo,,coca,14-06-2025
+Registrar gasto multicuenta (best fit),759.5,Efectivo,prestamo ma,consulta oceguera,06-06-2025
+Registrar gasto multicuenta (best fit),240.5,Efectivo,a credito,consulta oceguera,06-06-2025
+Registrar gasto,69.0,credito,,didi club,14-06-2025
+Registrar gasto,1200.0,Nu,,despensa,08-06-2025
+Registrar gasto,30.0,Efectivo,,tienda,14-06-2025
+Registrar gasto,80.0,BBVA,,salida,14-06-2025
+Registrar gasto,2.0,credito,,chat,14-06-2025
+Registrar gasto,28.0,Efectivo,,pan,14-06-2025
+Registrar gasto,96.0,Nu,,chat,14-06-2025
+Registrar gasto,30.0,Efectivo,,tienda,17-06-2025
+Registrar gasto,120.0,Nu,,conversation club,17-06-2025
+Registrar gasto,13.0,Efectivo,,impresiones,17-06-2025
+Registrar gasto,30.0,Efectivo,,nieve,17-06-2025
+Registrar gasto,1159.0,credito,,cena,17-06-2025
+Registrar gasto,25.0,Efectivo,,pan,17-06-2025
+Registrar gasto,36.0,Efectivo,,tienda,17-06-2025
+Registrar gasto,308.0,credito,,steam,17-06-2025
+Registrar gasto,464.0,Nu,,chairez,17-06-2025
+Registrar gasto multicuenta (best fit),254.0,credito,mio,netflix,17-06-2025
+Registrar gasto multicuenta (best fit),75.0,credito,ahorro,netflix,17-06-2025
+Registrar gasto multicuenta (best fit),156.5,credito,ahorro,pizza,14-06-2025
+Registrar gasto multicuenta (best fit),100.0,credito,nutricion,pizza,14-06-2025
+Registrar gasto multicuenta (best fit),22.5,credito,a credito,pizza,14-06-2025
+Registrar gasto,71.0,credito,,didi tlaquepaque,14-06-2025
+Registrar gasto,300.0,credito,,recarga,15-06-2025
+Registrar gasto,116.0,Nu,,boleto,17-06-2025
+Registrar gasto multicuenta (best fit),111.5,credito,casa,jabon,17-06-2025
+Registrar gasto multicuenta (best fit),29.0,credito,ahorro,jabon,17-06-2025
+Registrar gasto multicuenta (best fit),19.5,credito,a credito,jabon,17-06-2025
+Registrar gasto multicuenta (best fit),611.5,Efectivo,ahorro,prestamo,15-06-2025
+Registrar gasto multicuenta (best fit),494.0,Efectivo,casa,prestamo,15-06-2025
+Registrar gasto multicuenta (best fit),94.5,Efectivo,a credito,prestamo,15-06-2025
+Registrar gasto,10.0,Efectivo,,cena,17-06-2025
+Registrar gasto,40.0,credito,,didi ims,16-06-2025
+Registrar gasto,150.0,Nu,,desayuno,17-06-2025
