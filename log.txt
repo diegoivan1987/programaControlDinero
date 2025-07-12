@@ -1166,3 +1166,75 @@ Registrar gasto multicuenta (best fit),94.5,Efectivo,a credito,prestamo,15-06-20
 Registrar gasto,10.0,Efectivo,,cena,17-06-2025
 Registrar gasto,40.0,credito,,didi ims,16-06-2025
 Registrar gasto,150.0,Nu,,desayuno,17-06-2025
+Registrar gasto,19.0,Efectivo,,pan,02-07-2025
+Registrar gasto,326.0,credito,,impermeables,19-06-2025
+Registrar gasto multicuenta (best fit),978.0,Efectivo,ahorro,despensa,22-06-2025
+Registrar gasto multicuenta (best fit),22.0,Efectivo,cabello,despensa,22-06-2025
+Registrar gasto,80.0,credito,,didi imss,23-06-2025
+Registrar gasto,1439.0,credito,,luz,02-07-2025
+Registrar gasto multicuenta (best fit),940.5,BBVA,ahorro,pago a credito,23-06-2025
+Registrar gasto multicuenta (best fit),715.5,BBVA,casa,pago a credito,23-06-2025
+Registrar gasto,150.0,credito,,comida,02-07-2025
+Registrar gasto,146.0,credito,,didi tanatologia,25-06-2025
+Registrar gasto,450.0,Efectivo,,tanatologia,25-06-2025
+Registrar gasto,35.0,Efectivo,,cuerda,02-07-2025
+Registrar gasto,24.0,Efectivo,,tienda,02-07-2025
+Registrar gasto multicuenta (best fit),765.0,Efectivo,a credito,musica,26-06-2025
+Registrar gasto multicuenta (best fit),31.5,BBVA,chat,chat,02-07-2025
+Registrar gasto multicuenta (best fit),6.5,BBVA,dentista,chat,02-07-2025
+Registrar gasto multicuenta (best fit),90.0,BBVA,ahorro,chat,02-07-2025
+Registrar gasto multicuenta (best fit),4.0,BBVA,dentista,chat,02-07-2025
+Registrar gasto,20.0,Efectivo,,galletas,02-07-2025
+Registrar gasto,42.0,Efectivo,,tienda,02-07-2025
+Registrar gasto,303.0,BBVA,,nieves,28-06-2025
+Registrar gasto,20.0,credito,,propina,02-07-2025
+Registrar gasto multicuenta (best fit),674.0,Efectivo,a credito,despensa,29-06-2025
+Registrar gasto multicuenta (best fit),208.0,Efectivo,nutricion,despensa,29-06-2025
+Registrar gasto multicuenta (best fit),118.0,Efectivo,tanatologia,despensa,29-06-2025
+Registrar gasto,115.0,BBVA,,regalo,29-06-2025
+Registrar gasto,35.0,credito,,didi imss,30-06-2025
+Registrar gasto,149.0,credito,,comida,30-06-2025
+Registrar gasto,50.0,Efectivo,,lonche,01-07-2025
+Registrar gasto,100.0,credito,,recarga,02-07-2025
+Registrar gasto,42.0,Efectivo,,tienda,02-07-2025
+Registrar gasto,50.0,Efectivo,,tienda,07-07-2025
+Registrar gasto,29.0,credito,,didi imss,07-07-2025
+Registrar gasto,10.0,Efectivo,,camion,07-07-2025
+Registrar gasto,100.0,Nu,,comida,07-07-2025
+Registrar gasto,170.0,credito,,comida,07-07-2025
+Registrar gasto,26.0,Efectivo,,pan,07-07-2025
+Registrar gasto,850.0,credito,,megacable,06-07-2025
+Registrar pago,326.0,Efectivo,a credito,impermeables,07-07-2025
+Registrar gasto,215.0,Efectivo,,comida,07-07-2025
+Registrar gasto,75.0,Efectivo,,mochi,07-07-2025
+Registrar gasto,20.0,Efectivo,,camion,07-07-2025
+Registrar gasto,31.5,Nu,,chat,07-07-2025
+Registrar gasto,5.5,Nu,,chat,07-07-205
+Registrar pago,80.0,credito,a credito,didi imss,07-07-2025
+Registrar pago,146.0,credito,a credito,didi tanatologia,07-07-2025
+Registrar pago,35.0,credito,a credito,didi imss,07-07-2025
+Registrar pago,13.0,credito,a credito,comida,07-07-2025
+Registrar gasto,542.0,credito,,pastel ok,06-07-2025
+Registrar gasto,17.0,credito,,propina,06-07-2025
+Registrar gasto,500.0,Efectivo,,doctor,07-07-2025
+Registrar gasto,50.0,Efectivo,,tren,07-07-2025
+Registrar gasto,132.5,BBVA,,cine,07-07-2025
+Registrar gasto,66.0,credito,,didi doc,07-07-2025
+Registrar pago,66.0,credito,a credito,didi doc,07-07-2025
+Registrar pago,170.0,credito,a credito,comida,07-07-2025
+Registrar pago,29.0,credito,a credito,didi imss,07-07-2025
+Registrar gasto,535.0,credito,,farmacia,12-07-2025
+Registrar gasto,75.0,credito,,shampoo perro,12-07-2025
+Registrar gasto,25.0,Efectivo,,licuado,12-07-2025
+Registrar gasto,50.0,credito,,didi hugo,12-07-2025
+Registrar gasto,110.0,Nu,,cine,12-07-2025
+Registrar gasto,94.0,Nu,,chat,12-07-2025
+Registrar gasto,69.0,credito,,didi clib,12-07-2025
+Registrar gasto,469.0,credito,,pizza,09-07-2025
+Registrar gasto,23.0,credito,,propina,09-07-2025
+Registrar gasto,200.0,credito,,recarga leo,09-07-2025
+Registrar gasto,108.0,credito,,didi hospital,10-07-2025
+Registrar gasto,590.0,Nu,,pago deuda uber,10-07-2025
+Registrar gasto,37.0,credito,,chat,12-07-2025
+Registrar gasto,329.0,credito,,NETFLIX,12-07-2025
+Registrar gasto,8000.0,BBVA,,prestamo,12-07-2025

@@ -1,11 +1,22 @@
-5569.8,casa turbo,Nu
-17475.5,ahorro turbo,Nu
+3356.0,ahorro turbo,Nu
+6650.8,casa turbo,Nu
+15.5,mio turbo,Nu
+202.5,megacable turbo,Nu
+684.0,tanatologia turbo,Nu
+120.0,pintura turbo,Nu
+0.0,netflix turbo,Nu
+250.0,nutricion turbo,Nu
+0.0,chat turbo,Nu
+122.0,cabello turbo,Nu
+86.0,dentista turbo,Nu
+50.0,plan turbo,Nu
+1136.0,platzi turbo,Nu
+274.0,vuelto ma turbo,Nu
 1999.7,avion turbo,Nu
-577.0,ahorro,Nu
-530.8,dentista en ahorro,Nu
-1120.0,platzi,Nu
-73.5,ahorro,Efectivo
-1700.0,a credito,credito
+561.0,vuelto pa en ahorro,Nu
+100.0, vuelto ma en ahorro,Nu
+8000.0,ahorro,BBVA
+2000.0,a credito,credito
 100.0,inversion,gbm
 11562.5,inversion,cetes
-272.0,vales,Pluxee
+200.0,vales,Pluxee
