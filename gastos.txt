@@ -4,4 +4,4 @@
 09-07-2025,ma,200.0,recarga leo,ahorro,Efectivo,no,
 10-07-2025,ma,108.0,didi hospital,ahorro,Efectivo,no,
 10-07-2025,ma,590.0,pago deuda uber,dentista,Efectivo,no,
-12-07-2025,pa,8000.0,prestamo,ahorro,BBVA,no,
+14-07-2025,ma,309.0,pizza,a credito,credito,no,

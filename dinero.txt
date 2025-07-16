@@ -16,7 +16,8 @@
 561.0,vuelto pa en ahorro,Nu
 100.0, vuelto ma en ahorro,Nu
 8000.0,ahorro,BBVA
-2000.0,a credito,credito
+8450.0,ahorro,Efectivo
+1691.0,a credito,credito
 100.0,inversion,gbm
 11562.5,inversion,cetes
 200.0,vales,Pluxee
